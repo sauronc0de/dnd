@@ -1,0 +1,250 @@
+{
+  "main": {
+    "id": "982ddf0235f1a9c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "7061b43d13bb3fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acfc8b4615faaf45",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-29 00.25.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-29 00.25.55.excalidraw"
+            }
+          },
+          {
+            "id": "35342bbcf72ed21e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Me/Tyrion Lannimen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tyrion Lannimen"
+            }
+          },
+          {
+            "id": "e9583a4e5bba35de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Me/Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
+            }
+          },
+          {
+            "id": "864a4c45fce7f740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Me/Stats.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stats"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4547249bfe85e33c",
+    "type": "split",
+    "children": [
+      {
+        "id": "75ac2e8350a7ab25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "933ec53ac77be4cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0b1bfe2fbdb2e2a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Entity/Player-Character",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7cfb60b9a85b5d04",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6df02c4fd1bc683",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae4609d8b4bd4a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d317198440e2975",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Me/Stats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Stats"
+            }
+          },
+          {
+            "id": "543101931011afcc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Me/Stats.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stats"
+            }
+          },
+          {
+            "id": "db61ed87327c2ea4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e5de52d7d0af04f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Me/Stats.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stats"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "864a4c45fce7f740",
+  "lastOpenFiles": [
+    "Characters/Me/GPT.md",
+    "Characters/Me/Dayly notes.md",
+    "Excalidraw/Drawing 2025-01-29 01.23.17.excalidraw.md",
+    "SGI_147.png",
+    "Characters/Me/I buc.md",
+    "images.jpg",
+    "Excalidraw/Drawing 2025-01-29 00.25.55.excalidraw.md",
+    "Characters/Me/Tyrion Lannimen.md",
+    "Characters/Me/Stats.md",
+    "Excalidraw/Untitled.md",
+    "Characters/Talon.md",
+    "Characters/Character X.md",
+    "Characters/Magnus the Eternal.md",
+    "Characters/Me",
+    "Hola.md",
+    "Characters",
+    "Excalidraw/Drawing 2025-01-28 23.54.15.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-28 23.58.42.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-29 00.01.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-28 23.56.49.excalidraw.md",
+    "shogun.png",
+    "reference/Elf.md",
+    "reference/spells/Word of Recall.md",
+    "Excalidraw",
+    "templates/Actions.md",
+    "templates/Trait.md",
+    "reference/spells/Ray of Frost.md",
+    "Dex.md",
+    "reference/spells/Zone of Truth.md",
+    "reference/spells/Wish.md",
+    "reference/spells/Wind Wall.md",
+    "reference/spells",
+    "reference/npcs",
+    "reference/monsters",
+    "reference/items",
+    "reference/creatures",
+    "reference",
+    "templates",
+    "Sense títol.canvas"
+  ]
+}

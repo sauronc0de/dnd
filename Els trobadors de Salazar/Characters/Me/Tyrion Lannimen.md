@@ -1,6 +1,23 @@
 ---
-
-alias: Magnus the Eternal tags: Entity/Player-Character, Multiverse/D&D cssclass: hcl, table, t-c, readable
+aliases:
+  - Magnus the Eternal
+tags:
+  - Entity/Player-Character
+  - Multiverse/D&D
+cssclasses:
+  - hcl
+  - table
+  - t-c
+  - readable
+stats_list: STR, DEX, CON, INT, WIS, CHA
+STR: 8
+DEX: 14
+CON: 14
+INT: 20
+WIS: 12
+CHA: 10
+proficiency: "4"
+---
 
 ## hp: 54 ac: 15 modifier: +2
 
@@ -12,7 +29,8 @@ alias: Magnus the Eternal tags: Entity/Player-Character, Multiverse/D&D cssclass
 
 ![[|locl+hs-med]] [Magnus' Portrait](https://chatgpt.com/c/6799697b-2874-8005-917e-6753b644905c#)
 
-|| ----|:---:| **Class** | Wizard (Evocation) 9  
+|| ----|:---:| 
+**Class** | Wizard (Evocation) 9  
 **Level** | 9  
 **Race** | Variant Human  
 **Alignment** | Neutral  
@@ -40,10 +58,10 @@ alias: Magnus the Eternal tags: Entity/Player-Character, Multiverse/D&D cssclass
 
 ### Abilities
 
-|STR|DEX|CON|INT|WIS|CHA||
+|`=this.stats_list[0]|DEX|CON|INT|WIS|CHA||
 |:-:|:-:|:-:|:-:|:-:|:-:|---|
-|8|14|14|20|12|10|**Stats**|
-|-1|+2|+2|+5|+1|+0|**Modifier**|
+|`=this.STR`|`=this.DEX`|`=this.CON`|`=this.INT`|`=this.WIS`|`=this.CHA`|**Stats**|
+|`=(this.STR - 10)/2`|+`=(this.DEX - 10)/2`|+`=(this.CON - 10)/2`|+`=(this.INT - 10)/2`|+`=(this.WIS - 10)/2`|+`=(this.CHA - 10)/2`|**Modifier**|
 |-1|+2|+2|+8|+4|+0|**Saving Throw**|
 
 ### Skills
@@ -67,7 +85,7 @@ alias: Magnus the Eternal tags: Entity/Player-Character, Multiverse/D&D cssclass
 
 ## Proficiencies
 
-- Saving Throws: Intelligence (+8), Wisdom (+4)
+- Saving Throws: Intelligence (+8), Wisdom (+`=this.pro`)
 - Skills: Arcana, History, Investigation, Insight
 - Weapons: Quarterstaff (rarely used)
 - Tools: None (focus on spellcasting)

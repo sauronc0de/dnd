@@ -36,7 +36,7 @@ If you use a weapon that has the ammunition property to make a melee attack, you
 
 ***Two-Handed***. This weapon requires two hands when you attack with it.
 
-***Versatile***. This weapon can be used with one or two hands. A damage value in parentheses appears with the property-the damage when the weapon is used with two hands to make a melee attack.
+***Versatile***. This weapon can be used with one or two hands. A damage value in parentheses appears with the property-the damage when the weapon is used with two hands to make a melee attack. ^b00cef
 
 ### Improvised Weapons
 
@@ -106,4 +106,6 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 | Longbow                    | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
 | Net                        | 1 gp  | -               | 3 lb.   | Special, thrown (range 5/15)                           |
 |                            |       |                 |         |                                                        |
+
+^74c6ad
 

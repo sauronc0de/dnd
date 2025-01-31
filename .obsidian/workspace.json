@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8c67b49eb94df03f",
+        "id": "2feda19e3e04b868",
         "type": "tabs",
         "children": [
           {
-            "id": "bf9e706a9349490b",
+            "id": "0409d94bed7cc4c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Els trobadors de Salazar/Characters/Me/Timmy Lannethorn.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(Finesse)",
+                "query": "book of lore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,6 +173,16 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "1a1a01ab935507d3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 3
@@ -195,11 +205,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bf9e706a9349490b",
+  "active": "0409d94bed7cc4c8",
   "lastOpenFiles": [
-    "Els trobadors de Salazar/Characters/Me/GPT.md",
+    "Excalidraw/Match_canvas.md",
+    "Images/Scroll.png",
+    "Images/Spellbook.png",
+    "Excalidraw/Roll_canvas.md",
     "Els trobadors de Salazar/Characters/Me/Timmy Lannethorn.md",
+    "Halfing.md",
+    "Untitled.md",
     "Images/Tyrion_Avatar.png",
+    "Excalidraw",
+    "Els trobadors de Salazar/Excalidraw/Drawing 2025-01-29 01.23.17.excalidraw.md",
+    "Els trobadors de Salazar/Excalidraw/Drawing 2025-01-29 00.25.55.excalidraw.md",
+    "Els trobadors de Salazar/Characters/Me/Backpack.md",
+    "Els trobadors de Salazar/Characters/Me/Spellbook.md",
+    "Els trobadors de Salazar/Characters/Me/Journal notes.md",
+    "Els trobadors de Salazar/Characters/Me/GPT.md",
+    "Els trobadors de Salazar/reference/spells/Mage Armor.md",
+    "Els trobadors de Salazar/reference/Adventuring Gear.md",
+    "Els trobadors de Salazar/reference/Halfling.md",
+    "Els trobadors de Salazar/templates/Actions.md",
+    "Els trobadors de Salazar/Characters/Me/Stats.md",
+    "Els trobadors de Salazar/templates/Trait.md",
+    "Els trobadors de Salazar/reference/Feats.md",
+    "Els trobadors de Salazar/reference/Backgrounds.md",
     "Images/Tyrion_Avatar_Little.png",
     "Els trobadors de Salazar/reference/items/Non_magical/Weapons/Quarterstaff.md",
     "Els trobadors de Salazar/reference/items/Non_magical/Weapons/Dagger.md",
@@ -207,9 +237,6 @@
     "Els trobadors de Salazar/reference/Warlock.md",
     "Els trobadors de Salazar/reference/Untitled.md",
     "Els trobadors de Salazar/reference/Conditions.md",
-    "Els trobadors de Salazar/reference/spells/Shield.md",
-    "Els trobadors de Salazar/Characters/Me/Stats.md",
-    "Els trobadors de Salazar/Characters/Team/XXYY.md",
     "Images/XXYY.png",
     "Els trobadors de Salazar/Characters/NPCs",
     "Els trobadors de Salazar/Characters/Team",
@@ -218,16 +245,8 @@
     "Els trobadors de Salazar/reference/items/Simple/Weapons/Untitled",
     "Els trobadors de Salazar/reference/items/Non_magical/Weapons",
     "Els trobadors de Salazar/reference/items/Non_magical",
-    "Els trobadors de Salazar/reference/items/Adamantine Armor.md",
-    "Staff.md",
-    "Els trobadors de Salazar/reference/Halfling.md",
-    "Images/Tyrion_Avatar.md",
     "Images",
-    "Els trobadors de Salazar/Characters/Me/Spellbook.md",
-    "Els trobadors de Salazar/Characters/Me/Dayly notes.md",
     "Els trobadors de Salazar/Characters/Team",
-    "Els trobadors de Salazar/Characters/NPC",
-    "Els trobadors de Salazar/Characters/NPC.md",
-    "Els trobadors de Salazar/Excalidraw/Drawing 2025-01-29 01.23.17.excalidraw.md"
+    "Els trobadors de Salazar/Characters/NPC"
   ]
 }

@@ -26,6 +26,8 @@
     "Weight": "number",
     "Skills": "multitext",
     "SavingThrows": "multitext",
-    "proficiency": "number"
+    "proficiency": "number",
+    "Level": "number",
+    "MageArmor": "checkbox"
   }
 }

@@ -29,10 +29,20 @@ Skills:
 SavingThrows:
   - INT
   - WIS
+currentHp: 54
+Level: 9
+MageArmor: true
+TemporaryHp: 0
+NumHitDice: 9
+Hp: 54
+exampleProperty:
+  - asd
+  - banana
+  - lemon
 ---
 # Timmy Lannethorn
 
-> (Description:: **`=this.Character_name`** és el fill més jove de Lord Tiberian Lannethorn i el germà petit de Celeste i Joran Lannethorn. Com a [[Halfling]], confia en la seva intel·ligència aguda i en el seu domini de la màgia per superar els reptes tant de la intriga cortesana com de l'estudi arcà. Sovint subestimat per la seva estatura, Tyrian ha perfeccionat el seu enginy i les seves habilitats màgiques per burlar els adversaris i desafiar les expectatives.)
+> (Description:: **`=this.Character_name`** és el fill més jove de Lord Tiberian Lannethorn i el germà petit de Celeste i Joran Lannethorn. Com a [[Halfling#Stout|Halfling]], confia en la seva intel·ligència aguda i en el seu domini de la màgia per superar els reptes tant de la intriga cortesana com de l'estudi arcà. Sovint subestimat per la seva estatura, Tyrian ha perfeccionat el seu enginy i les seves habilitats màgiques per burlar els adversaris i desafiar les expectatives.)
 
 --- start-multi-column: CharacterIntro  
 
@@ -51,22 +61,22 @@ Alignment: [Left, Center]
 
 --- end-column ---
 
-| **Attribute**  | **Value**          |
-| -------------- | ------------------ |
-| **Class**      | Wizard (Evocation) |
-| **Level**      | 9                  |
-| **Race**       | [[Halfing]]        |
-| **Alignment**  | Neutral            |
-| **Background** | Sage               |
+| **Attribute**  | **Value**                               |
+| -------------- | --------------------------------------- |
+| **Class**      | Wizard (Evocation)                      |
+| **Level**      | 9                                       |
+| **Race**       | [[Halfling]][[Halfling#Stout\|(Stout)]] |
+| **Alignment**  | Neutral                                 |
+| **Background** | Sage                                    |
 
 --- end-multi-column
 
 
 # Stats
 
-|HP|AC|Speed|Initiative|
-|:-:|:-:|:-:|:-:|
-|54|15|30 ft|+2|
+|                           HP                           |                             AC                              | Speed | Initiative |
+| :----------------------------------------------------: | :---------------------------------------------------------: | :---: | :--------: |
+| `$=((dv.current().CON-10)/2 + 4) * dv.current().Level` | `$=(dv.current().MageArmor ? "15 ([[Mage Armor]])" : "13")` | 25 ft |     +2     |
 
 |Hit Dice|Proficiency Bonus|Temp HP|
 |:-:|:-:|:-:|
@@ -85,8 +95,9 @@ Alignment: [Left, Center]
 |STR|DEX|CON|INT|WIS|CHA||
 |:-:|:-:|:-:|:-:|:-:|:-:|---|
 |`=this.STR`|`=this.DEX`|`=this.CON`|`=this.INT`|`=this.WIS`|`=this.CHA`|**Stats**|
-|`$=((dv.current().STR - 10)/2 > -1 ? "+" : "") + (dv.current().STR - 10)/2`|`$=((dv.current().DEX - 10)/2 > -1 ? "+" : "") + (dv.current().DEX - 10)/2`|+`=(this.CON - 10)/2`|+`=(this.INT - 10)/2`|+`=(this.WIS - 10)/2`|+`=(this.CHA - 10)/2`|**Modifier**|
-|-1|+2|+2|+8|+4|+0|**Saving Throw**|
+|`$=((dv.current().STR - 10)/2 > -1 ? "+" : "") + (dv.current().STR - 10)/2`|`$=((dv.current().DEX - 10)/2 > -1 ? "+" : "") + (dv.current().DEX - 10)/2`|`$=((dv.current().CON - 10)/2 > -1 ? "+" : "") + (dv.current().CON - 10)/2`|`$=((dv.current().INT - 10)/2 > -1 ? "+" : "") + (dv.current().INT - 10)/2`|`$=((dv.current().WIS - 10)/2 > -1 ? "+" : "") + (dv.current().WIS - 10)/2`|`$=((dv.current().CHA - 10)/2 > -1 ? "+" : "") + (dv.current().CHA - 10)/2`|**Modifier**|
+|`$=((dv.current().STR - 10)/2 > -1 ? "+" : "") + ((dv.current().STR - 10)/2 + (dv.current().SavingThrows.includes("STR") ? dv.current().proficiency : 0))`|`$=((dv.current().DEX - 10)/2 > -1 ? "+" : "") + ((dv.current().DEX - 10)/2 + (dv.current().SavingThrows.includes("DEX") ? dv.current().proficiency : 0))`|`$=((dv.current().CON - 10)/2 > -1 ? "+" : "") + ((dv.current().CON - 10)/2 + (dv.current().SavingThrows.includes("CON") ? dv.current().proficiency : 0))`|`$=((dv.current().INT - 10)/2 > -1 ? "+" : "") + ((dv.current().INT - 10)/2 + (dv.current().SavingThrows.includes("INT") ? dv.current().proficiency : 0))`|`$=((dv.current().WIS - 10)/2 > -1 ? "+" : "") + ((dv.current().WIS - 10)/2 + (dv.current().SavingThrows.includes("WIS") ? dv.current().proficiency : 0))`|`$=((dv.current().CHA - 10)/2 > -1 ? "+" : "") + ((dv.current().CHA - 10)/2 + (dv.current().SavingThrows.includes("CHA") ? dv.current().proficiency : 0))`|**Saving Throw**|
+
 
 ### Skills
 
@@ -114,7 +125,6 @@ Alignment: [Left, Center]
 # Traits
 
 - **Arcane Recovery**: Recover up to 5 spell levels during a short rest.
-- 
 - **Sculpt Spells**: Allies auto-succeed on saving throws for Evocation spells.
 - **Potent Cantrip**: Enemies take half damage even if they save.
 - **War Caster**: Advantage on CON saves to maintain concentration; can cast spells as opportunity attacks.
@@ -122,16 +132,17 @@ Alignment: [Left, Center]
 
 ## Proficiencies
 
-- Saving Throws: Intelligence (+8), Wisdom (+`=this.pro`)
-- Skills: Arcana, History, Investigation, Insight
-- Weapons: Quarterstaff (rarely used)
-- Tools: None (focus on spellcasting)
+- Drink alchol
+- Armor: none
+- Weapons: daggers, darts, slings, quarterstaffs, light crossbows
+- Tools: none
 
 ## Languages
 
 - Common
 - Draconic
 - Elvish
+- Halfling
 
 # Actions
 
@@ -154,15 +165,15 @@ actions: []
 
 ## Spells
 
-| Level | Spell Slots |                 Prepared Spells                  |
-| :---: | :---------: | :----------------------------------------------: |
-|   1   |      4      | Shield, Mage Armor, Magic Missile, Detect Magic  |
-|   2   |      3      | Misty Step, Mirror Image, Scorching Ray, Shatter |
-|   3   |      3      |       Fireball, Counterspell, Dispel Magic       |
-|   4   |      3      |         Greater Invisibility, Polymorph          |
-|   5   |      1      |           Wall of Force, Cone of Cold            |
+| Level | Spell Slots |                         Prepared Spells                          |
+| :---: | :---------: | :--------------------------------------------------------------: |
+|   1   |      4      | [[Shield]], [[Mage Armor]], [[Magic Missile]], [[Detect Magic]]  |
+|   2   |      3      | [[Misty Step]], [[Mirror Image]], [[Scorching Ray]], [[Shatter]] |
+|   3   |      3      |         [[Fireball]], [[Counterspell]], [[Dispel Magic]]         |
+|   4   |      3      |             [[Greater Invisibility]], [[Polymorph]]              |
+|   5   |      1      |               [[Wall of Force]], [[Cone of Cold]]                |
 
-Cantrips: Fire Bolt, Ray of Frost, Minor Illusion, Prestidigitation, Mage Hand
+Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitation]], [[Mage Hand]]
 
 # Equipment
 
@@ -170,23 +181,35 @@ Cantrips: Fire Bolt, Ray of Frost, Minor Illusion, Prestidigitation, Mage Hand
 |:-:|:-:|:-:|:-:|:-:|
 |0|0|0|100|5|
 
-- **Weapons**: [[Dagger]] and [[Quarterstaff]]
-- **Armor**: [[Mage Armor]]
-- **Magic Items**:
-    - [[Cloak of Protection]]
-    - [[Staff of Fire]] 
-    - [[Ring of Spell Storing]]
-
-## Loot and resources
-
-- Rope:
-
+- Weapons 
+	- [[Dagger]] 
+	- [[Quarterstaff]]
+- [[Spellbook|I-buc📖]] 
+- Arcane focus 📿
+- Component pouch
+- [[Backpack]] 
+- [[Cloak of Protection]]
+- [[Staff of Fire]] 
+- [[Ring of Spell Storing]]
+- Armor: None
+ 
 # Personality
 
 - Respecta pels marginats
 - Pacifista
 - **Trastorn evasiu** degut al seu passat. Culpat per la mort de la seva mare i el rebuig que rep pels demés. Sovint detonant en alchol i sexe
+- Sap aconseguir l'ajuda dels altres intentant ajuntar els objectius dels demés i propis
 
+## Phrases
+- _La ment necessita llibres com l'espasa necessita una pedra d'esmolar si vol mantenir la seva agudesa_
+- _Si deixes que s'adonin que les seves paraules et fan mal, mai t'alliberaràs de les burles. Si et posen un malnom, recull-lo i transforma'l en el teu nom_
+- _La mort és tan... definitiva, Mentre que la vida és plena de possibilitats_
+- _No és fàcil estar borratxo tot el temps. Si no tots ho farien_
+- _És difícil posar una corretja a un gos una vegada que li has posat una corretja al cap_
+- _No es tracta de què fem, sinó de perquè ho fem_
+- _No se'm dóna particularment bé la violència, però sóc bo a convèncer altres perquè siguin violents per mi_
+- _Tot és millor amb una mica de vi a la panxa_
+- _Gairebé tots els homes prefereixen negar la veritat abans que enfrontar-s'hi_
 # Strategy
 
 - Control the battlefield with **Wall of Force** and **Counterspell**.
@@ -212,61 +235,48 @@ Ara, Tyrian viatja pel món, buscant més coneixements arcans, utilitzant la sev
 
 
 ## Current Stats
-- **HP**: [Curresnt HP] / [Max HP]
-- **Temporary Hit Points**: [Temp HP]
-- **Hit Dice**: [Hit Dice Remaining]
-- **AC**: [Armor s]
-- **Initiative**: [Initiative Modifier]
 
-## Spell Slots
+```meta-bind
+INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
+```
+
+
+- **HP**: `INPUT[number:currentHp]` / `$=((dv.current().CON-10)/2 + 4) * dv.current().Level`
+- **Temporary Hit Points**: `INPUT[number:TemporaryHp]`
+- **Hit Dice**:  `INPUT[number:NumHitDice]`/`=this.Level` (1d6)
+- **AC**: `$=(dv.current().MageArmor ? "15 ([[Mage Armor]])" : "13")`
+- **Initiative**: +`$=(dv.current().DEX-10)/2`
+
+## [[Spellbook|Spells]] Slots
 ### Level 1
-- [x] **Slot 1 Available**
-- [x] **Slot 2 Available**
-- [x] **Slot 3 Available**
+- [ ] **Slot 1 Available**
+- [ ] **Slot 2 Available**
+- [ ] **Slot 3 Available**
+- [ ] **Slot 4 Available**
 ### Level 2
 - [ ] **Slot 1 Available**
-- [x] **Slot 2 Available**
+- [ ] **Slot 2 Available**
+- [ ] **Slot 3 Available**
 ### Level 3
 - [ ] **Slot 1 Available**
+- [ ] **Slot 2 Available**
+- [ ] **Slot 3 Available**
 ### Level 4
-- [x] **Slot 1 Available**
+- [ ] **Slot 1 Available**
+- [ ] **Slot 2 Available**
+- [ ] **Slot 3 Available**
 ### Level 5
 - [ ] **Slot 1 Available**
 
 
 ## Conditions
-- [ ] Exhaust 
+`INPUT[toggle:MageArmor]` Mage Armor
+- [ ] **Exhaust** 
 - [ ] **Poisoned**
 - [ ] **Stunned**
 - [ ] **Blinded**
 - [ ] **Paralyzed**
 - [ ] **Other**: [Other Conditions]
 
-## Spellbook (Current Available Spells)
-### Level 1
-
-- [ ] [[Mage Armor]]
-- [ ] [[Magic Missile]]
-- [ ] [[Detect Magic]]
-
-### Level 2
-- [ ] [[Misty Step]]
-- [ ] [[Mirror Image]]
-- [ ] [[Scorching Ray]]
-- [ ] [[Shatter]]
-
-### Level 3
-- [ ] [[Fireball]]
-- [ ] [[Counterspell]]
-- [ ] [[Dispel Magic]]
-
-### Level 4
-- [ ] [[Greater Invisibility]]
-- [ ] [[Polymorph]]
-
-### Level 5
-- [ ] [[Wall of Force]]
-- [ ] [[Cone of Cold]]
-
 ## Notes
-- [Any additional details such as injuries, effects from previous turns, or environment-specific notes]
+

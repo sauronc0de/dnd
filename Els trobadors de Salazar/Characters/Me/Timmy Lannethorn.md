@@ -14,7 +14,7 @@ DEX: 14
 CON: 14
 INT: 20
 WIS: 12
-CHA: 10
+CHA: 12
 proficiency: 4
 Creator: Sergi Verdaguer
 Universe: Forgotten Realms
@@ -35,14 +35,10 @@ MageArmor: true
 TemporaryHp: 0
 NumHitDice: 9
 Hp: 54
-exampleProperty:
-  - asd
-  - banana
-  - lemon
 ---
 # Timmy Lannethorn
 
-> (Description:: **`=this.Character_name`** és el fill més jove de Lord Tiberian Lannethorn i el germà petit de Celeste i Joran Lannethorn. Com a [[Halfling#Stout|Halfling]], confia en la seva intel·ligència aguda i en el seu domini de la màgia per superar els reptes tant de la intriga cortesana com de l'estudi arcà. Sovint subestimat per la seva estatura, Tyrian ha perfeccionat el seu enginy i les seves habilitats màgiques per burlar els adversaris i desafiar les expectatives.)
+> (Description:: **`=this.Character_name`** és el fill més jove de Lord Tiberian Lannethorn i el germà petit de Celeste i Joran Lannethorn. Com a [[Halfling#Stout|Halfling]], confia en la seva intel·ligència aguda i en el seu domini de la màgia per superar els reptes tant de la intriga cortesana com de l'estudi arcà. Sovint subestimat per la seva estatura, Timmy ha perfeccionat el seu enginy i les seves habilitats màgiques per burlar els adversaris i desafiar les expectatives.)
 
 --- start-multi-column: CharacterIntro  
 
@@ -61,13 +57,13 @@ Alignment: [Left, Center]
 
 --- end-column ---
 
-| **Attribute**  | **Value**                               |
-| -------------- | --------------------------------------- |
-| **Class**      | Wizard (Evocation)                      |
-| **Level**      | 9                                       |
-| **Race**       | [[Halfling]][[Halfling#Stout\|(Stout)]] |
-| **Alignment**  | Neutral                                 |
-| **Background** | Sage                                    |
+| **Attribute**  | **Value**                             |
+| -------------- | ------------------------------------- |
+| **Class**      | Wizard (War magic)                    |
+| **Level**      | 9                                     |
+| **Race**       | [[Gnome]][[Gnome#Rock Gnome\|(Rock)]] |
+| **Alignment**  | Neutral                               |
+| **Background** | Sage                                  |
 
 --- end-multi-column
 
@@ -124,11 +120,29 @@ Alignment: [Left, Center]
 
 # Traits
 
-- **Arcane Recovery**: Recover up to 5 spell levels during a short rest.
-- **Sculpt Spells**: Allies auto-succeed on saving throws for Evocation spells.
-- **Potent Cantrip**: Enemies take half damage even if they save.
-- **War Caster**: Advantage on CON saves to maintain concentration; can cast spells as opportunity attacks.
-- **Elemental Adept (Fire)**: Spells ignore fire resistance; 1s on fire damage rolls become 2s.
+## Gnome
+- **Age**: Gnomes mature at the same rate [humans](https://roll20.net/compendium/dnd5e/Human?expansion=34047#content) do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.
+- **Alignment**: Gnomes are most often [good](https://roll20.net/compendium/dnd5e/Rules:Character%20Advancement?expansion=34047#toc_14). Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.
+- **Size**: Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.
+- **Darkvision**: Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in [dim light](https://roll20.net/compendium/dnd5e/Rules:The%20Environment?expansion=34047#toc_3) within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+- **Gnome Cunning**: You have [advantage](https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2) on all Intelligence, Wisdom, and Charisma saving throws against magic.
+## Rock
+ - **Artificer's Lore.** Whenever you make an Intelligence (History) check related to magical, alchemical, or technological items, you can add twice your proficiency bonus instead of any other proficiency bonus that may apply.
+- **Tinker.** You have proficiency with artisan tools (tinker's tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. When you create a device, choose one of the following options:
+    - _**Clockwork Toy.**_ This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.
+    - _**Fire Starter.**_ The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.
+    - _**Music Box.**_ When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
+    - At your DM's discretion, you may make other objects with effects similar in power to these. The [Prestidigitation](https://dnd5e.wikidot.com/spell:prestidigitation) cantrip is a good baseline for such effects.
+    - 
+## Wizard
+- **Spellcasting Ability**: Intelligence is your spellcasting ability for your wizard spells, since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+- **Ritual Casting**: You can cast a wizard spell as a ritual if that spell has the ritual tag and you have the spell in your spellbook. You don’t need to have the spell prepared.
+- **Arcane Recovery**: You have learned to regain some of your magical energy by studying your spellbook. Once per day when you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your wizard level (rounded up), and none of the slots can be 6th level or higher. For example, if you’re a 4th-level wizard, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
+## War magic
+
+- **Arcane Deflection**: At 2nd level, you have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw.
+- **Tactical Wit**: Starting at 2nd level, your keen ability to assess tactical situations allows you to act quickly in battle. You can give yourself a bonus to your initiative rolls equal to your Intelligence modifier.
+- **Power Surge**: Starting at 6th level, you can store magical energy within yourself to later empower your damaging spells. You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with [Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic) or [Counterspell](http://dnd5e.wikidot.com/spell:counterspell), you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge. Once per turn when you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal extra force damage to that target. The extra damage equals half your wizard level. When you use this feature, you can't cast spells other than cantrips until the end of your next turn.
 
 ## Proficiencies
 
@@ -142,7 +156,7 @@ Alignment: [Left, Center]
 - Common
 - Draconic
 - Elvish
-- Halfling
+- Gnomish
 
 # Actions
 
@@ -160,10 +174,14 @@ actions: []
 
 ```
 
-- **Attack**: Quarterstaff (only if necessary, +1 to hit, 1d6 bludgeoning damage)
-- **Cast Spells**: Offensive and defensive utility (see Spell List)
+- **Cantrips**: 
+	- [[Mage Hand]]
+	- [[Shape Water]]
+	- [[Fire Bolt]]
+	- [[Minor Illusion]]
 
 ## Spells
+- **Spell save DC** 15 (+7) 
 
 | Level | Spell Slots |                         Prepared Spells                          |
 | :---: | :---------: | :--------------------------------------------------------------: |

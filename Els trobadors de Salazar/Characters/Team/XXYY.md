@@ -5,10 +5,10 @@
 
 ![[\|locl+hs-med](Images/XXYY.png)
 
-| **Attribute**  | **Value**      |
-| -------------- | -------------- |
-| **Class**      | Cleric (Light) |
-| **Level**      | 9              |
-| **Race**       | [[Human]]      |
-| **Alignment**  | Neutral        |
-| **Background** | ???            |
+| **Attribute**  | **Value**    |
+| -------------- | ------------ |
+| **Class**      | Cleric (War) |
+| **Level**      | 9            |
+| **Race**       | [[Human]]    |
+| **Alignment**  | Neutral      |
+| **Background** | Vells amics  |

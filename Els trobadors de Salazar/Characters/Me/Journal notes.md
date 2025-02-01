@@ -1,7 +1,23 @@
 # Journal notes
 ## Chapter 0
 
-> (Description:: Afegir aquí el resum d'en Marc Josep...)
+> El vent udolava entre les muntanyes de gel, i la neu els colpejava la pell com vidres esmolats. La nit estava a punt de caure, però el camí s'havia tornat massa traïdor per continuar. El clergue i el mag, embolicats en pells gruixudes, van trobar refugi sota una petita cornisa de roca, on van encendre un foc vacil·lant per combatre el fred implacable.
+> A baix, a la vall coberta de glaç, la boira s’espessia de manera estranya. No era la típica boira freda de les terres del nord, sinó una cosa més densa, més humida… amb una lleugera tonalitat groguenca, com si estigués malalta. Feia olor de terra podrida, de fusta corcada, d’aigua estancada plena de vida decadent.
+No m’agrada això… —va murmurar el mag, mirant com la boira s’arrossegava muntanya amunt, amb una lentitud antinatural.
+El clergue va estrènyer els punys. Va recitar una pregària, intentant sentir la presència de la seva divinitat, però només va rebre un silenci profund, com si alguna cosa entre ell i el cel s’hagués interposat.
+Llavors la boira va arribar.
+No els va envoltar, sinó que els va engolir. Es va ficar per sota la roba, pels forats de les botes, pels colls de les capes. Els omplia els pulmons amb una humitat enganxosa que feia impossible respirar. Els seus ulls es van tornar pesants, i una sensació estranya els va recórrer el cos: una gana profunda, insondable, una set que no tenia res a veure amb l’aigua.
+La terra va desaparèixer sota els seus peus.
+Van caure.
+Van caure...
+I llavors, es van despertar.
+La boira encara els envoltava, però ara era fosca, gairebé negra. La fredor de la neu havia desaparegut, substituïda per una humitat insuportable. Quan es van incorporar, la terra sota ells era fangosa, i el cel... el cel estava cobert d’unes núvols opacs i moribunds.
+Van mirar al voltant.
+Les seves robes gruixudes estaven destrossades, com si una mà invisible les hagués esquinçat mentre dormien. Però pitjor encara: les seves possessions havien desaparegut. Els llibres de màgia, les relíquies religioses, les armes forjades amb sang i suor... tot havia estat pres. Només quedaven els objectes més essencials: robes simples, un bastó, una bossa amb algunes monedes i prou provisions per un dia.
+El vent va portar amb ell un murmuri, un xiuxiueig gutural que no es podia distingir, però que ressonava dins dels seus cranis com un record antic.
+Els seus ulls es van trobar.
+No sabien on eren.
+Però sabien que ja no pertanyien al seu món.
 
 ## Chapter 1
 

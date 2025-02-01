@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Els trobadors de Salazar/Characters/Me/Spellbook.md",
+                "file": "Els trobadors de Salazar/Characters/Me/Journal notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spellbook"
+              "title": "Journal notes"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Els trobadors de Salazar/Characters/Me/Spellbook.md",
+                "file": "Els trobadors de Salazar/Characters/Me/Journal notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spellbook"
+              "title": "Outline of Journal notes"
             }
           },
           {
@@ -207,9 +207,9 @@
   },
   "active": "64fb31d5e018a074",
   "lastOpenFiles": [
+    "Els trobadors de Salazar/Characters/Me/Spellbook.md",
     "Els trobadors de Salazar/Characters/Me/Journal notes.md",
     "Els trobadors de Salazar/Characters/Me/Timmy Lannethorn.md",
-    "Els trobadors de Salazar/Characters/Me/Spellbook.md",
     "Images/Tyrion_Avatar.png",
     "Els trobadors de Salazar/reference/Weapons.md",
     "Els trobadors de Salazar/Characters/NPC/Logan.md",

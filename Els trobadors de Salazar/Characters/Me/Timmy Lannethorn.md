@@ -38,7 +38,7 @@ Hp: 54
 ---
 # Timmy Lannethorn
 
-> (Description:: **`=this.Character_name`** és el fill més jove de Lord Tiberian Lannethorn i el germà petit de Celeste i Joran Lannethorn. Com a [[Halfling#Stout|Halfling]], confia en la seva intel·ligència aguda i en el seu domini de la màgia per superar els reptes tant de la intriga cortesana com de l'estudi arcà. Sovint subestimat per la seva estatura, Timmy ha perfeccionat el seu enginy i les seves habilitats màgiques per burlar els adversaris i desafiar les expectatives.)
+> (Description:: **`=this.Character_name`** és el fill més jove de Lord Tiberian Lannethorn i el germà petit de Celeste i Joran Lannethorn. Com a [[Gnome]], confia en la seva intel·ligència aguda i en el seu domini de la màgia per superar els reptes tant de la intriga cortesana com de l'estudi arcà. Sovint subestimat per la seva estatura, Timmy ha perfeccionat el seu enginy i les seves habilitats màgiques per burlar els adversaris i desafiar les expectatives.)
 
 --- start-multi-column: CharacterIntro  
 
@@ -173,7 +173,8 @@ hidden: false
 actions: []
 
 ```
-
+- **Weapons**: 
+	- [[Dagger]]: 1d4 + `$=(dv.current().DEX-10)/2` (x2)
 - **Cantrips**: 
 	- [[Mage Hand]]
 	- [[Shape Water]]
@@ -195,20 +196,15 @@ Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitatio
 
 # Equipment
 
-|CP|SP|EP|GP|PP|
-|:-:|:-:|:-:|:-:|:-:|
-|0|0|0|100|5|
+| CP  | SP  | EP  | GP  | PP  |
+| :-: | :-: | :-: | :-: | :-: |
+|  0  |  0  |  0  |  4  |  0  |
 
-- Weapons 
-	- [[Dagger]] 
-	- [[Quarterstaff]]
+- Weapons: [[Dagger]] x2
 - [[Spellbook|I-buc📖]] 
+- Spellbook de rellotges
 - Arcane focus 📿
-- Component pouch
 - [[Backpack]] 
-- [[Cloak of Protection]]
-- [[Staff of Fire]] 
-- [[Ring of Spell Storing]]
 - Armor: None
  
 # Personality
@@ -267,7 +263,7 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 
 ## [[Spellbook|Spells]] Slots
 ### Level 1
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 - [ ] **Slot 4 Available**

@@ -1,8 +1,7 @@
 # [[Adventuring Gear|Backpack]]
 
-- A book of lore
-- A bottle of ink
-- An ink pen
-- 10 sheets of parchment
-- A little bag of sand
-- A small knife
+- Ració per passar un dia
+- Ink (1 ounce bottle)
+- Ink pen
+- Watersin
+- Rope

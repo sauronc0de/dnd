@@ -29,7 +29,7 @@ Skills:
 SavingThrows:
   - INT
   - WIS
-currentHp: 54
+currentHp: 33
 Level: 9
 MageArmor: true
 TemporaryHp: 0
@@ -70,9 +70,9 @@ Alignment: [Left, Center]
 
 # Stats
 
-|                           HP                           |                             AC                              | Speed | Initiative |
-| :----------------------------------------------------: | :---------------------------------------------------------: | :---: | :--------: |
-| `$=((dv.current().CON-10)/2 + 4) * dv.current().Level` | `$=(dv.current().MageArmor ? "16 ([[Mage Armor]])" : "14")` | 25 ft |     +2     |
+|                           HP                           |                               AC                                | Speed | Initiative |
+| :----------------------------------------------------: | :-------------------------------------------------------------: | :---: | :--------: |
+| `$=((dv.current().CON-10)/2 + 4) * dv.current().Level` | `$=(dv.current().MageArmor ? "16+2 ([[Mage Armor]])" : "14+2")` | 25 ft |     +7     |
 
 |Hit Dice|Proficiency Bonus|Temp HP|
 |:-:|:-:|:-:|
@@ -183,30 +183,20 @@ actions: []
 
 ## Spells
 - **Spell save DC** 15 (+7) 
-
-| Level | Spell Slots |                         Prepared Spells                          |
-| :---: | :---------: | :--------------------------------------------------------------: |
-|   1   |      4      | [[Shield]], [[Mage Armor]], [[Magic Missile]], [[Detect Magic]]  |
-|   2   |      3      | [[Misty Step]], [[Mirror Image]], [[Scorching Ray]], [[Shatter]] |
-|   3   |      3      |         [[Fireball]], [[Counterspell]], [[Dispel Magic]]         |
-|   4   |      3      |             [[Greater Invisibility]], [[Polymorph]]              |
-|   5   |      1      |               [[Wall of Force]], [[Cone of Cold]]                |
-
-Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitation]], [[Mage Hand]]
-
+- Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitation]], [[Mage Hand]]
+- [[Timmy Lannethorn#I-Buc Spells Slots|Spells slots]]
 # Equipment
 
 | CP  | SP  | EP  | GP  | PP  |
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  0  |  0  |  4  |  0  |
 
-- Weapons: ~~[[Dagger]] x2
+- Weapons: ~~[[Dagger]] x2~~
 - [[I-Buc|I-buc📖]] 
 - [[Spellbook de rellotges]]
 - Arcane focus 📿
 - [[Backpack]] 
 - Armor: None
- 
 # Personality
 
 - Respecta pels marginats
@@ -256,7 +246,12 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - **Temporary Hit Points**: `INPUT[number:TemporaryHp]`
 - **Hit Dice**:  `INPUT[number:NumHitDice]`/`=this.Level` (1d6)
 - **AC**: `$=(dv.current().MageArmor ? "15 ([[Mage Armor]])" : "13")`
-- **Initiative**: +`$=(dv.current().DEX-10)/2`
+- **Initiative**: +`$=(dv.current().DEX-10)/2 + (dv.current().INT-10)/2`
+
+# Elemental
+[[Elementals]]
+- ~~HP: 90
+- ~~AC: 15
 
 ## [[I-Buc|Spells]] Slots
 ### Level 1
@@ -269,7 +264,7 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 3
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 4

@@ -2,16 +2,32 @@
 
 ## Level 1 Spells
 
-- [ ] 
+- [ ] [[Alarm]]
+- [ ] [[Chromatic orb]]
+- [ ] [[Identify]]
+- [ ] [[Magic Missile]]
+- [ ] [[Mage Armor]]
+- [ ] [[Find Familiar]]
+- [ ] [[Detect Magic]]
+- [ ] [[Catapult]]
 
 ## Level 2 Spells
-- [ ] 
+- [ ] [[Mirror Image]]
+- [ ] [[Misty Step]]
+- [ ] [[Enlarge slash Reduce]]
+- [ ] [[Rime's binding ices]]
+- [ ] [[Tasha mind]]
 
 ## Level 3 Spells
-- [ ] 
+- [ ] [[Counterspell]]
+- [ ] [[Slow]]
+- [ ] [[Lightning Bolt]]
 
 ## Level 4 Spells
-- [ ] 
+- [ ] [[Vitry sphere]]
+- [ ] [[Dimension Door]]
+- [ ] [[XXXYY Lance]]
+- [ ] [[Summon construct]]
 
 ## Level 5 Spells
 - [ ] 

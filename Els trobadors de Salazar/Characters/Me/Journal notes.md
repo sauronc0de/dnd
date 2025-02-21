@@ -96,8 +96,49 @@ Però sabien que ja no pertanyien al seu món.
 >  Arribem a una muralla.
 >  Un cop arribem s'obren les portes soles i hi ha flames màgiques.
 >  En Zefir fa dispel magic i passem.
->   
+
 
 ## Chapter 2
 
-> BLABLA
+> Apareix una figura imponent sobre un cavall negre al mig del pont de pedra.
+> El cavall és de foc WTF!?
+> Conversa complicada amb el senyor Astrad. Es mostra intimidant però clarament està preocupat. Sembla que els trobadors han fet coses que l'han deixat en una posició complicada.
+> Logan: Bla bla bla, ens acabarant matan,... bla bla bla...
+> Ningú s'ho esperava però un últim comentari super ofensiu d'en Logan cap a Astrad fa que ens vingui directe a matar-nos.
+> Astrad vacila en Zefir anomenant Tatiana (Sembla que ara se l'està follant ell (No sembla que sigui de manera concentida, ell se'l veu bastant toxic posesiu)). I marxa com un covard volant amb el cavall de foc.
+> Zefir està molt indignat, està mode gelós tòxic.
+> Seguim caminant malgrat el fred i el vent. La nit comença a caure i decidim acostar-nos al bosc. 
+> Allà faig el spell [[Fabricate]] per tal de construir una cabana rústica on passar la nit.
+> Zefir ens recorda que en el temple volem trobar una espasa que ens ajudaria a combatre contre Astrad. I també Giath, que té una de les gemmes.
+> Històrietes bora del foc.
+> Zefir deixa tota la bilis de Giath.
+> Zefir: Per poder i tresors en Giath hagués vengut la seva àvia.
+> Logan històries que no entenc ningú pobret. És molt més retressat del que sembla a simple vista.
+> Zefir és molt i molt tòxic. És brutal sentir-lo parlar d'altres.
+> Parlant d'un tal Limmar. I es veu que era com Giath o pitjor.
+> Tornen a explicar la història dels pastissos de nens. Es repeteixen més que els àvis de la Taverna del "Poni que fa pipi".
+> Resulta que en Lucian el van salvar de les Hags creadores de pastissos.
+> `Long rest`
+> Veient com van les coses per aquí, estudio alguns encanteris que ens poden ajudar en alguna situació complicada.
+> *Dia 6*
+> Fem camí de nou travassant la neu fins arribar en una muntanya que té un edifici enquestat amb 6 funiculas de 20 peus d'alçada. Clarament és un temple, el temple del Ambre.
+> En Logan és un xapes. Realment tinc ganes de que la pota del derrera d'un cavall caigui amb totes les seves forces sobre el meu crani i em lliuri d'aquestes històries per sempre.
+> Arribem el temple i veig una petita eslquetxa entre l'edifici i la muntanya.
+> Al anar cap allà sento unes veus druidiques.
+> Logan i Zefir s'infiltren invisibles.
+> De cop veuen una super dona gegant Barbarian i estupida.
+> Al veure que també hi ha un tigre de neu gegant que desconfia dels nostres companys invisibles.
+> Super actuació de Logan amb Llums i modificacions de So es fa passar per un esperit anomanat "Lissan Algarit". I els adverteix que vindran un grup d'aventurers que venen per bones intencions.
+> `Inspiration point Logan`
+>  A més renombre el nom del tigre de Neu a Robert. La millor actuació que he sentit mai en druidic en tota la meva vida. No entenia res però clarament la dòna s'ho ha menjat en patates.
+>  En Logan ens resumeix la seva conversa i podem entrar tranquil·lament.
+>  Zefir fa unes llums ballariques que imiten un esperit i entrem per derrera aquestes llums com si nosaltres seguissim l'esperit.
+>  Al entrar estan dient desconsolats: Nisan Algarit, Nisan Algarit,...
+>  Són més tontos del que semblava a simple vista. Parlant commú però commú "estrany". 
+>  Logan es posa a parlar amb comú i ens ho tradueix tot.
+>  Ens recalquen que vigilem amb els esperits de foc. Diu que estan derrera la porta.
+>  En Denis s'aventura primer amb valentia i no menys cautela.
+>  Fins que Logan veu un forat i la seva curiositat de gat i nen fan que entrem en combat!
+>  Calaveres flamajants match!
+>  
+> 

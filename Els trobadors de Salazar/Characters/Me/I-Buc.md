@@ -4,20 +4,20 @@
 
 - [x] [[Shield]]
 - [x] [[Mage Armor]]
-- [x] [[Magic Missile]]
+- [ ] [[Magic Missile]]
 - [ ] [[Detect Magic]]
 
 ## Level 2 Spells
 - [x] [[Misty Step]]
 - [x] [[Enlarge slash Reduce]]
-- [ ] [[Locate Object]]
+- [x] [[Locate Object]]
 - [ ] [[Gust of Wind]]
 - [ ] [[Invisibility]]
-- [ ] [[Arcane Lock]]
-- [x] [[Blur]]
+- [x] [[Arcane Lock]]
+- [ ] [[Blur]]
 
 ## Level 3 Spells
-- [ ] [[Counterspell]]
+- [x] [[Counterspell]]
 - [ ] [[Dispel Magic]]
 - [ ] [[Fireball]]
 - [x] [[Lightning Bolt]]
@@ -28,12 +28,13 @@
 - [x] [[Clairvoyance]]
 
 ## Level 4 Spells
-- [x] [[Fabricate]]
-- [x] [[Polymorph]]
+- [ ] [[Fabricate]]
+- [ ] [[Polymorph]]
+- [x] [[Dimension Door]]
 
 ## Level 5 Spells
 - [x] [[Wall of Force]]
-- [ ] [[Conjure Elemental]]
+- [ ] [[Conjure Elemental]] | [[Elementals]]
 
 
 # Notes

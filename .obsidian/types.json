@@ -28,6 +28,8 @@
     "SavingThrows": "multitext",
     "proficiency": "number",
     "Level": "number",
-    "MageArmor": "checkbox"
+    "MageArmor": "checkbox",
+    "ST_bonus": "number",
+    "AC_bonus": "number"
   }
 }

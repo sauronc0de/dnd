@@ -11,7 +11,7 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Element Links
-tXxQUYAN: [[Spellbook]]
+tXxQUYAN: [[I-Buc]]
 
 j8bXjM7R: [[Timmy Lannethorn#Skills]]
 

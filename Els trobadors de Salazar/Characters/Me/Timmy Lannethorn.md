@@ -72,15 +72,15 @@ Alignment: [Left, Center]
 
 |                           HP                           |                             AC                              | Speed | Initiative |
 | :----------------------------------------------------: | :---------------------------------------------------------: | :---: | :--------: |
-| `$=((dv.current().CON-10)/2 + 4) * dv.current().Level` | `$=(dv.current().MageArmor ? "15 ([[Mage Armor]])" : "13")` | 25 ft |     +2     |
+| `$=((dv.current().CON-10)/2 + 4) * dv.current().Level` | `$=(dv.current().MageArmor ? "16 ([[Mage Armor]])" : "14")` | 25 ft |     +2     |
 
 |Hit Dice|Proficiency Bonus|Temp HP|
 |:-:|:-:|:-:|
 |9d6|+4|0|
 
-|Senses|#|
-|---|---|
-|**Passive Perception**|11|
+| Senses                 | #   |
+| ---------------------- | --- |
+| **Passive Perception** | 11  |
 
 ---
 
@@ -92,7 +92,7 @@ Alignment: [Left, Center]
 |:-:|:-:|:-:|:-:|:-:|:-:|---|
 |`=this.STR`|`=this.DEX`|`=this.CON`|`=this.INT`|`=this.WIS`|`=this.CHA`|**Stats**|
 |`$=((dv.current().STR - 10)/2 > -1 ? "+" : "") + (dv.current().STR - 10)/2`|`$=((dv.current().DEX - 10)/2 > -1 ? "+" : "") + (dv.current().DEX - 10)/2`|`$=((dv.current().CON - 10)/2 > -1 ? "+" : "") + (dv.current().CON - 10)/2`|`$=((dv.current().INT - 10)/2 > -1 ? "+" : "") + (dv.current().INT - 10)/2`|`$=((dv.current().WIS - 10)/2 > -1 ? "+" : "") + (dv.current().WIS - 10)/2`|`$=((dv.current().CHA - 10)/2 > -1 ? "+" : "") + (dv.current().CHA - 10)/2`|**Modifier**|
-|`$=((dv.current().STR - 10)/2 > -1 ? "+" : "") + ((dv.current().STR - 10)/2 + (dv.current().SavingThrows.includes("STR") ? dv.current().proficiency : 0))`|`$=((dv.current().DEX - 10)/2 > -1 ? "+" : "") + ((dv.current().DEX - 10)/2 + (dv.current().SavingThrows.includes("DEX") ? dv.current().proficiency : 0))`|`$=((dv.current().CON - 10)/2 > -1 ? "+" : "") + ((dv.current().CON - 10)/2 + (dv.current().SavingThrows.includes("CON") ? dv.current().proficiency : 0))`|`$=((dv.current().INT - 10)/2 > -1 ? "+" : "") + ((dv.current().INT - 10)/2 + (dv.current().SavingThrows.includes("INT") ? dv.current().proficiency : 0))`|`$=((dv.current().WIS - 10)/2 > -1 ? "+" : "") + ((dv.current().WIS - 10)/2 + (dv.current().SavingThrows.includes("WIS") ? dv.current().proficiency : 0))`|`$=((dv.current().CHA - 10)/2 > -1 ? "+" : "") + ((dv.current().CHA - 10)/2 + (dv.current().SavingThrows.includes("CHA") ? dv.current().proficiency : 0))`|**Saving Throw**|
+|`$=(1+(dv.current().STR - 10)/2 > -1 ? "+" : "") + (1+(dv.current().STR - 10)/2 + (dv.current().SavingThrows.includes("STR") ? dv.current().proficiency : 0))`|`$=(1+(dv.current().DEX - 10)/2 > -1 ? "+" : "") + (1+(dv.current().DEX - 10)/2 + (dv.current().SavingThrows.includes("DEX") ? dv.current().proficiency : 0))`|`$=(1+(dv.current().CON - 10)/2 > -1 ? "+" : "") + (1+(dv.current().CON - 10)/2 + (dv.current().SavingThrows.includes("CON") ? dv.current().proficiency : 0))`|`$=(1+(dv.current().INT - 10)/2 > -1 ? "+" : "") + (1+(dv.current().INT - 10)/2 + (dv.current().SavingThrows.includes("INT") ? dv.current().proficiency : 0))`|`$=(1+(dv.current().WIS - 10)/2 > -1 ? "+" : "") + (1+(dv.current().WIS - 10)/2 + (dv.current().SavingThrows.includes("WIS") ? dv.current().proficiency : 0))`|`$=(1+(dv.current().CHA - 10)/2 > -1 ? "+" : "") + (1+(dv.current().CHA - 10)/2 + (dv.current().SavingThrows.includes("CHA") ? dv.current().proficiency : 0))`|**Saving Throw**|
 
 
 ### Skills
@@ -200,9 +200,9 @@ Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitatio
 | :-: | :-: | :-: | :-: | :-: |
 |  0  |  0  |  0  |  4  |  0  |
 
-- Weapons: [[Dagger]] x2
-- [[Spellbook|I-buc📖]] 
-- Spellbook de rellotges
+- Weapons: ~~[[Dagger]] x2
+- [[I-Buc|I-buc📖]] 
+- [[Spellbook de rellotges]]
 - Arcane focus 📿
 - [[Backpack]] 
 - Armor: None
@@ -226,10 +226,7 @@ Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitatio
 - _Gairebé tots els homes prefereixen negar la veritat abans que enfrontar-s'hi_
 # Strategy
 
-- Control the battlefield with **Wall of Force** and **Counterspell**.
-- Deal high damage with **Fireball** and **Cone of Cold**, sculpting spells to protect allies.
-- Use concentration spells like **Polymorph** and **Greater Invisibility** to turn the tide of battle.
-- Maintain mobility with **Misty Step** to avoid melee threats.
+- Sobreviure
 
 # Background
 
@@ -261,7 +258,7 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - **AC**: `$=(dv.current().MageArmor ? "15 ([[Mage Armor]])" : "13")`
 - **Initiative**: +`$=(dv.current().DEX-10)/2`
 
-## [[Spellbook|Spells]] Slots
+## [[I-Buc|Spells]] Slots
 ### Level 1
 - [x] **Slot 1 Available**
 - [ ] **Slot 2 Available**

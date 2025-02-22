@@ -21,7 +21,7 @@ Però sabien que ja no pertanyien al seu món.
 
 ## Chapter 1
 
-> *Dia 1*
+> **Dia 1**
 > Sortim de una tumba i ens trobem als Trobadors de Salazar i els Colaboradors de Salazar. No semblen hòstils tot i que el meu amic [[Denislav Struck]] rep una ostia tremenda. Després ens diuen que volen desenterrar uns ossos. I ens fan un resum del context que ens trobem. Ho explica un noi que vesteix de manera estrafularia i dius lo següent:
 > Zefir: Hem sigut objecte d'una maladicció i estem atrapats en una regió governada per un vampir.
 > El colaborador amb accent estrany metitza: No estem maleïts, qui està maleït és el territori.
@@ -64,12 +64,12 @@ Però sabien que ja no pertanyien al seu món.
 > Expliquem batalletes fins que arribem a Vallaqui.
 > Logan comunica que Giath el negre és un traïdor i que si el maten donarant 200 gp.
 > Ens emborratxem anem a comprar 4 tonteries i anem a dormir.
-> *Dia 2*
+> **Dia 2**
 > Zefir compra un carroatge i un cavall més vell que el matí.
 > Es rumoreja que no veuen el nou noble que ha ficat diners per recuperar el poble.
 > La gent no s'enfia gaire.
 > Dia chill i de compres.
-> *Dia 3*
+> **Dia 3**
 > Ens dirigim cap a les runes de Berez.
 > Veiem la calavera d'un drac majestuosa al mig dels aigua molls i envoltada de mosquits. 
 > Carreguem la calavera al carro i continuem.
@@ -87,11 +87,11 @@ Però sabien que ja no pertanyien al seu món.
 >  Al cap vespre arribem a la vila de Cresc.
 >  Donem els ossos al Abat i ell ens revela on hi ha en Giath Abdulah (el traïdor). Es troba en el temple de Ambre. 
 >  Ens diu com ja ens havia dit el colaborador Van Rihter que hi fa molt fred i és molt perillós.
->  *Dia 4*
+>  **Dia 4**
 >  De bon matí saludem el Deu de la Albada i anem cap a el temple de Ambre.
 >  Logan: Els corbs són bons i Astrad es pot convertir en qualsevol cosa.
 >  El camí comença a dificultar-se amb la neu. Deixem el carro amb en Josua/Bill (El cavall) amb manta i menjar al costat d'uns arbres. Ens equipem bé amb els abrics. I és negre nit. Ens posem a dormir a la vora del foc.
->  *Dia 5*
+>  **Dia 5**
 >  Ens llevem amb la sortida del sol i comencem a caminar muntanya amunt amb la neu cada vegada més alta.
 >  Arribem a una muralla.
 >  Un cop arribem s'obren les portes soles i hi ha flames màgiques.
@@ -120,7 +120,7 @@ Però sabien que ja no pertanyien al seu món.
 > Resulta que en Lucian el van salvar de les Hags creadores de pastissos.
 > `Long rest`
 > Veient com van les coses per aquí, estudio alguns encanteris que ens poden ajudar en alguna situació complicada.
-> *Dia 6*
+> **Dia 6**
 > Fem camí de nou travassant la neu fins arribar en una muntanya que té un edifici enquestat amb 6 funiculas de 20 peus d'alçada. Clarament és un temple, el temple del Ambre.
 > En Logan és un xapes. Realment tinc ganes de que la pota del derrera d'un cavall caigui amb totes les seves forces sobre el meu crani i em lliuri d'aquestes històries per sempre.
 > Arribem el temple i veig una petita eslquetxa entre l'edifici i la muntanya.
@@ -139,6 +139,20 @@ Però sabien que ja no pertanyien al seu món.
 >  Ens recalquen que vigilem amb els esperits de foc. Diu que estan derrera la porta.
 >  En Denis s'aventura primer amb valentia i no menys cautela.
 >  Fins que Logan veu un forat i la seva curiositat de gat i nen fan que entrem en combat!
->  Calaveres flamajants match!
->  
+>  `Match`
+>  Calaveres flamajants amb boles de foc i somriures esfereidors.
+>  Elimino dues calavers amb un flamajant raig elèctric i en Logan xuta l'última que quedava.
+>  En Logan no ha après la lliçó i va corrent a obrir un altre porta que li sembla curiosa. Per sort no hi ha res.
+>  Da manera cautelosa en Denis obra la única porta que ens queda i es veu un passadís llarg sense fi. 
+>  Logan per tercera vegada obra la porta cridant BON DIA!.
+>  La sala està il·luminada, parets cobertes de ambre i amb tot de llibres de conjurs.
+>  Sembla que hi ha algú a dins i en Logan entra amb aire de superioritat.
+>  Sembla que és un covard amagat que fa molt fàstic perquè té Soria Gris. Malaltia terminal que coneixent alguns curanders de Chult.
+>  Es diu Bill Nius i ens explica que tant ell com la seva familia estan malalts. Està buscant una cura per la seva filla. Ha vist monstres i s'ha amagat aquí dins.
+> Li faig una pregunta sobre la seva filla i sembla que menteix.
+> Després de dubtar una mica insistim a Zefir que li faci "detectar pensamientos".
+> *Sembla que la malaltia és real i terminal, no té cap filla. Va entrar en contacte amb "Freque" i el va curar però a canvi l'utilitza per escampar malalties. Té un amolet que l'ha de portar fins a Freque que és "alguna cosa" dins del temple.* 
+> El tanquem en una habitació fent un encanteri de blocar la porta [[Arcane Lock]].
+> La paraula per clau és "Pastanaga" amb gnome.
+> Seguim pel forat on havien aparegut les calaveres i...
 > 

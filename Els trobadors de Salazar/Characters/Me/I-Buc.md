@@ -4,8 +4,9 @@
 
 - [x] [[Shield]]
 - [x] [[Mage Armor]]
-- [ ] [[Magic Missile]]
+- [x] [[Magic Missile]]
 - [ ] [[Detect Magic]]
+- [ ] [[Find Familiar]]
 
 ## Level 2 Spells
 - [x] [[Misty Step]]
@@ -30,7 +31,6 @@
 ## Level 4 Spells
 - [ ] [[Fabricate]]
 - [ ] [[Polymorph]]
-- [x] [[Dimension Door]]
 
 ## Level 5 Spells
 - [x] [[Wall of Force]]

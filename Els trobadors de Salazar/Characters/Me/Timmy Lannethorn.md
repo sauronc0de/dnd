@@ -29,7 +29,7 @@ Skills:
 SavingThrows:
   - INT
   - WIS
-currentHp: 33
+currentHp: 47
 Level: 9
 MageArmor: true
 TemporaryHp: 0
@@ -265,7 +265,7 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - [ ] **Slot 3 Available**
 ### Level 3
 - [x] **Slot 1 Available**
-- [ ] **Slot 2 Available**
+- [x] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 4
 - [ ] **Slot 1 Available**

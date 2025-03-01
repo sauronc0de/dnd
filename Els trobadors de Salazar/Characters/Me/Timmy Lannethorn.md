@@ -29,12 +29,13 @@ Skills:
 SavingThrows:
   - INT
   - WIS
-currentHp: 47
+currentHp: 50
 Level: 9
 MageArmor: true
-TemporaryHp: 0
+TemporaryHp: 8
 NumHitDice: 9
 Hp: 54
+sdasd: 
 ---
 # Timmy Lannethorn
 
@@ -268,11 +269,11 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - [x] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 4
-- [ ] **Slot 1 Available**
-- [ ] **Slot 2 Available**
+- [x] **Slot 1 Available**
+- [x] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 5
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
 
 
 ## Conditions

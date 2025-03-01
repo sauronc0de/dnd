@@ -121,7 +121,7 @@ Però sabien que ja no pertanyien al seu món.
 > `Long rest`
 > Veient com van les coses per aquí, estudio alguns encanteris que ens poden ajudar en alguna situació complicada.
 > **Dia 6**
-> Fem camí de nou travassant la neu fins arribar en una muntanya que té un edifici enquestat amb 6 funiculas de 20 peus d'alçada. Clarament és un temple, el temple del Ambre.
+> Fem camí de nou travassant la neu fins arribar en una muntanya que té un edifici enquestat amb 6 furniculas de 20 peus d'alçada. Clarament és un temple, el temple del Ambre.
 > En Logan és un xapes. Realment tinc ganes de que la pota del derrera d'un cavall caigui amb totes les seves forces sobre el meu crani i em lliuri d'aquestes històries per sempre.
 > Arribem el temple i veig una petita eslquetxa entre l'edifici i la muntanya.
 > Al anar cap allà sento unes veus druidiques.
@@ -155,4 +155,39 @@ Però sabien que ja no pertanyien al seu món.
 > El tanquem en una habitació fent un encanteri de blocar la porta [[Arcane Lock]].
 > La paraula per clau és "Pastanaga" amb gnome.
 > Seguim pel forat on havien aparegut les calaveres i...
-> 
+>
+## Chapter 3
+>Les calaveres segueixen fent-nos la guitza i l'únic que percebo és una màgia molt poderosa i desconeguda que em fa mala espina. 
+>Continuem investigant...
+>Arribem a una porta de ambre que veiem que està tancada amb un encanteri de abjoració.
+>Provo algunes paraules per veure si s'obre però no hi ha sort.
+>Zefir prova sort preguntant al nostre vell amic Bill Niu.
+>Denis, que és super perspicaç, fa dispell màgic i obra la porta.
+>Amb la grandissima valentia de Denis i, la llum que genera el seu cor, comencem entrar per un passadis.
+>En Logan segueix fent el retressat, em sorpén que no hagi mort encara. Clarament ha de ser un ésser molt i molt resisstènt per suportar tanta estupidesa.
+>Una habitació més desendreçada que la ment d'en Logan.
+>Un altre...
+>Al final una que té sarcofacs d'aquests estranys.
+>Un dels sarcofacs sembla que es mostra una figura. A mesura que la curiositat d'en Logan guanya pes, la figura també.
+>Faig una hipotesi de que el seu excompany Giath hagi estat atrapat al temple i que un "canvia formes" s'estiguin fent passar per ell.
+>Seguim cap el passadís principal fins que ens "ataquen" segur? Bola de foc tremenda que ens deixa tremolant però amb la foscor que hi ha no sabem d'on ha vingut.
+>Finalment amb les llums ballariques d'en Zefir veiem una estatua que sembla que estigui a punt per llençar un conjur. Tot apunta que ens ha atacat la figura.
+>Amb més valentia de la que acostumo a tenir m'acosto cap a la figura i l'embolcallo amb una forma cilindrica ($2pi·r^2 + 2pi·r·h$) the [[Wall of Force]]. D'aquesta manera evito que la figura ens ataqui. 10' de concentració.
+>`Inspiration point` per les meves matemàtiques.
+>Seguim inspeccionant amb la poca llum que hi ha.
+>Segueixen atacant-nos através de escletxes unes putes calaveres que n'estic fins els putos cullons de que ens ataquin i estic aguantant la concentració de fucking miracle ooh myyy goood, stooppp pleaseee goood! Pleaaaase!!!
+>Per fi Zefir fa alguna cosa de profit i transforma la figura de pedra animada amb un tornado d'osties. El nom de la estatua ànimada és Jaume.
+>Al final en Zefir proposa fer servir l'estatua per rebentar les portes i que en Logan rebenti al mag super poderós.
+>Fem la super estratègia i amb un compte enrere meu deixo anar el mur de força.
+>L'estatua desepereix i apareix una rata gegant que corre amb uns pargamins a les mans. 
+>Finalment en Zefir fa dispel magic i entra dins la sala.
+>Descripció de la aparició de Giath el gran.
+>De cop torno a veure la rata gegant i veig en Denis als seus peus. La ira amb poseïx per un moment i començo a projectar missils màgics fins que se'm acaba l'aire i la veig desapereixer.
+>En Zefir ens cura a tots, inclòs en Denis que estava inconcient i la meva confiança amb ell augmenta 3punts de amistad.
+>Tota la estatua és un cau de hobbit vertical super ordenat petit i mono però amb desperfectes del frenetic combat.
+
+> `Global`
+> Mentrestant un combat aferrissat de tentacles i ires es colpegen uns els altres. Sembla que Giath té algun tipos de poder que li permet regenerar les ferides i atacar amb uns tentacles fastigosos.
+
+> Veient que la rata gegant a desaperagut del tot. Vaig a veure la sala amb els companys i allà veig un monstre fastigós i repugnant amb tentacles. Començo a fer un [[Lightning Bolt]] i a la que estic projectant el raig en Zefir em diu. És en Giath, i intensifico l'atac amb el meu poder màxim per tal d'eliminar-lo del tot.
+> En Zefir fa localizar criatura per buscar la rata gegant.

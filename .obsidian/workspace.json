@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Els trobadors de Salazar/Characters/Me/Journal notes.md",
-                "mode": "source",
+                "file": "Els trobadors de Salazar/Characters/Me/I-Buc.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Journal notes"
+              "title": "I-Buc"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Els trobadors de Salazar/Characters/Me/Journal notes.md",
+                "file": "Els trobadors de Salazar/Characters/Me/I-Buc.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Journal notes"
+              "title": "Outline of I-Buc"
             }
           },
           {
@@ -207,13 +207,14 @@
   },
   "active": "2d0ecdc7ba06b37d",
   "lastOpenFiles": [
-    "Els trobadors de Salazar/Characters/Me/Timmy Lannethorn.md",
     "Els trobadors de Salazar/Characters/Me/Journal notes.md",
+    "Els trobadors de Salazar/Characters/Me/Spellbook de rellotges.md",
+    "Els trobadors de Salazar/Characters/Me/Timmy Lannethorn.md",
     "Els trobadors de Salazar/Characters/Me/I-Buc.md",
+    "concentr.md",
     "Els trobadors de Salazar/Characters/Me/GPT.md",
     "Els trobadors de Salazar/Characters/Me/Backpack.md",
     "Els trobadors de Salazar/reference/spells/Magic Missile.md",
-    "Els trobadors de Salazar/Characters/Me/Spellbook de rellotges.md",
     "Els trobadors de Salazar/reference/monsters/Elementals.md",
     "Els trobadors de Salazar/Characters/NPC/Logan.md",
     "Els trobadors de Salazar/Characters/NPC/Zefir.md",
@@ -236,7 +237,6 @@
     "Els trobadors de Salazar/Characters/Me/Stats.md",
     "Els trobadors de Salazar/templates/Trait.md",
     "Els trobadors de Salazar/reference/Feats.md",
-    "Els trobadors de Salazar/reference/Backgrounds.md",
     "Images/Tyrion_Avatar_Little.png",
     "Images/XXYY.png",
     "Els trobadors de Salazar/Characters/NPCs",

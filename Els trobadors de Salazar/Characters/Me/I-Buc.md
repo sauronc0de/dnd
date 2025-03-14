@@ -35,6 +35,7 @@
 ## Level 5 Spells
 - [x] [[Wall of Force]]
 - [ ] [[Conjure Elemental]] | [[Elementals]]
+- [x] [[Creation]]
 
 
 # Notes

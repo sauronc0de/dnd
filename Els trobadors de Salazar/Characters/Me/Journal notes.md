@@ -181,7 +181,12 @@ Però sabien que ja no pertanyien al seu món.
 >Fem la super estratègia i amb un compte enrere meu deixo anar el mur de força.
 >L'estatua desepereix i apareix una rata gegant que corre amb uns pargamins a les mans. 
 >Finalment en Zefir fa dispel magic i entra dins la sala.
->Descripció de la aparició de Giath el gran.
+>
+	*I aleshores, el veieu.*
+	Entre les ombres, remenant entre el metall brut de les monedes. Les seves mans, deformades en urpes negres i esquinçades, es mouen frenèticament, escampant tresors com si fossin deixalles. Tentacles d’un to biliós s’arrosseguen per la seva esquena, s’enrosquen als seus braços, bategant amb una vida pròpia.
+	*Quan alça el cap, veieu el que queda de Giath. La seva pell està germinada de llagues supurants, els seus ulls són basses negres de fam i bogeria. Ara tenen una ombra fosca a les ninetes, com si una presència aliena s’amagués al seu interior. Durant un instant, només us observa, immòbil, com si el seu cervell trigués a processar la realitat.*
+	*Un fil de bava es desfila del seu llavi tremolós, i somriu.*
+	...
 >De cop torno a veure la rata gegant i veig en Denis als seus peus. La ira amb poseïx per un moment i començo a projectar missils màgics fins que se'm acaba l'aire i la veig desapereixer.
 >En Zefir ens cura a tots, inclòs en Denis que estava inconcient i la meva confiança amb ell augmenta 3punts de amistad.
 >Tota la estatua és un cau de hobbit vertical super ordenat petit i mono però amb desperfectes del frenetic combat.
@@ -191,3 +196,6 @@ Però sabien que ja no pertanyien al seu món.
 
 > Veient que la rata gegant a desaperagut del tot. Vaig a veure la sala amb els companys i allà veig un monstre fastigós i repugnant amb tentacles. Començo a fer un [[Lightning Bolt]] i a la que estic projectant el raig en Zefir em diu. És en Giath, i intensifico l'atac amb el meu poder màxim per tal d'eliminar-lo del tot.
 > En Zefir fa localizar criatura per buscar la rata gegant.
+
+## Chapter 4
+>..

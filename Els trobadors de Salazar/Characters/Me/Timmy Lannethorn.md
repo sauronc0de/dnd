@@ -33,9 +33,9 @@ currentHp: 50
 Level: 9
 MageArmor: true
 TemporaryHp: 8
-NumHitDice: 9
-Hp: 54
-sdasd: 
+NumHitDice: 10
+Hp: 61
+sdasd:
 ---
 # Timmy Lannethorn
 
@@ -71,9 +71,9 @@ Alignment: [Left, Center]
 
 # Stats
 
-|                           HP                           |                               AC                                | Speed | Initiative |
-| :----------------------------------------------------: | :-------------------------------------------------------------: | :---: | :--------: |
-| `$=((dv.current().CON-10)/2 + 4) * dv.current().Level` | `$=(dv.current().MageArmor ? "16+2 ([[Mage Armor]])" : "14+2")` | 25 ft |     +7     |
+|                           HP                           |                                       AC                                       | Speed | Initiative |
+| :----------------------------------------------------: | :----------------------------------------------------------------------------: | :---: | :--------: |
+| `$=((dv.current().CON-10)/2 + 4) * dv.current().Level` | 15+1<br>+2([[Mage Armor]])<br>+2 [[Timmy Lannethorn#War magic\|Durable Magic]] | 25 ft |     +7     |
 
 |Hit Dice|Proficiency Bonus|Temp HP|
 |:-:|:-:|:-:|
@@ -144,6 +144,7 @@ Alignment: [Left, Center]
 - **Arcane Deflection**: At 2nd level, you have learned to weave your magic to fortify yourself against harm. When you are hit by an attack or you fail a saving throw, you can use your reaction to gain a +2 bonus to your AC against that attack or a +4 bonus to that saving throw.
 - **Tactical Wit**: Starting at 2nd level, your keen ability to assess tactical situations allows you to act quickly in battle. You can give yourself a bonus to your initiative rolls equal to your Intelligence modifier.
 - **Power Surge**: Starting at 6th level, you can store magical energy within yourself to later empower your damaging spells. You can store a maximum number of power surges equal to your Intelligence modifier (minimum of one). Whenever you finish a long rest, your number of power surges resets to one. Whenever you successfully end a spell with [Dispel Magic](http://dnd5e.wikidot.com/spell:dispel-magic) or [Counterspell](http://dnd5e.wikidot.com/spell:counterspell), you gain one power surge, as you steal magic from the spell you foiled. If you end a short rest with no power surges, you gain one power surge. Once per turn when you deal damage to a creature or object with a wizard spell, you can spend one power surge to deal extra force damage to that target. The extra damage equals half your wizard level. When you use this feature, you can't cast spells other than cantrips until the end of your next turn.
+- **Durable Magic**: Beginning at 10th level, the magic you channel helps ward off harm. While you maintain concentration on a spell, you have a **+2 bonus** to **AC** and all **saving throws**.
 
 ## Proficiencies
 
@@ -184,7 +185,7 @@ actions: []
 
 ## Spells
 - **Spell save DC** 15 (+7) 
-- Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitation]], [[Mage Hand]]
+- Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitation]], [[Mage Hand]], [[Message]].
 - [[Timmy Lannethorn#I-Buc Spells Slots|Spells slots]]
 # Equipment
 
@@ -274,6 +275,7 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - [ ] **Slot 3 Available**
 ### Level 5
 - [x] **Slot 1 Available**
+- [ ] **Slot 1 Available**
 
 
 ## Conditions

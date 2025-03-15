@@ -29,13 +29,13 @@ Skills:
 SavingThrows:
   - INT
   - WIS
-currentHp: 50
+currentHp: 54
 Level: 9
 MageArmor: true
-TemporaryHp: 8
+TemporaryHp: 5
 NumHitDice: 10
 Hp: 61
-sdasd:
+sdasd: 
 ---
 # Timmy Lannethorn
 
@@ -182,23 +182,24 @@ actions: []
 	- [[Shape Water]]
 	- [[Fire Bolt]]
 	- [[Minor Illusion]]
+	- [[Message]]
 
 ## Spells
 - **Spell save DC** 15 (+7) 
-- Cantrips: [[Fire Bolt]], [[Ray of Frost]], [[Minor Illusion]], [[Prestidigitation]], [[Mage Hand]], [[Message]].
 - [[Timmy Lannethorn#I-Buc Spells Slots|Spells slots]]
 # Equipment
 
-| CP  | SP  | EP  | GP  | PP  |
-| :-: | :-: | :-: | :-: | :-: |
-|  0  |  0  |  0  |  4  |  0  |
+| CP  | SP  |  EP  | GP  | PP  |
+| :-: | :-: | :--: | :-: | :-: |
+|  0  |  0  | 5000 | 284 |  0  |
 
-- Weapons: ~~[[Dagger]] x2~~
+- Weapons: [[Dagger]]
 - [[I-Buc|I-buc📖]] 
 - [[Spellbook de rellotges]]
 - Arcane focus 📿
 - [[Backpack]] 
 - Armor: None
+- Llibre: Novela
 # Personality
 
 - Respecta pels marginats
@@ -257,24 +258,24 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 
 ## [[I-Buc|Spells]] Slots
 ### Level 1
-- [x] **Slot 1 Available**
+- [ ] **Slot 1 Available**
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 - [ ] **Slot 4 Available**
 ### Level 2
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 3
-- [x] **Slot 1 Available**
-- [x] **Slot 2 Available**
+- [ ] **Slot 1 Available**
+- [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 4
-- [x] **Slot 1 Available**
-- [x] **Slot 2 Available**
+- [ ] **Slot 1 Available**
+- [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 5
-- [x] **Slot 1 Available**
+- [ ] **Slot 1 Available**
 - [ ] **Slot 1 Available**
 
 

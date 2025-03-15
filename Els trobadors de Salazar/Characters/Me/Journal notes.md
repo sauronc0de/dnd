@@ -198,4 +198,69 @@ Però sabien que ja no pertanyien al seu món.
 > En Zefir fa localizar criatura per buscar la rata gegant.
 
 ## Chapter 4
+>Giath ferit i sagnant coloca una gemma verda en un armari i desepereix fent una expressió que no acabo d'entendre.
+>*Armari empotrat?, el que tinc aquí penjat!*
+>L'armari cobra vida i continua el combat!
+>Comença a obrir portes i tirar calaixos que esn rebenten les espinilles.
+>Així que faig arcane lock a un parell de portes i evito una part dels seus atacs.
+>Però després es dedica a caure sobre nostre.
+>Logan el comença a destroçar per un lateral fins que crea un escletxa lo suficientment gran com perquè un gnome i passi.
+>Agafo tot la valentia que puc trobar en la meva humil existència i em llenço cap a dins el forat.
+>Veig un cofre amb 4 claus i un símbol de prohibit però tot i girar-les totes no aconsegueixo orbir-lo.
+>A més esforç que intel·ligència finalment aconsegueixo obrir-la. Resulta que és el símbol del buit i al treure totes les claus el cofre s'obra sense resistència.
+>Agafo la gemma verda brillant que conté i vaig a fora on en Zefir estava buscant tresors com un desesperat i m'ha dit que hi havia llibres també.
+>Els llibres són copies de la *Enana Nieves y los cinco Tubularios*. Escrit per Nitche. Me'l emporto per llegir abans d'anar a dormir a la bora del foc.
+>Penso que en Logan ha fet bona feina amb l'armari i mentre penso això sentim una explosió brutal.
+>Sortim corrent cap al passadís!
+>A la que arribo, un trio de calaveres disparen un projectil de foc que enganxen en Logan i en Denis i tots dos cauen inconcients.
+>Jo disparo [[Magic Missile]] com si no hi hagués un demà.
+>Desesperat veig com arriba en Zefir amb un aire de superioritat i ple de joies. Una corona d'or i un bastó i fa [[Polymorph]] transformant les calavers a una tortuga totalment inofensiva. L'agafa, la posa dins d'una calavera que porta, cura amb desgana als seus dos companys i se'n va. 
+>Quedo totalment impressionat de l'actuació.
+>A la que es desperten es discuteixen una mica per les males decisions preses.
+>Recullim totes les monedes possibles de la sala dels tresors i busquem una sala per descansar. Estem tots molt ferits menys en Zefir, sembla com si ell hagués desaparegut durant el combat.
+>En Zefir am dóna 6 esferes de vidre. No tenen potencial màgic i les tiro.
+>Intentem tornar en una de les sales anteriors i unes bones calaveres ens tornen a projectar una bola de foc. Per sort faig [[Misty Step]] i me'n escapo per poc.
+>Arribem a la sala i la tanco amb [[Arcane Lock]].
+>Ens despertem tots amb una llum radiant. Zefir té una espasa de llum a la mà i ens mira tots amb unes solemnes paraules:
+>Zefir: A partr d'ara sóc espadatxí. Quan fem un festí conjunt sereu part dels Trobadors de Salazar.
+>I ens ofereix algunes de les sobres dels tresors que deuen haver robat algun que altre lloc.
+>Sembla que la seva busqueda a la sala dels tresors ha tingut èxit. Una espasa força estètica, però no crec que faci més mal que el barbar d'en Logan. És talòs per fort com un la obsidiana.
+>M'ofereixen una flauta però la veritat és que no tinc cap interès. I al final em donen una daga senzilla.
+>Ens fem invisibles i tornem a la última sala que haviem arribat.
+>Veiem 2 pedres gegant de ambre i una zona on sembla que n'hi hauria d'haver una però no n'hi ha.
+>Unes escales al fons, decidim seguir pujant.
+>Una sala molt luxosa plena de estantaries amb llibres infinits. 
+>Em corro.
+>Intento buscar llibres que ens puguin ajudar amb la gesta contra Astrad.
+>Mentrestant, de sobte, sobra una porta amagada entre estantaries.
+>Baixem per la porta amagada.
+>Hem tornat a la sala anterior.
+>Torno a la sala dels llibres i segueixo buscant informació de Astrad.
+>Trobo un llibre de història de Varobia. Parla de 300 anys abans i nombre Astrad en algun fragment. [[Denislav Struck|Denis]] m'interrompt i em fa baixar per les escales de nou.
+>M'acomiado de lo que és possiblament la millor sala que he trepitjat mai. Se'm escapa una llagrima i seguim investigant per la sala de baix.
+>Veiem un passadís simètric amb el que ens van atacar. 
+>Veiem varies sales amb sarcofecs de amber. Alguns de buits, altres de trencats,... res de nou.
+>En Logan conversa amb unes criatures d'un sol ull que li confirmen que han vist a Giath però que no saben on és. Tanquem la porta amb [[Arcane Lock]] i seguim investigant.
+>Finalment ens apareix Exethanter i Naferon. Un home cadaveric i la puta rata gegant. Fa xislquet amb els dits i ens treu la invisibilitat. Denota poder i ens té una mica acollunits però establim una conversa amistosa.
+>Neferon s'excusa dient que ell havia de defensa el temple.
+>Logan: Hi la veritat és que ho fas molt i molt bé.
+>Exethanter: Els mortals tendiu a cometre errors. Què feu aquí?
+>Zefir: Nosaltres no hem alliberat a ningú. 
+>Exethanter: Ho sé, us he observat durant durant molta estona. Suposo que no heu tocat cap sarcofec d'amber.
+>En Logan dubte.
+>Exethanter: No recordo com vaig arribar en aquest estat però la observació em diu que sóc un Lithch. Tinc la gran tasca de vigila aquest lloc. 
+>Logan: Vigilant de qui?
+>Exethanter: The persones com en Giath o com el meu amic Astrad.
+>Certament tenia una relació d'amistad tal i com la tenieu vosaltres amb Giath.
+>Fa un anys aquesta relació es va trencar per motius que ja us explicaré.
+>Logan: Va ser per Catrina?
+>Zefir: Puc fer una hipotesi!?! Hi ha poders malvats atrapats en els ambers i Astrad va alliberar?
+>Exethanter: Ets molt espavilat Zefir. Aquí hi havia una escola de màgia i es va està investigant sobre unes entitats que escampaven el terror. Vam intentar erradicar-los però molts mags queien en mans d'aquests poders foscos. Al final vam trobar una manera de tancar-los per evitar que fessin mal. Però tenir-los tancats aquí durant tant anys ens va anar corrumpen. Vam capturar tots els poders foscos un a un fins que tots van està atrapats. Però aleshores mica en mica ens vam anar corrumpen com heu vist les criatures d'un ull, antigament companys mags.
+>Després un dia va venir el meu amic Astrad. Va venir com un amic però el seu desig de poder va fer que alliberes un poder fosc. És molt més que un simple humà convertit en vampir. Fa ús del poder fosc que hi havia atrapat i això li otorga tot el poder que heu vist i el que encara no heu vist.
+>Giath va alliberar un poder similar. I si no s'evita acabar governant tot el pla real de la existència i acabar sent un Deu com a Giath Abdulah el Gran tot poderós.
+>Es lamenta pel fet de que va confiar en Astrad i això va desencadana la situació actual.
+>La entitat que va alliberar Giath és diu Gutalah, la larba de regitació facal. I té els seus propis plans, Giath només és un titella, ja no té cap control.
+>Per poder tancar el poder fosc, primer s'ha de eliminar el senyor fosc qui el porta. Un cop el vincle es trenca, és quan es pot contenir el ritual amb un sarcofac d'ambre i un ritual màgic.
+>Aquest poder fosc porta més de 700 anys dominant aquesta terra.
+## Chapter 5
 >..

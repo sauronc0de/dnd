@@ -6,14 +6,14 @@
 - [x] [[Mage Armor]]
 - [x] [[Magic Missile]]
 - [ ] [[Detect Magic]]
-- [ ] [[Find Familiar]]
+- [x] [[Find Familiar]]
 
 ## Level 2 Spells
 - [x] [[Misty Step]]
 - [x] [[Enlarge slash Reduce]]
-- [x] [[Locate Object]]
+- [ ] [[Locate Object]]
 - [ ] [[Gust of Wind]]
-- [ ] [[Invisibility]]
+- [x] [[Invisibility]]
 - [x] [[Arcane Lock]]
 - [ ] [[Blur]]
 
@@ -26,7 +26,7 @@
 - [ ] [[Fly]]
 - [x] [[Haste]]
 - [x] [[Slow]]
-- [x] [[Clairvoyance]]
+- [ ] [[Clairvoyance]]
 
 ## Level 4 Spells
 - [ ] [[Fabricate]]

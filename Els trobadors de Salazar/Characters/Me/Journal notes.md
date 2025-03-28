@@ -253,7 +253,7 @@ Però sabien que ja no pertanyien al seu món.
 >Exethanter: The persones com en Giath o com el meu amic Astrad.
 >Certament tenia una relació d'amistad tal i com la tenieu vosaltres amb Giath.
 >Fa un anys aquesta relació es va trencar per motius que ja us explicaré.
->Logan: Va ser per Catrina?
+>Logan: Va ser per Tatiana?
 >Zefir: Puc fer una hipotesi!?! Hi ha poders malvats atrapats en els ambers i Astrad va alliberar?
 >Exethanter: Ets molt espavilat Zefir. Aquí hi havia una escola de màgia i es va està investigant sobre unes entitats que escampaven el terror. Vam intentar erradicar-los però molts mags queien en mans d'aquests poders foscos. Al final vam trobar una manera de tancar-los per evitar que fessin mal. Però tenir-los tancats aquí durant tant anys ens va anar corrumpen. Vam capturar tots els poders foscos un a un fins que tots van està atrapats. Però aleshores mica en mica ens vam anar corrumpen com heu vist les criatures d'un ull, antigament companys mags.
 >Després un dia va venir el meu amic Astrad. Va venir com un amic però el seu desig de poder va fer que alliberes un poder fosc. És molt més que un simple humà convertit en vampir. Fa ús del poder fosc que hi havia atrapat i això li otorga tot el poder que heu vist i el que encara no heu vist.
@@ -263,4 +263,63 @@ Però sabien que ja no pertanyien al seu món.
 >Per poder tancar el poder fosc, primer s'ha de eliminar el senyor fosc qui el porta. Un cop el vincle es trenca, és quan es pot contenir el ritual amb un sarcofac d'ambre i un ritual màgic.
 >Aquest poder fosc porta més de 700 anys dominant aquesta terra.
 ## Chapter 5
->..
+>Pregunto pel ritual que ens permet contenir aquestes entitats malignes un cop trencat el llaç amb el subjecte.
+>Es tracte d'un ritual molt poderós i complicat.
+>- Materials: Bloc d'àmbre. 
+>En Logan comenta que hi ha un portal de teleportació que porta en aquest temple. Podria ser la solució per atrapar-lo amb l'amber.
+>Diuen que hi ha una esfera de energia màgica en una de les torres del castell. Aquesta esfera el protegeix i diuen que és lo poc que queda de l'ànima de Astrad.
+>Comencem a discutir la estrategia per combatre el mal: Giath i Astrad.
+>Calaveric insisteix que Astrad té moltes capes de protecció, que no serà tant fàcil derrotar-lo.
+>Li mostrem el collaret de corbs, la espasa del germà de Astrad (Sergey) i els calçotets d'en Logan. No sembla que res l'impresioni per acabar amb Astrad.
+>Calaveric menciona unes paraules antigues que va dir Astrad:
+>Ell és el senyor de la terra.
+>Alguna cosa de 3 dones: La caçadora i dos més.
+>Astrad amb tot el seu afan de poder va profana el santuari de les dones.
+>Va trencar el fils del passat i va parbaritr el cicle natural de la vida. Ara la terra ni viu ni mort, pausada en el temps en un estat etern.
+>Hem de tallar el llaç de Astrad amb la terra. Restaurant la vida de la Vall. 
+>Hi ha 3 santuaris a la Vall, represntats amb cercles de pedres. 
+>S'ha de reconeixer les dames i fer-lios una ofrena per poder restaurar-les.
+>Historieta:
+>*Eren 3 les dames.*
+>*La teixidora era la dama del pantà. Encarregada de teixir el passat amb el coneixemnt. De guardar la historira. Relaciando amb una terenyina. Necessita alguna cosa històrica important de Varovia.*
+>*La cercadora: representa la clarividencia, el futur, el destí. Se la representa amb un corb amb ulls, a vegades amb una bola de vidre. És la dama del bosc, li haurieu de donar alguna cosa relacionada amb els seus símbols(Corbs i ulls). Aquesta està en el bosc.*
+>*La caçadora, la dama de la muntanya. És un simbol de la mort natural, la caça, l'equilibri entre caçador i presa. Representada amb fletxes, destrals,...*
+>Ens faran fer alguna prova segurament per aconseguir el seu respecte.
+>Zefir proposa destruir el cor (Bola de energia mica), després eliminar-lo en ell i finalment tancar l'essencia maligne dins del ambre.
+>Calaveric ens diu que si confiem amb ell, quan necessitem el bloc d'amber, ens el farà arribar.
+>M'explica el ritual per tal de atrapar el mal en l'amber. Diu que ho farem junts.
+>Ens marca en el mapa els 3 temples.
+>Veiem que encara és de nit així que ens quedem a descanar a la sala dels barbars.
+>En Logan va fer una volta mentre aclucu els ulls.
+>`Long rest`
+>En Zefir ens canta una epopeia èpica plena de emocions, recordant el seu amic Zaos que va morir combaten contra una bruixa.
+>`Level up (10)`
+>Fem camí cap el temple que tenim més aprop.
+>[[Denislav Struck]] amb el seu poder espiritual, que no deixa mai de sorprendrem, aconsegueix comunicar-se amb Van Rihter per indicar-li que vingui on ens trobem i ens porti el llibre de Astrad.
+>Baixem per una pendent plena de neu volant amb la meva màgia poderosa i amb la flauta d'en Zefir com si fossim fades.
+>Rihter ens explica com matar un vampir:
+>Kill vampir simple guide:
+>- Matar el vampir.
+>- Després tenim 1h per:
+>	- Buscar-lo al seu sarcòfec 
+>	- Clevar-li estaca al cor
+> Ens fa un seguit de regals:
+>- Ens regala una estaca.
+>- Un brevatge que et fa creixer el membre.
+>- Un altre que contagia una malaltia de riure.
+>- Un altre que és de color blanc, verí molt potent.
+>Ens informa de la presència de 3 bruixes a ReivenLoft
+>No sap res de Giath
+>Anem als pantans i fem l'ofrena del llibre.
+>Ens reclama que li tornem el seu cor.
+>Un corb ens indica on hi ha el cos de la Baba Lisaga. 
+>Amb la daga que tinc li arrenco el cor i el porto cap a la teixidora.
+>*Allà entrego el cor i de sobte, dia, nit, dia nit el temps passa a una velocitat que no podem controlar. És tot molt estrany, com un somni.* 
+>*Veiem Astrad enfedat, un poble inundat per el riu, Irina.*
+>*5 dones torturades, Astrad no mostra ni emocio ni pietat.*
+>*Són com escènes molt ràpides.* 
+>*Una bruixa arranca el cor a una de les dames i després l'entrega rient a Astrad.*
+>*Durant un instant veiem un drac amb escates paltejades volant el cel.*
+>*Quan finalment tot satura.*
+>*Apareix Baba Ligasa que ens pren el cor i fa coses rares.*
+>

@@ -18,12 +18,12 @@
 - [ ] [[Blur]]
 
 ## Level 3 Spells
-- [x] [[Counterspell]]
-- [ ] [[Dispel Magic]]
+- [ ] [[Counterspell]]
+- [x] [[Dispel Magic]]
 - [ ] [[Fireball]]
 - [x] [[Lightning Bolt]]
 - [x] [[Gaseous Form]]
-- [ ] [[Fly]]
+- [x] [[Fly]]
 - [x] [[Haste]]
 - [x] [[Slow]]
 - [ ] [[Clairvoyance]]

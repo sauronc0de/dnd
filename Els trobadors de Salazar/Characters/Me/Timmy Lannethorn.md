@@ -29,13 +29,13 @@ Skills:
 SavingThrows:
   - INT
   - WIS
-currentHp: 54
+currentHp: 60
 Level: 9
 MageArmor: true
 TemporaryHp: 5
 NumHitDice: 10
 Hp: 61
-sdasd: 
+sdasd:
 ---
 # Timmy Lannethorn
 
@@ -258,12 +258,12 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 
 ## [[I-Buc|Spells]] Slots
 ### Level 1
-- [ ] **Slot 1 Available**
-- [ ] **Slot 2 Available**
+- [x] **Slot 1 Available**
+- [x] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 - [ ] **Slot 4 Available**
 ### Level 2
-- [x] **Slot 1 Available**
+- [ ] **Slot 1 Available**
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 3
@@ -275,7 +275,7 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 5
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
 - [ ] **Slot 1 Available**
 
 

@@ -61,7 +61,7 @@ Alignment: [Left, Center]
 | **Attribute**  | **Value**                             |
 | -------------- | ------------------------------------- |
 | **Class**      | Wizard (War magic)                    |
-| **Level**      | 9                                     |
+| **Level**      | 10                                    |
 | **Race**       | [[Gnome]][[Gnome#Rock Gnome\|(Rock)]] |
 | **Alignment**  | Neutral                               |
 | **Background** | Sage                                  |
@@ -223,17 +223,17 @@ actions: []
 
 # Background
 
-**Tyrian Lannethorn**, fill més jove de Lord Tiberian Lannethorn, va néixer en una família poderosa i orgullosa, coneguda per les seves terres vastes i les seves influències polítiques. El seu pare, un home alt i imponent, i els seus germans, Celeste i Joran, sempre l’han considerat un fracàs. A diferència dels seus germans, que van heretar la força i l’habilitat per les arts de la guerra, Tyrian era petit, i la seva estatura d’un mighome feia que tothom el veiés com a feble i inútil. Però el que la seva família no va entendre mai va ser que el petit Tyrian era, de fet, el més perillós de tots.
+**Timmy Lannethorn**, fill més jove de Lord Tiberian Lannethorn, va néixer en una família poderosa i orgullosa, coneguda per les seves terres vastes i les seves influències polítiques. El seu pare, un home alt i imponent, i els seus germans, Celeste i Joran, sempre l’han considerat un fracàs. A diferència dels seus germans, que van heretar la força i l’habilitat per les arts de la guerra, Timmy era petit, i la seva estatura d’un mighome feia que tothom el veiés com a feble i inútil. Però el que la seva família no va entendre mai va ser que el petit Timmy era, de fet, el més perillós de tots.
 
-En un món ple de guerres, traïcions i màgia, la seva veritable força no era la força física, sinó la seva ment afilada i la seva connexió amb les arts arcàniques. Des de ben jove, Tyrian va descobrir que la màgia era el seu camí per demostrar el seu valor. Va estudiar sota els millors mestres d'arcans, subratllant les tècniques més complexes de la màgia de control i il·lusió, aprofitant la seva aguda ment i capacitat de lectura d’emocions i situacions.
+En un món ple de guerres, traïcions i màgia, la seva veritable força no era la força física, sinó la seva ment afilada i la seva connexió amb les arts arcanes. Des de ben jove, Timmy va descobrir que la màgia era el seu camí per demostrar el seu valor. Va estudiar sota els millors mestres arcans, subratllant les tècniques més complexes de la màgia i  aprofitant la seva aguda ment i capacitat de lectura d’emocions i situacions.
 
-Malgrat la seva brillantor, les portes de la cort es van tancar per a ell. La seva família, i especialment el seu germà Joran, que desitjava la glòria en el camp de batalla, considerava que un mag tan petit no tenia cap lloc al seu costat. Però Tyrian va aprendre a ser més astut que qualsevol cavaller. Va començar a manipular les subtilitats polítiques de la cort amb un somriure subtil, utilitzant la seva intel·ligència per convèncer als altres, per manipular els esdeveniments des de les ombres.
+Malgrat la seva brillantor, les portes de la cort es van tancar per a ell. La seva família, i especialment el seu germà Joran, que desitjava la glòria en el camp de batalla, considerava que un mag tan petit no tenia cap lloc al seu costat. Però Timmy va aprendre a ser més astut que qualsevol cavaller. Va començar a manipular les subtilitats polítiques de la cort amb un somriure subtil, utilitzant la seva intel·ligència per convèncer als altres, per manipular els esdeveniments des de les ombres.
 
-El seu gran moment va arribar quan el regne es va veure amenaçat per un nou enemic: un governant estranger amb una força militar formidable i un poder màgic desconegut. La seva família, desconcertada i aterrida, va intentar una aliança amb el rei rival. Però Tyrian, amb les seves habilitats màgiques, va veure una oportunitat de redimir-se i salvar el seu nom. Va utilitzar les seves habilitats d'il·lusió i encantament per enganyar l'enemic, convencent-lo que els seus exèrcits eren més nombrosos del que realment eren i que l'aliança amb el regne era una trampa.
+El seu gran moment va arribar quan el regne es va veure amenaçat per un nou enemic: un governant estranger amb una força militar formidable i un poder màgic desconegut. La seva família, desconcertada i aterrada, va intentar una aliança amb el rei rival. Però Timmy, amb les seves habilitats màgiques, va veure una oportunitat de redimir-se i salvar el seu nom. Va utilitzar les seves habilitats de encantament per enganyar l'enemic, convencent-lo que els seus exèrcits eren més nombrosos del que realment eren i que l'aliança amb el regne era una trampa.
 
-Quan el conflicte va arribar a l’extrem, va ser Tyrian qui, amb un conjur astut, va envair els somnis del líder enemic, fent-li veure una visió aterradora d'una traïció interna. El líder va caure en el parany, i amb la seva retirada, el regne va ser salvat. Aquest acte va catapultar Tyrian al reconeixement i la seva família, que abans el menyspreava, va veure finalment el veritable valor que aportava. Però Tyrian sabia que no era la glòria que volia; el que realment desitjava era la llibertat per viure segons les seves pròpies regles.
+Quan el conflicte va arribar a l’extrem, va ser Timmy qui, amb un conjur astut, va envair els somnis del líder enemic, fent-li veure una visió aterradora d'una traïció interna. El líder va caure en el parany, i amb la seva retirada, el regne es va salvar. Però a ulls de la seva família això no es va entendre. Creien que realment havia protegit al enemic o que havia buscat algun tipus de relació. Davant el dubte va ser considerat heretge a la corona i va se exiliat de per vida. Va ser en aquesta situació on va coneixer un clergue del regne enemic que el va ajudar a aturar la guerra. Practicament sense coneixers, fruit d'un sol acte de bondat es va forjar una gran i llarga amistat.
 
-Ara, Tyrian viatja pel món, buscant més coneixements arcans, utilitzant la seva màgia per defensar els innocents i mantenint sempre un ull sobre les intrigues que es desenvolupen a les corts i els regnes. La seva astúcia i les seves habilitats màgiques el converteixen en un aliat valuós per aquells que el coneixen, però també en un enemic temible per aquells que s’atreveixen a subestimar-lo.
+
 
 # Current Match
 

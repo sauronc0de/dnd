@@ -14,23 +14,23 @@
 - [ ] [[Locate Object]]
 - [ ] [[Gust of Wind]]
 - [x] [[Invisibility]]
-- [x] [[Arcane Lock]]
+- [ ] [[Arcane Lock]]
 - [ ] [[Blur]]
 
 ## Level 3 Spells
-- [ ] [[Counterspell]]
-- [x] [[Dispel Magic]]
-- [ ] [[Fireball]]
+- [x] [[Counterspell]]
+- [ ] [[Dispel Magic]]
+- [x] [[Fireball]]
 - [x] [[Lightning Bolt]]
-- [x] [[Gaseous Form]]
-- [x] [[Fly]]
+- [ ] [[Gaseous Form]]
+- [ ] [[Fly]]
 - [x] [[Haste]]
 - [x] [[Slow]]
 - [ ] [[Clairvoyance]]
 
 ## Level 4 Spells
-- [ ] [[Fabricate]]
-- [ ] [[Polymorph]]
+- [x] [[Fabricate]]
+- [x] [[Polymorph]]
 
 ## Level 5 Spells
 - [x] [[Wall of Force]]

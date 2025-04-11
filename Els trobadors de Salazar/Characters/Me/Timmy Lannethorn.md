@@ -30,12 +30,12 @@ SavingThrows:
   - INT
   - WIS
 currentHp: 60
-Level: 9
+Level: 10
 MageArmor: true
 TemporaryHp: 5
 NumHitDice: 10
-Hp: 61
-sdasd:
+Hp: 60
+sdasd: 
 ---
 # Timmy Lannethorn
 
@@ -185,7 +185,7 @@ actions: []
 	- [[Message]]
 
 ## Spells
-- **Spell save DC** 15 (+7) 
+- **Spell save DC** 17 (+9) 
 - [[Timmy Lannethorn#I-Buc Spells Slots|Spells slots]]
 # Equipment
 
@@ -241,7 +241,7 @@ Quan el conflicte va arribar a l’extrem, va ser Timmy qui, amb un conjur astut
 ## Current Stats
 
 ```meta-bind
-INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
+INPUT[progressBar(minValue(0), maxValue(60)):currentHp]
 ```
 
 
@@ -263,11 +263,11 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - [ ] **Slot 3 Available**
 - [ ] **Slot 4 Available**
 ### Level 2
-- [ ] **Slot 1 Available**
-- [ ] **Slot 2 Available**
+- [x] **Slot 1 Available**
+- [x] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 3
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 4
@@ -275,7 +275,7 @@ INPUT[progressBar(minValue(0), maxValue(54)):currentHp]
 - [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 5
-- [x] **Slot 1 Available**
+- [ ] **Slot 1 Available**
 - [ ] **Slot 1 Available**
 
 

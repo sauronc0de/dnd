@@ -322,4 +322,38 @@ Però sabien que ja no pertanyien al seu món.
 >*Durant un instant veiem un drac amb escates paltejades volant el cel.*
 >*Quan finalment tot satura.*
 >*Apareix Baba Ligasa que ens pren el cor i fa coses rares.*
->
+
+## Chapter 6
+>Caminem fins Vallaqui per poder descansar al poble.
+>Arribem de matinada però la seva gran hospitalitat ens abraça i ens dóna l'escalf que necessitavem.
+>Ens fotem un esmorzar de forquilla que farà història.
+>Portem la gemma als Martikov. 
+>La planten al terra i la terra comença a germinar i florir més rapid que la velocitat de lombre.
+>En Logan diu que el nen del qual es tutor però que es troba al orfenat, ja té un domini alt de l'ús del ganivet.
+>En Logan comença a parlar amb un esperit amb un idioma que desconec. Possiblament tractant-se del bosc serà druidic.
+>Logan ens explica que és una prova i serà dura. I que l'únic camí és cap avall.
+>`+5 Hp`
+>S'obra com una porta d'arrels i branques. Entrem i es tanca derrera nostra.
+>Arrels i humitat per tot arreu, foscor i el xiuxiueix de llums de l'espasa d'en Zefir.
+>En Logan va molt decidit i el seguim.
+>Tinc un mussol que m'ajuda amb la visió.
+>Larves escaroça!. `Iniciativa!`
+>Fan molt fàstic però les matem totes.
+>Comencem a investigar camins però no anem més perduts que un rondallaire sense rondalles.
+>Al final arribem a una zona plena de Estirges. Fireball!
+>Seguim el camí fins que arribem a una caverna.
+>Totes les parets recobertes de simbols druidics i al mig restes d'una foguera possiblament no utilitzada durant molt i molt de temps.
+>En Logan veu un forat i s'hi tira de cap. Ferm amb la frase que li han comunicat.
+>Al veure que té dificultats per passar-hi li faig un [[Enlarge slash Reduce]]. Anem baixant cap avall fins que arribem una sala amb aigua i amb foscor màgica.
+>Mica en mica ens anem seperant i quedem totalment aïllats.
+>M'apareix un desgraciat amb soria gris. 
+>Li deixo clar que cadascú és responsable dels camins de la seva vida eegh.
+>I marxo.
+>Ens tornem a trobar tots. Veiem un forat i en Denis i en Logan decideixen saltar-hi.
+>Es trenquen les cames.
+>Jo i en Zefir baixem volant amb la seva màgia.
+>Un cop a baix veiem que tot està ple de ossos.
+>La foscor torna a governar tota la nostra visió i ...
+
+## Chapter 7
+> XXYY

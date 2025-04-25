@@ -260,7 +260,7 @@ INPUT[progressBar(minValue(0), maxValue(60)):currentHp]
 ### Level 1
 - [x] **Slot 1 Available**
 - [x] **Slot 2 Available**
-- [ ] **Slot 3 Available**
+- [x] **Slot 3 Available**
 - [ ] **Slot 4 Available**
 ### Level 2
 - [x] **Slot 1 Available**
@@ -268,15 +268,15 @@ INPUT[progressBar(minValue(0), maxValue(60)):currentHp]
 - [ ] **Slot 3 Available**
 ### Level 3
 - [x] **Slot 1 Available**
-- [ ] **Slot 2 Available**
-- [ ] **Slot 3 Available**
+- [x] **Slot 2 Available**
+- [x] **Slot 3 Available**
 ### Level 4
-- [ ] **Slot 1 Available**
-- [ ] **Slot 2 Available**
-- [ ] **Slot 3 Available**
+- [x] **Slot 1 Available**
+- [x] **Slot 2 Available**
+- [x] **Slot 3 Available**
 ### Level 5
-- [ ] **Slot 1 Available**
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
+- [x] **Slot 1 Available**
 
 
 ## Conditions

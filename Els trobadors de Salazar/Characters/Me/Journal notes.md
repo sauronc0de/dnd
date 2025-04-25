@@ -356,4 +356,37 @@ Però sabien que ja no pertanyien al seu món.
 >La foscor torna a governar tota la nostra visió i ...
 
 ## Chapter 7
+> La foscor juga amb nosaltres durant una bona estona.
+> No veiem res, alguna cosa ens agafa i en llença constament.
+> Maleït sigui!
+> Finalment pujo a les espatlles d'en Logan per evitar ser agafat, continuem endavant i de sobte!
+> Apareixen tot de monstres potrefactes escaroços i comencem el combat!
+> `Initiative`
+> Jo començo a tirar [[Lightning Bolt]] a tot i a dret rebentant cranis escaroços mentre que en [[Logan]] reparteix destralasos com si no hi hagués un demà.
+> Al veure que no paren de apareixer més i més criatures en l'últim crani que rebento entro en furia, digne d'un barbarian.
+> Aaaaaaghh Som-hi Logan, rabantem monstres fins a la mort!!!!! Aaaaaaaahhhh!!!
+> Estem matant monstres durant gaire bé 30h seguides.
+> Quan acabem amb tots ells, seguim caminant pendent avall.
+> Sembla que ens acostem a una paret i tornem a sentir algun moviment davant nostre.
+> Apareix una planta carnivora que s'alimenta de cossos calaverics.
+> `Initiative`
+> *Fireball! 34 Fire damage!*
+> L'última planta la bloquejo amb la barrera de força.
+> Per por de que en pugui atacar més tard, ens praparem per matar-la i just desfaig la barrera quan la trinxem com un sac de boxe.
+> Sene spells lvl 3 i 4.
+> Finalment arribem a una zona sense foscor i amb un forat.
+> Com és costum en Logan diu alguna cosa del seu oncle i s'hi tira de cap.
+> Jo com que estic a sobre seu començo a caure també.
+> Però amb tota la reacció de supvervivència que tinc, faig un [[Misty Step]] i torno cal a dalt. 
+> Amb tanta mala sort que en [[Denislav Struck]] salta per salvar-me sense veure que havia fet un tp.
+> Al veureu en [[Zefir]] es transforma amb aguila i comença a baixar.
+> Jo faig el mateix al derrera seu, consumint al poc poder màgic que em quedava.
+> Després de més de 15' arribem a un terra super flonjo i estrany.
+> No sabem què fer.
+> En [[Denislav Struck]] intenta cabar un forat i veiem núvols a l'altre costat.
+> Ens dona la sensació que estem sobra els núvols, a algun lloc molt elevat.
+> En [[Logan]], impacient com és, decideix travessar cap a l'altre costat. De tal manera que descobreix que la grevetat s'inverteix i anem a parar al turó de l'home.
+> Allà ens apareix lo que reconeixem clarament com la dama del bosc. Uns cabells llisos que reposen sobre els ombros com neu en la muntanya. Un gran parell de majastuoses .... Ens mira i assenteix amb el cap. Després fuig com un cervol.
+> Fi!
+## Chapter 8
 > XXYY

@@ -29,10 +29,10 @@ Skills:
 SavingThrows:
   - INT
   - WIS
-currentHp: 60
+currentHp: 81
 Level: 10
 MageArmor: true
-TemporaryHp: 5
+TemporaryHp: 0
 NumHitDice: 10
 Hp: 60
 sdasd: 
@@ -198,6 +198,7 @@ actions: []
 - [[Spellbook de rellotges]]
 - Arcane focus 📿
 - [[Backpack]] 
+- Vials d'aigua sagrada x2
 - Armor: None
 - Llibre: Novela
 # Personality
@@ -241,7 +242,7 @@ Quan el conflicte va arribar a l’extrem, va ser Timmy qui, amb un conjur astut
 ## Current Stats
 
 ```meta-bind
-INPUT[progressBar(minValue(0), maxValue(60)):currentHp]
+INPUT[progressBar(minValue(0), maxValue(81)):currentHp]
 ```
 
 
@@ -259,24 +260,26 @@ INPUT[progressBar(minValue(0), maxValue(60)):currentHp]
 ## [[I-Buc|Spells]] Slots
 ### Level 1
 - [x] **Slot 1 Available**
-- [x] **Slot 2 Available**
-- [x] **Slot 3 Available**
+- [ ] **Slot 2 Available**
+- [ ] **Slot 3 Available**
 - [ ] **Slot 4 Available**
 ### Level 2
 - [x] **Slot 1 Available**
-- [x] **Slot 2 Available**
+- [ ] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 3
-- [x] **Slot 1 Available**
-- [x] **Slot 2 Available**
-- [x] **Slot 3 Available**
+- [ ] **Slot 1 Available**
+- [ ] **Slot 2 Available**
+- [ ] **Slot 3 Available**
 ### Level 4
 - [x] **Slot 1 Available**
-- [x] **Slot 2 Available**
-- [x] **Slot 3 Available**
+- [ ] **Slot 2 Available**
+- [ ] **Slot 3 Available**
 ### Level 5
-- [x] **Slot 1 Available**
-- [x] **Slot 1 Available**
+- [ ] **Slot 1 Available**
+- [ ] **Slot 1 Available**
+### Level 6
+- [ ] **Slot 1 Available**
 
 
 ## Conditions

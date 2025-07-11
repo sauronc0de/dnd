@@ -389,4 +389,63 @@ Però sabien que ja no pertanyien al seu món.
 > Allà ens apareix lo que reconeixem clarament com la dama del bosc. Uns cabells llisos que reposen sobre els ombros com neu en la muntanya. Un gran parell de majastuoses .... Ens mira i assenteix amb el cap. Després fuig com un cervol.
 > Fi!
 ## Chapter 8
-> XXYY
+> Tornem caminant cap la finca dels Martikov,(Mag dels vins).
+> Menjo pesol amb cansalada i vaig a subar que fa hores que el sol s'ha acomiadat.
+> Mentre tornem a fer camí ens topem amb un Pastrami que ens dóna una invitació per la celebració del casament de  Stradh i Ireene.
+> Ens les opcions alimentaries tenen en compte una opció vagana lo que em fa pensar que Stradh és una persona moderna que es preocupa realment pels convidats. Una persona amb molt de tacte i empatia. La Ireene aquesta deu tenir sort d'haver trobat un bon cavaller com ell.
+> Juntament amb els Martikov discutim una possible estratègia per fer caça al vampir.
+> Afegirem armes en un fals terra amb una petita pestanya per fer caure totes les armes.
+> Anem a veure en Ricktavio i seguim maquinant estratègies per vença Strahd.
+> Ell s'encarragara d'anar avisar els homes llop malgrat no s'hi porti gaire bé.
+> Finalment decidits anem cap a l'última prova. Al costat del molí de vent on van matar una [[Hags]].
+> En [[Denislav Struck]] fa entrega d'un simbol sagrat de Reivencloff (Els blaus)
+> Tots els manirs comencen a moures i de sobte veiem un terra de obsidiana i uns blocs on ens hi veiem reflectits.
+> Veiem dins del reflexa com Logan mata a Zephir i Denis a Timmy. Lo segon és clarament impossible.
+> A la que en Logan toca un dels miralls apareixen en Logan' i en Zephir' i comença el combat!
+> Finalment transformem els rivals amb tortugues. Jejeje salu2.
+> Al final en Logan' es desbeix com la cendre en el vent.
+> Ens apareix la cercadora, ens mostra el símbol XXYY, ens observa sense dir ni una paraula i desepereix.
+> `Level up! 11`
+
+## Chapter 9
+> Muntem un campament i anem a dormir.
+> Ens despertem a mitja tarda.
+> A mig camí veiem com moltes de les persones conegudes van direcció al castell.
+> Fem un festí de celebració perquè aquesta nit soparem a l'infern!
+> En Zefir ens canta una canço nova que descriu el futur. Tots optimistes bebem i mengem mentre ens movem al ritme de la música.
+> Després de marcar tota la estrategia, una fisura sense pla comencem a fer camí.
+> 
+> Un carroatge ens espera sense conductor. Anem vestits de gala, jo en concret, porto un bastó i un monocle.
+> En Denis brilla com sempre i en Zefir té alguna arruga al traje però no li dic res.
+> En Logan clarament no li han fet el traje a mida i se li veuen els turmells i va tot apretat.
+> Apareix un humanoide ben lleig amb un fanal que ens ilumina. 
+> "Ah sou vosaltres. Si si benvinguts a Reivenclov, jejeje(Riure maligne)"
+> La cosa no pinta gaire bé. 
+> És completament de nit.
+> Envio el meu oncle a explorar les torres per veure si puc veure alguna cosa.
+> Hi ha 3 torres i dues connectades entre elles. De les dues torres connectades, la més alta té una llum vermella.
+> Rahadin ens rep:
+> "Els nostres convidats més esperats (Somriure maligne)"
+> Ni tant sols dissimulen els fills de puta.
+> Ens fa jura que no la liarem.
+> Ens escorcollen i ens fan entregar totes les armes que tenim.
+> Aconsegueixo fer un collaret fals per evitar que [[Denislav Struck]] hagi d'entregar el collaret sagrat de poder.
+> Zefir es veu obligat a entregar l'espasa de "matem Strhad".
+> Finalment entrem a dins, deixo el meu oncle volant per les torres del castell.
+> El nen petit assassí ens revela que hi ha 3 [[Hags]].
+> Rahat ens fa passar amb Strhad que diu que vol fer una copa de vi abans del acte.
+> El vampir ens diu que hem sigut els enemics més forts que ha tingut mai. I diu que si no fem res, a l'alba, ens deixarà marxar lliures.
+> Proposo doncs un brindis per els homes lliures i la llibertat.
+> Intento evitar que Logan fiqui la pota parlant més del que pensa.
+> L'Emil ens revela on són les armes/carruatges.
+> Envio una formiga/mosca a buscar el "matem Strhad" mitjançant [[Locate Object]].
+> Ens assentem on ens indiquen per la cerimonia.
+> Finalment després de molta espera apereix Irina.
+> Em transformo amb formiga i me'n vaig a buscar l'espasa de Zefir mentre espero que ell s'hagi fet invisible i hagi vingut també.
+> Veig que de manera ridicula s'estira sobra l'aigua agafant molt aire i empenyensa amb una mà màgica. 
+> Jo amb moltisima classe transformo alguns troços d'aigua en gel per tal de poder passar caminant.
+> Finalment ens trobem amb "Matem Strhad!"
+> Desconec què està passant en la cerimonia però sentim un soroll estrident de vidres trencats. Esperem que hi hagi sort,... o justícia.
+
+## Chapter 10
+>  

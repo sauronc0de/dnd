@@ -11,11 +11,11 @@
 ## Level 2 Spells
 - [x] [[Misty Step]]
 - [x] [[Enlarge slash Reduce]]
-- [ ] [[Locate Object]]
+- [x] [[Locate Object]]
 - [ ] [[Gust of Wind]]
-- [x] [[Invisibility]]
+- [ ] [[Invisibility]]
 - [ ] [[Arcane Lock]]
-- [ ] [[Blur]]
+- [x] [[Blur]]
 
 ## Level 3 Spells
 - [x] [[Counterspell]]
@@ -24,19 +24,21 @@
 - [x] [[Lightning Bolt]]
 - [ ] [[Gaseous Form]]
 - [ ] [[Fly]]
-- [x] [[Haste]]
+- [ ] [[Haste]]
 - [x] [[Slow]]
 - [ ] [[Clairvoyance]]
 
 ## Level 4 Spells
 - [x] [[Fabricate]]
 - [x] [[Polymorph]]
+- [x] [[Banishment]]
 
 ## Level 5 Spells
 - [x] [[Wall of Force]]
-- [ ] [[Conjure Elemental]] | [[Elementals]]
-- [x] [[Creation]]
-
+- [x] [[Conjure Elemental]] | [[Elementals]]
+- [ ] [[Creation]]
+## Level 6 Spells
+- [ ] [[Contingency]]
 
 # Notes
 

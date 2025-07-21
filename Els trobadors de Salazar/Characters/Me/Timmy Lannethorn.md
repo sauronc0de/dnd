@@ -29,10 +29,10 @@ Skills:
 SavingThrows:
   - INT
   - WIS
-currentHp: 81
+currentHp: 15
 Level: 10
 MageArmor: true
-TemporaryHp: 0
+TemporaryHp: 11
 NumHitDice: 10
 Hp: 60
 sdasd: 
@@ -260,26 +260,26 @@ INPUT[progressBar(minValue(0), maxValue(81)):currentHp]
 ## [[I-Buc|Spells]] Slots
 ### Level 1
 - [x] **Slot 1 Available**
-- [ ] **Slot 2 Available**
-- [ ] **Slot 3 Available**
+- [x] **Slot 2 Available**
+- [x] **Slot 3 Available**
 - [ ] **Slot 4 Available**
 ### Level 2
 - [x] **Slot 1 Available**
-- [ ] **Slot 2 Available**
+- [x] **Slot 2 Available**
 - [ ] **Slot 3 Available**
 ### Level 3
-- [ ] **Slot 1 Available**
-- [ ] **Slot 2 Available**
-- [ ] **Slot 3 Available**
+- [x] **Slot 1 Available**
+- [x] **Slot 2 Available**
+- [x] **Slot 3 Available**
 ### Level 4
 - [x] **Slot 1 Available**
-- [ ] **Slot 2 Available**
-- [ ] **Slot 3 Available**
+- [x] **Slot 2 Available**
+- [x] **Slot 3 Available**
 ### Level 5
-- [ ] **Slot 1 Available**
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
+- [x] **Slot 1 Available**
 ### Level 6
-- [ ] **Slot 1 Available**
+- [x] **Slot 1 Available**
 
 
 ## Conditions

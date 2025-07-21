@@ -448,4 +448,31 @@ Però sabien que ja no pertanyien al seu món.
 > Desconec què està passant en la cerimonia però sentim un soroll estrident de vidres trencats. Esperem que hi hagi sort,... o justícia.
 
 ## Chapter 10
->  
+>  Converteixo el meu oncle formiga en un mono amb [[Polymorph]] per tal de que porti l'escut de [[Denislav Struck]] cap a ell.
+>  Amb en [[Zefir]] fem camí cap a la torre que conté el cor del vampir.
+>  Volant amb en [[Zefir]] arribem fins una esfera de vidre rogenca. Mentre ell em subjecte volant per l'interior de la torre jo projecto màgia a tort i a dret fins que finalment aconsegueixo trencar l'esfera. Acte seguit ens comencen a caure alabardes, vidre i emoció. 
+>  En Zefir reacionant al instant, fa un gir i comença a baixar a gran velocitat fins a sortir per una finestre. L'habilitat de [[Zefir]] volant és sorprenent.
+>  Tornem cap a la sala on tenim els companys i entre trencant els vidres de la finestra!
+>  S'ha acabat el broquil! <Crido>
+>  I creo un elemental que comença a fer volar a tothom a tort i a dret.
+>  Trec els meus revolvers i elimino una de les Hags.
+>  Strhad s'escapa en forma gaseosa.
+>  [[Zefir]] deixa anar unes paraules nobles als valents que han lluitat i els perduts en batalla. 
+>  Van Rihter: Segui vosaltres. Vosaltres ho vau començar i vosaltres ho acabareu!
+>  Ens mirem els 4, ens mirem cara a cara els Trobadors de Salazar i amb un signe de confirmació seguim caminant cap a fora del castell.
+>  [[Denislav Struck]] amb la seva grandissima prespicacia va [[Locate Creature]] i ens guia cap a Strhad.
+>  Mica en mica ja veiem que ens guia cap a les catacumbes.
+>  Finalment arribem a la seva tomba.
+>  Irina apareix morta davant nostre. Amb la clara mossegada d'un vampir, ens ha abandonat. 
+>  Strhad riu i ens diu que em perdut.
+>  Zefir impotent intenta atacar però Strahd desepereix altre vegada.
+>  Les seves últimes paraules són: Realment sou insistents, el destí ens porta cap el lloc predestinat.
+>  El gegant que va amb nosaltres amb una arma més gran que el ego d'en Zefir ens diu: Aquest deixeumel a mi, i es prepara per carregar contra Rahadit.
+>  Strahd es troba en la tomba de la seva mare. Gràcies a l'encanteri de Denis arribem amb  facilitat fins la localitat.
+>  Una sala impressionant i la figura de Strhad again...
+>  Una tenue llum penetra a la sala.
+>  Strhad diu: Marcju llegeix la frase epica que diu del seu pare,...
+>  Zefir diu: Només ets un esglaó més de la nostre aventura llegendària. Un petit fregment més per alimentar el meu EGO.
+
+## Chapter 11
+> Al final jo m'he hagut de encarregar de tot, com sempre. No un ni dos si no fins a 3 éssers obsucrs tancats en pedres de amber.

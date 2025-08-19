@@ -1,3 +1,4 @@
+<img src="DurinDuran.png" alt="Alt text" width="300"/>
 
 # Resum
 Alias: Durin Cargolfluix

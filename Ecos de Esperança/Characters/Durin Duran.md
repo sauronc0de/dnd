@@ -17,7 +17,7 @@ Nascut com a Dwarf, una **lesió gairebé mortal** el va condemnar… fins que u
 
 ## Actualitat
 
-### 👶 Els nens de Vilabovina
+### Els nens de Vilabovina
 - Els alumnes li van posar el sobrenom de **“Durin Cargolfluix”**, fent broma del seu cor i articulacions metàl·liques.
 - Tot i les burles, l’admiren perquè sempre troba **coneixements estranys i curiosos** per explicar-los.
 - Per a ells és com un **professor excèntric**: rigorós, però capaç de sorprendre amb històries úniques.

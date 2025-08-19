@@ -21,32 +21,28 @@ Nascut com a Dwarf, una **lesió gairebé mortal** el va condemnar… fins que u
 - Els alumnes li van posar el sobrenom de **“Durin Cargolfluix”**, fent broma del seu cor i articulacions metàl·liques.
 - Tot i les burles, l’admiren perquè sempre troba **coneixements estranys i curiosos** per explicar-los.
 - Per a ells és com un **professor excèntric**: rigorós, però capaç de sorprendre amb històries úniques.
-### Pep
+  
+### Rhyll
 - Amic íntim, però de poques paraules. Quan parla, sempre deixa anar una **idea brillant** o una frase plena de significat.
 - Tots dos juguen a **Sudowodo**, un trencaclosques numèric semblant al Sudoku. Ho practiquen cadascú pel seu compte, gairebé sense parlar, però amb una **complicitat tranquil·la**.
 - És com un **mirall mental** per a Durin: algú que l’estimula sense necessitat de diàleg constant.
-### MarcJu
+
+### Bhok'Aral
 - Un conegut que, misteriosament, sempre aconsegueix llibres nous, estranys i valuosos. 
 - Durin no sap **d’on surten aquests llibres** (mercats negres? contraban? herències oblidades?), però sempre són fonts d’innovació.
-    
-- Aquesta amistat li dona accés a coneixements prohibits o desconeguts, fent-lo encara més **únic com a mestre**.
-### Marçal
+- Aquesta amistat li dona accés a coneixements desconeguts, fent-lo encara més **únic com a mestre**.
+- Algun cop m'ha confessat que està més temps del recomanat a fora per poder experimentar amb la plaga. Fins hi tot una vegada em va convencer per posar-m'he a provar.
+
+### Alberic Terraviva
+- És un jove aprenent de màgia amb una destresa sorprenent. Sovint em pregunta per alguns temes de màgia i no hi ha dia que no em sorprengui amb alguna habilitat nova.
+- A més a més és molt manyós amb la pedra. Més d'una vegada m'ha pogut ajudar amb algun artilugi per les classes.
 
 ## Experiències
-### Passat – “Segona oportunitat”
+### El batec del destí
+Quan el destí em crida, la meva ànima s’alça com un crit etern, sóc l’eco del seu designi i l’espasa del seu camí.
 
-_Després de l’accident i l’operació amb tecnologia antiga, visc cada batec com un regal. Però també em pregunto… per què jo?_
-
-- Aquesta experiència explora el misteri del **cor mecànic** i el sentit de la seva nova vida.
-### Present – “Durin Cargolfluix”
-
-_Tot i les burles dels nens i la meva diferència, he trobat un lloc ensenyant i compartint coneixement. Potser l’ensenyament és la meva veritable força._
-
-- Aquí es juga la relació amb la **comunitat i els alumnes**: entre l’acceptació, l’orgull i la vulnerabilitat.
-### Futur – “El secret dels llibres prohibits”
-
-_Els llibres estranys que arriben a les meves mans amaguen respostes sobre l’antiga tecnologia… i sobre el meu cor. Puc descobrir la veritat abans que sigui massa tard?_
-- Aquesta experiència obre la porta a aventures de **coneixement ocult, misteris antics i perill**.
+### Cargolfluix
+Quan ensenyo, explico o inspiro els altres amb coneixement, assumeixo el meu paper de mentor excèntric, guanyant confiança i despertant estupefacció.
 
 ## Conspiració
 Entre els meus amics i companys de biblioteca, corre una sospita que mai no diem en veu alta davant dels altres: **la plaga no és només una maledicció**, sinó una mena de **barrera protectora**.  

@@ -116,8 +116,7 @@ JSON_IO_STRUCT(Core_values,
 
 JSON_IO_STRUCT(Damage,
                (int, minor),
-               (int, major),
-               (int, severe));
+               (int, major));
 
 JSON_IO_STRUCT(Stats,
                (std::string, Name),
@@ -171,23 +170,15 @@ bool render_gui(T& obj) {
     } else if constexpr (std::is_same_v<FieldT, Damage>) {
       ImGui::TextColored(ImVec4(1.0f, 1.0f, 0.0f, 1.0f), "Minor");
       ImGui::SameLine();
-      ImGui::TextColored(ImVec4(0.9f, 0.2f, 0.2f, 1.0f), " Major ");
-      ImGui::SameLine();
-      ImGui::TextColored(ImVec4(0.6f, 0.2f, 0.8f, 1.0f), "Severe"); // purple
-
       ImGui::SetNextItemWidth(25);
       modified |= ImGui::InputInt(("##minor" + std::string(name_str)).c_str(), &field.minor, 0, 0);
       ImGui::SameLine();
-      ImVec4 tabBlue = ImGui::GetStyle().Colors[ImGuiCol_TabHovered];
-      ImGui::TextColored(tabBlue, ">>");
+      ImGui::TextColored(ImVec4(0.9f, 0.2f, 0.2f, 1.0f), "Major");
       ImGui::SameLine();
       ImGui::SetNextItemWidth(25);
       modified |= ImGui::InputInt(("##major" + std::string(name_str)).c_str(), &field.major, 0, 0);
       ImGui::SameLine();
-      ImGui::TextColored(tabBlue, ">>");
-      ImGui::SameLine();
-      ImGui::SetNextItemWidth(25);
-      modified |= ImGui::InputInt(("##severe" + std::string(name_str)).c_str(), &field.severe, 0, 0);
+      ImGui::TextColored(ImVec4(0.6f, 0.2f, 0.8f, 1.0f), "Severe"); // purple
     } else if constexpr (std::is_same_v<FieldT, Gold>) {
       ImGui::SetNextItemWidth(20);
       modified |= ImGui::InputInt("handful", &field.handful, 0, 0);
@@ -665,7 +656,7 @@ int main(int argc, char** argv) {
   // ──────────────────────────────────────────────────────────────────────────
   // 4) Single-file Core & Stats under DATA_PATH
   // ──────────────────────────────────────────────────────────────────────────
-  LoadAllIcons((data_dir + "/cards").c_str());
+  //LoadAllIcons((data_dir + "/cards").c_str());
   // set_imgui_color_style();
   // UseDefaultDarkWithYellowAccents();
 
@@ -709,7 +700,7 @@ int main(int argc, char** argv) {
       // ⬇️ Auto-generate one tab per listed struct type:
       needed_content = render_auto_tabs<Stats, Items>(data_dir);
 
-      if (icon_textures.size() > 0) {
+/*      if (icon_textures.size() > 0) {
         if (ImGui::BeginTabItem("Cards")) { //---- Cards TAB ----------//
           static bool windowed;
           static int selected_index;
@@ -756,7 +747,7 @@ int main(int argc, char** argv) {
           });
           ImGui::EndTabItem();
         }
-      }
+      }*/
 
       if (ImGui::BeginTabItem("...")) { //---- More Options TAB ----------//
         static bool windowed;

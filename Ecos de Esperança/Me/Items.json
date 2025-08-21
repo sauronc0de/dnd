@@ -22,9 +22,7 @@
     "name": "Leather armor"
   },
   "bag": {
-    "items": [
-      ""
-    ],
+    "items": [],
     "weapons": [
       {
         "Name": "Staff",

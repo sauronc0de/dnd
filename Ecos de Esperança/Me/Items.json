@@ -1,0 +1,44 @@
+{
+  "Primary": {
+    "Name": "Wand",
+    "damage": "d6+1",
+    "feature": "",
+    "range": 3,
+    "trait": 5,
+    "type": 0
+  },
+  "Secondary": {
+    "Name": "Shield",
+    "damage": "d4+1",
+    "feature": "+1 Armor",
+    "range": 0,
+    "trait": 1,
+    "type": 1
+  },
+  "armor": {
+    "base_score": "+3",
+    "base_threshold": "6/13",
+    "feature": "",
+    "name": "Leather armor"
+  },
+  "bag": {
+    "items": [
+      ""
+    ],
+    "weapons": [
+      {
+        "Name": "Staff",
+        "damage": "d6",
+        "feature": "Powerfull",
+        "range": 4,
+        "trait": 5,
+        "type": 0
+      }
+    ]
+  },
+  "gold": {
+    "bags": 0,
+    "chest": 0,
+    "handful": 0
+  }
+}

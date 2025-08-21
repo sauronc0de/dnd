@@ -24,7 +24,7 @@ include(FetchContent)
 FetchContent_Declare(
   imgui
   GIT_REPOSITORY https://github.com/ocornut/imgui.git
-  GIT_TAG        v1.91.9b-docking 
+  GIT_TAG v1.91.9b-docking
 )
 FetchContent_MakeAvailable(imgui)
 
@@ -35,6 +35,14 @@ FetchContent_Declare(
   GIT_TAG v0.16
 )
 FetchContent_MakeAvailable(implot)
+
+include(FetchContent)
+FetchContent_Declare(
+  magic_enum
+  GIT_REPOSITORY https://github.com/Neargye/magic_enum.git
+  GIT_TAG v0.9.5
+)
+FetchContent_MakeAvailable(magic_enum)
 
 # ImGui core source files
 add_library(imgui STATIC
@@ -69,8 +77,6 @@ target_include_directories(imgui_impl PUBLIC
 
 target_link_libraries(imgui_impl PUBLIC imgui SDL2::SDL2)
 
-add_definitions(-DDATA_PATH="${CMAKE_SOURCE_DIR}/data")
-
 # Main executable
 add_executable(app app.cpp)
 
@@ -81,14 +87,15 @@ target_include_directories(app PUBLIC
   ${CMAKE_CURRENT_SOURCE_DIR}
 )
 
-target_link_libraries(app PRIVATE 
-                          imgui_impl
-                          imgui 
-                          implot
-                          SDL2::SDL2
-                          SDL2::SDL2main
-                          OpenGL::GL
-                          GLEW::GLEW)
+target_link_libraries(app PRIVATE
+  imgui_impl
+  imgui
+  implot
+  SDL2::SDL2
+  SDL2::SDL2main
+  OpenGL::GL
+  GLEW::GLEW
+  magic_enum::magic_enum)
 
 # Find OpenGL
 find_package(OpenGL REQUIRED)

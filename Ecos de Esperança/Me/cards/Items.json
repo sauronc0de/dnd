@@ -1,0 +1,33 @@
+{
+  "Primary": {
+    "Name": "",
+    "damage": "",
+    "feature": "",
+    "range": 0,
+    "trait": 0,
+    "type": 0
+  },
+  "Secondary": {
+    "Name": "",
+    "damage": "",
+    "feature": "",
+    "range": 0,
+    "trait": 0,
+    "type": 0
+  },
+  "armor": {
+    "base_score": "",
+    "base_threshold": "",
+    "feature": "",
+    "name": ""
+  },
+  "bag": {
+    "items": [],
+    "weapons": []
+  },
+  "gold": {
+    "bags": 0,
+    "chest": 0,
+    "handful": 0
+  }
+}

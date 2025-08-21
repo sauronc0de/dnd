@@ -1,0 +1,33 @@
+{
+  "Agility": 0,
+  "Armor": {
+    "max": 0,
+    "value": 0
+  },
+  "Evasion": 0,
+  "Finesse": 0,
+  "Hope": {
+    "max": 0,
+    "value": 0
+  },
+  "Hp": {
+    "max": 0,
+    "value": 0
+  },
+  "Instinct": 0,
+  "Knowledge": 0,
+  "Level": 0,
+  "Name": "",
+  "Presence": 0,
+  "Strength": 0,
+  "Stress": {
+    "max": 0,
+    "value": 0
+  },
+  "damage": {
+    "major": 0,
+    "minor": 0,
+    "severe": 0
+  },
+  "subclass": 0
+}

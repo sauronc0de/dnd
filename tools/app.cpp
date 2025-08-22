@@ -233,6 +233,7 @@ bool render_gui(T& obj) {
           } else if constexpr (std::is_same_v<ElemT, bool>) {
             modified |= ImGui::Checkbox(label.c_str(), &field[i]);
           } else if constexpr (std::is_same_v<ElemT, std::string>) {
+            ImGui::SetNextItemWidth(140);
             static std::unordered_map<std::string, std::array<char, 128>> vec_buffers;
             auto& buf = vec_buffers[label];
             std::strncpy(buf.data(), field[i].c_str(), buf.size());

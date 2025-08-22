@@ -22,7 +22,14 @@
     "name": "Leather armor"
   },
   "bag": {
-    "items": [],
+    "items": [
+      "Torch",
+      "50 feet rope",
+      "basic supplies",
+      "Minor HP potion",
+      "Espurna (Tiny Pet)",
+      "Spell scrolls "
+    ],
     "weapons": [
       {
         "Name": "Staff",
@@ -37,6 +44,6 @@
   "gold": {
     "bags": 0,
     "chest": 0,
-    "handful": 0
+    "handful": 1
   }
 }

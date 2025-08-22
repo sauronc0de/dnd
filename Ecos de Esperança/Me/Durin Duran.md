@@ -1,4 +1,6 @@
-<img src="DurinDuran.png" alt="Alt text" width="300"/>
+<img src="DurinDuran.png" alt="Alt text" width="300" style="display:inline;"/><img src="Espurna.png" alt="Alt text" width="100" style="display:inline;"/>
+
+
 
 # Resum
 Alias: Durin Cargolfluix

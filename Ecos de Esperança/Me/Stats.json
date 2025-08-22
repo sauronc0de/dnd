@@ -8,11 +8,11 @@
   "Finesse": 0,
   "Hope": {
     "max": 6,
-    "value": 0
+    "value": 3
   },
   "Hp": {
     "max": 5,
-    "value": 5
+    "value": 2
   },
   "Instinct": 1,
   "Knowledge": 2,
@@ -26,8 +26,7 @@
   },
   "damage": {
     "major": 14,
-    "minor": 7,
-    "severe": 0
+    "minor": 7
   },
   "subclass": 15
 }

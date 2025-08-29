@@ -120,13 +120,13 @@ JSON_IO_STRUCT(Damage,
 
 JSON_IO_STRUCT(Stats,
                (std::string, Name),
-               (Subclass, subclass),
                (int, Level),
+               (Subclass, subclass),
+               (int, Evasion),
                (Core_values, Armor),
                (Core_values, Hp),
                (Core_values, Stress),
                (Core_values, Hope),
-               (int, Evasion),
                (int, Agility),
                (int, Strength),
                (int, Finesse),
@@ -134,6 +134,13 @@ JSON_IO_STRUCT(Stats,
                (int, Presence),
                (int, Knowledge),
                (Damage, damage));
+
+JSON_IO_STRUCT(Note,
+               (std::string, title),
+               (std::string, description));
+
+JSON_IO_STRUCT(Notes,
+               (std::vector<Note>, notes));
 
 template <typename T>
 bool render_gui(T& obj) {
@@ -157,12 +164,27 @@ bool render_gui(T& obj) {
         modified = true;
       }
     } else if constexpr (std::is_same_v<FieldT, Core_values>) {
+      bool changed_background = false;
+      if (field.value >= field.max) {
+        field.value = field.max;
+        changed_background = true;
+        // Change background to red when limit reached
+        ImGui::PushStyleColor(ImGuiCol_FrameBg, IM_COL32(150, 0, 0, 255)); // background
+      } else if (field.value >= field.max - 1) {
+        changed_background = true;
+        // Change background to yellow when 80% of limit reached
+        ImGui::PushStyleColor(ImGuiCol_FrameBg, IM_COL32(150, 150, 0, 255)); // background
+      }
+
       ImGui::SetNextItemWidth(80);
       std::string label(name_str);
       if (label.size() < 8) {
         label.append(8 - label.size(), ' ');
       }
       modified |= ImGui::InputInt(label.c_str(), &field.value);
+      if (changed_background) {
+        ImGui::PopStyleColor(1);
+      }
       ImGui::SameLine();
       ImGui::SetNextItemWidth(40);
       std::string max_label = "max##" + std::string(name_str);
@@ -189,8 +211,31 @@ bool render_gui(T& obj) {
       ImGui::SetNextItemWidth(20);
       modified |= ImGui::InputInt("chest", &field.chest, 0, 0);
     } else if constexpr (std::is_same_v<FieldT, int>) {
+      if (name_str == std::string("Knowledge")) {
+        ImGui::PushStyleColor(ImGuiCol_Text, ImVec4(0.4f, 0.8f, 1.0f, 1.0f)); // light blue
+      } else {
+        ImGui::PushStyleColor(ImGuiCol_Text, ImVec4(1.0f, 1.0f, 1.0f, 1.0f)); // white
+      }
       ImGui::SetNextItemWidth(25);
+      if (name_str == std::string("Agility")) {
+        ImGui::Separator();
+        ImGui::SetNextItemWidth(25);
+      } else if (name_str == std::string("Strength")) {
+        ImGui::SameLine(125);
+      } else if (name_str == std::string("Instinct")) {
+        ImGui::SameLine(125);
+      } else if (name_str == std::string("Knowledge")) {
+        ImGui::SameLine(125);
+      } else if (name_str == std::string("Level")) {
+        ImGui::SameLine();
+      }
       modified |= ImGui::InputInt(name_str, &field, 0, 0);
+      ImGui::PopStyleColor(1);
+      if (name_str == std::string("Evasion")) {
+        ImGui::Separator();
+      } else if (name_str == std::string("Knowledge")) {
+        ImGui::Separator();
+      }
     } else if constexpr (std::is_same_v<FieldT, float>) {
       modified |= ImGui::InputFloat(name_str, &field);
     } else if constexpr (std::is_same_v<FieldT, bool>) {
@@ -219,9 +264,35 @@ bool render_gui(T& obj) {
       using ElemT = typename FieldT::value_type;
       if (ImGui::TreeNode(name_str)) {
         for (size_t i = 0; i < field.size(); ++i) {
-          std::string label = std::to_string(i); // std::string(name_str) + "[" + std::to_string(i) + "]";
+          std::string label = std::to_string(i);
           ImGui::SetNextItemWidth(100);
-          if constexpr (hana::Struct<ElemT>::value && std::is_class_v<ElemT>) {
+
+          if constexpr (std::is_same_v<ElemT, Note>) {
+            Note& note = field[i];
+            const std::string base_id = std::string(name_str) + "[" + std::to_string(i) + "]";
+
+            // --- Inline editable title ---
+            auto& title_buf = string_buffers[base_id + ".title"];
+            std::strncpy(title_buf.data(), note.title.c_str(), title_buf.size());
+            ImGui::SetNextItemWidth(160);
+            if (ImGui::InputText(("##title" + base_id).c_str(), title_buf.data(), title_buf.size())) {
+              note.title = title_buf.data();
+              modified = true;
+            }
+
+            // --- Tooltip for description ---
+            if (!note.description.empty()) {
+              if (ImGui::BeginItemTooltip()) {
+                ImGui::PushTextWrapPos(ImGui::GetCursorPos().x + 235.0f); // limit width
+                ImGui::TextUnformatted(note.description.c_str());
+                ImGui::PopTextWrapPos();
+                ImGui::EndTooltip();
+              }
+            }
+
+            // IMPORTANT: do NOT `continue;`
+            // Let your generic per-item "Remove" button that comes after this block run as usual.
+          } else if constexpr (hana::Struct<ElemT>::value && std::is_class_v<ElemT>) {
             if (ImGui::TreeNode(label.c_str())) {
               modified |= render_gui(field[i]);
               ImGui::TreePop();
@@ -367,7 +438,7 @@ static void UseDefaultDarkWithYellowAccents() {
   style.Colors[ImGuiCol_TextSelectedBg].w = 0.35f; // same alpha as default
                                                    // If you prefer a yellow checkmark instead of white:
                                                    // style.Colors[ImGuiCol_CheckMark] = ImVec4(1.00f, 0.90f, 0.00f, 1.00f);
-  // style.Colors[ImGuiCol_Text] = ImVec4(0.6f, 0.2f, 0.8f, 1.0f); // purple
+                                                   // style.Colors[ImGuiCol_Text] = ImVec4(0.6f, 0.2f, 0.8f, 1.0f); // purple
 }
 
 // Strip namespaces from type name
@@ -657,7 +728,7 @@ int main(int argc, char** argv) {
   // ──────────────────────────────────────────────────────────────────────────
   // 4) Single-file Core & Stats under DATA_PATH
   // ──────────────────────────────────────────────────────────────────────────
-  //LoadAllIcons((data_dir + "/cards").c_str());
+  // LoadAllIcons((data_dir + "/cards").c_str());
   // set_imgui_color_style();
   // UseDefaultDarkWithYellowAccents();
 
@@ -699,56 +770,56 @@ int main(int argc, char** argv) {
       SDL_SetWindowAlwaysOnTop(window, SDL_TRUE);
 
       // ⬇️ Auto-generate one tab per listed struct type:
-      needed_content = render_auto_tabs<Stats, Items>(data_dir);
+      needed_content = render_auto_tabs<Stats, Items, Notes>(data_dir);
 
-/*      if (icon_textures.size() > 0) {
-        if (ImGui::BeginTabItem("Cards")) { //---- Cards TAB ----------//
-          static bool windowed;
-          static int selected_index;
-          needed_content = MeasureTabContent([&] {
-            // 1) Left button (fixed)
-            if (ImGui::Button("<")) {
-              selected_index = (selected_index > 0) ? selected_index - 1 : icon_textures.size() - 1;
-            }
-            ImGui::SameLine();
+      /*      if (icon_textures.size() > 0) {
+              if (ImGui::BeginTabItem("Cards")) { //---- Cards TAB ----------//
+                static bool windowed;
+                static int selected_index;
+                needed_content = MeasureTabContent([&] {
+                  // 1) Left button (fixed)
+                  if (ImGui::Button("<")) {
+                    selected_index = (selected_index > 0) ? selected_index - 1 : icon_textures.size() - 1;
+                  }
+                  ImGui::SameLine();
 
-            // 2) Middle fixed-width slot (child) to keep the ">" from moving
-            //    Pick a width that works for your longest expected label.
-            //    (Optionally compute it once from your filenames — shown below.)
-            float label_slot_w = 140.0f;            // <-- tune or compute
-            float slot_h = ImGui::GetFrameHeight(); // match button height
-            if (ImGui::BeginChild("label_slot", ImVec2(label_slot_w, slot_h),
-                                  false, ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoScrollWithMouse)) {
-              // Extract filename without path or extension
-              std::string label = icon_paths[selected_index];
-              label = label.substr(label.find_last_of("/\\") + 1);
-              label = label.substr(0, label.find_last_of('.'));
+                  // 2) Middle fixed-width slot (child) to keep the ">" from moving
+                  //    Pick a width that works for your longest expected label.
+                  //    (Optionally compute it once from your filenames — shown below.)
+                  float label_slot_w = 140.0f;            // <-- tune or compute
+                  float slot_h = ImGui::GetFrameHeight(); // match button height
+                  if (ImGui::BeginChild("label_slot", ImVec2(label_slot_w, slot_h),
+                                        false, ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoScrollWithMouse)) {
+                    // Extract filename without path or extension
+                    std::string label = icon_paths[selected_index];
+                    label = label.substr(label.find_last_of("/\\") + 1);
+                    label = label.substr(0, label.find_last_of('.'));
 
-              // Center text inside the fixed slot
-              ImVec2 text_sz = ImGui::CalcTextSize(label.c_str());
-              float x = (label_slot_w - text_sz.x) * 0.5f;
-              float y = (slot_h - text_sz.y) * 0.5f;
-              // Guard: avoid negative cursor pos if label wider than slot
-              x = x < 0.0f ? 0.0f : x;
-              y = y < 0.0f ? 0.0f : y;
+                    // Center text inside the fixed slot
+                    ImVec2 text_sz = ImGui::CalcTextSize(label.c_str());
+                    float x = (label_slot_w - text_sz.x) * 0.5f;
+                    float y = (slot_h - text_sz.y) * 0.5f;
+                    // Guard: avoid negative cursor pos if label wider than slot
+                    x = x < 0.0f ? 0.0f : x;
+                    y = y < 0.0f ? 0.0f : y;
 
-              ImGui::SetCursorPos(ImVec2(x, y));
-              ImGui::TextColored(ImVec4(1, 1, 0, 1), "%s", label.c_str());
-            }
-            ImGui::EndChild();
+                    ImGui::SetCursorPos(ImVec2(x, y));
+                    ImGui::TextColored(ImVec4(1, 1, 0, 1), "%s", label.c_str());
+                  }
+                  ImGui::EndChild();
 
-            ImGui::SameLine();
+                  ImGui::SameLine();
 
-            // 3) Right button stays at a fixed X
-            if (ImGui::Button(">")) {
-              selected_index = (selected_index + 1) % icon_textures.size();
-            }
+                  // 3) Right button stays at a fixed X
+                  if (ImGui::Button(">")) {
+                    selected_index = (selected_index + 1) % icon_textures.size();
+                  }
 
-            ImGui::Image(icon_textures[selected_index], ImVec2(300, 420));
-          });
-          ImGui::EndTabItem();
-        }
-      }*/
+                  ImGui::Image(icon_textures[selected_index], ImVec2(300, 420));
+                });
+                ImGui::EndTabItem();
+              }
+            }*/
 
       if (ImGui::BeginTabItem("...")) { //---- More Options TAB ----------//
         static bool windowed;

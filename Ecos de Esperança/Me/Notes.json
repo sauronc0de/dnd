@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "description": "Spend 3 Hope to force an adversary within Far range to reroll an attack or damage roll.",
+      "title": "Not This Time"
+    },
+    {
+      "description": "You can perform harmless, subtle magical effects at will. For example, you can change an object’s color, create a smell, light a candle, cause a tiny object to float, illuminate a room, or repair a small object.",
+      "title": "Prestidigitation"
+    },
+    {
+      "description": "Choose a number between 1 and 12. When you roll that number on a Duality Die, gain a Hope or clear a Stress. You can change this number when you take a long rest.",
+      "title": "Strange Patterns"
+    },
+    {
+      "description": "When you succeed with Fear on an attack roll, you deal an extra 1d10 magic damage.",
+      "title": "Face Your Fear"
+    },
+    {
+      "description": "escriu com el teu rigor acadèmic t'ajuda a realitzar una acció amb disciplina. Quan ho fas, pots restar 4 al dau de por. Pots repetir-ho després d'un descans o cridant Visca! després d'una tirada crítica.",
+      "title": "Poc a Poc i bona lletra"
+    },
+    {
+      "description": "Quan ensenyo, explico o inspiro els altres amb coneixement, assumeixo el meu paper de mentor excèntric, guanyant confiança i despertant estupefacció.",
+      "title": "Cargolfluix"
+    },
+    {
+      "description": "Quan el destí em crida, la meva ànima s’alça com un crit etern, sóc l’eco del seu designi i l’espasa del seu camí.",
+      "title": "El batec del destí"
+    },
+    {
+      "description": "Quan les ferides lleus et toquin, no et doblegues: pots endurir l'ànima amb 2 punts d'Éstres en lloc de cedir un sol Punt de Vida.",
+      "title": "Pell de ferro"
+    },
+    {
+      "description": "Fins hi tot en un breu repòs, els teus engranatges mai s'aturen. Pots emprendre una activitat de descans llarg en lloc de conformart-te amb una de curta.",
+      "title": "Esperit infatigable"
+    },
+    {
+      "title": "Wild Flame",
+      "description": "Make a Spellcast Roll against up to three adversaries within Melee range. Targets you succeed against take 2d6 magic damage and must mark a Stress as flames erupt from your hand." 
+    },
+    {
+      "title": "Magic Hand",
+      "description": "You conjure a magical hand with the same size and strength as your own within Far range."
+    },
+    {
+      "title": "Mysterious Mist",
+      "description": "Make a Spellcast Roll (13) to cast a temporary thick fog that gathers in a stationary area within Very Close range. The fog heavily obscures this area and everything in it."
+    },
+    {
+      "title": "Power Push",
+      "description": "Make a Spellcast Roll against a target within Melee range. On a success, they’re knocked back to Far range and take d10+2 magic damage using your Proficiency."
+    },
+    {
+      "title": "Tava's Armor",
+      "description": "Spend a Hope to give a target you can touch a +1 bonus to their Armor Score until their next rest or you cast Tava’s Armor again."
+    },
+    {
+      "title": "Ice Spike",
+      "description": "Make a Spellcast Roll (12) to summon a large ice spike within Far range. If you use it as a weapon, make the Spellcast Roll against the target’s Difficulty instead. On a success, deal d6 physical damage using your Proficiency."
+    }
+  ]
+}

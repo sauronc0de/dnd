@@ -33,4 +33,36 @@ Ens apareix una rataHumanoide que sembla la líder i veient la situació veig qu
 `No oblidis lluitar per les coses importants de la vida` i me'n vaig en contra de totes les rates fent un burning hands. Acte seguit començo a rebre atacs per tot arreu amb les rates.
 Fins que de manera estalar apareix Book tirant dagues a tort i a dret i matant totes les rates.
 En Rhyl agafa en Tomàs i comença a corre esquivant vaques i ovelles fins arribar a dins la ciutat.
-Mentre estem corrent cap el centre de la cuitat, cap el mercat, el jove Alderich se'ns desmaia. I comença a tenir espasmes i amb unes compulsions estranyes comença a dir unes paraules com poseït per algú dient: `Cadmi , maladicció, filargent, dàlia i cura.`
+Mentre estem corrent cap el centre de la cuitat, cap el mercat, el jove Alderich se'ns desmaia. I comença a tenir espasmes i amb unes compulsions estranyes comença a dir unes paraules com poseït per algú dient: `Cadmi , maladicció, filargent, dàlia(Ciutat) i cura.`
+
+# Season 2
+> Desperto Alberich i en revela la visió que ha tingut.
+> Una dona amb els ulls porpers, que li deia cosa a cau d'orella.
+> Jequel: Me'n porto en Tomàs a la infermeria. Que encara està grogui.
+> Jequel: Diu que això que ha passat millor parlar-ho a part.
+> Entrem a la Agora, on hi ha tot el consell i ens demanen explicacions del que ha passat.
+> Després de molt debat i hipotesis. Apareix la Trina (Noia Fuertuda) i diu que els han atacat els Vernins. Ens mostra un mapa que indica on podria ser el següent atac així que decidim anar cap allà.
+> Anem cap el gorc!
+> Hi ha una batalla acampal contra els Vermings. Sant Sol es treu la pitxa i agafant la llum com si fos una cortina la fa baixa i amb ella fa caure tots els vernings a terra to dient <Ara, acabeu amb ells>.
+>  Algunes roques es projecten des de fora les muralles amb tal mala sort que una d'elles trepitja un dels meus alumnes. No el més espavilat però en fi, un alumne.
+>  Al final ve la Santa Auria que santa com és projecte tot de llances de llum que elimina a la major part del Vernings mentre diu: <S'ha acabat!>
+> 2 baixes a la espiga curta.
+> 3 baixes als gorcs per les roques.
+> El tema comença a ser preocupant. No tenim el control de la situació i s'hi ha de posar remei.
+> Porto un pres rata cap a la Agora. Una rata que cridava pau i semblava que s'havia rendit.
+> Allà el començo a interrogar davant de tothom.
+> El Galich el Verming parla d'un oracle dolent que lidera els Vermings.
+>  Vaig a dormir pensant amb la tecnologia que em manté en vida.
+>  Em desperto i començo a fer calculs de trignonometria per treure la direcció i dies de camí per arribar a la ciutat de Dàlia.
+>  Parlo amb Galich abans d'anar a Agora. Li explico que tot el poble decidirà el seu futur.
+>  Li costa entendre que no tenim un sol Alfa, tots som Alfa en el poble.
+>  Comença el ball de mascares.
+>  Amb 3 mascares diferents es comencen exposar els arguments sobre el destí de Galich.
+>  Es decideix que primer parli i després ja decidiriem què fer.
+>  Comencem a fer preguntes a Galich:
+>  Diu que si ens enfrontem a més d'un dels seus alfa estem morts.
+>  Com a molt tenim possibilitats si ens enfrontem en un de sol.
+>  Ens descriu on viuen els líders.
+>  Els 3 líders ni diuen Triunmirat de la conquesta.
+>  El poble decideix que viurà dins les muralles i que un alfa li donarà ordres i menjar i beure. Ell haurà de reportar-li tot el que fa i veu. 
+> 

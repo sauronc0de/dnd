@@ -65,4 +65,51 @@ Mentre estem corrent cap el centre de la cuitat, cap el mercat, el jove Alderich
 >  Ens descriu on viuen els líders.
 >  Els 3 líders ni diuen Triunmirat de la conquesta.
 >  El poble decideix que viurà dins les muralles i que un alfa li donarà ordres i menjar i beure. Ell haurà de reportar-li tot el que fa i veu. 
+
+# Season 3
+> Necessitarem un grup d'aventures per tal de completar la gesta de matar rates.
+> Durin: Proposo que hi hagi un membre de cada gremi. Per tal de poder aportar el millor de cada gremi.
+> ...
+> En Ryhill n'estic segur que es toca molt per les nits. Altres ni es toquen ni són tocats...
+> Així que comencem la aventura!
+> Seguint els passos de Bhokaral i acampem a la nit abans del penya sagat.
+> Malgrat ser aprop, són pocs els Vilabobins que han vist els aiguamolls atrunadors.
+> 50m de caiguda lliure. El descents és escarpat però purament vertical.
+> Aconseguim baixar tots amb força soltura.
+> Un cop a baix comencem a buscar coves.
+> Finalment trobem el habitatge de les rates. 
+> Ens endinsem saben que poder algun de nosaltres no tornarà a veure la llum del Sol, però, com diu sovint en Rhyll: "Si sha de fer, es fa!"
+> A la primera sala trobem un ferrer fent armes de guerra.
+> Amb la habilitat que ens representa acabem amb ells en un parpelleig.
+> Però sentim unes passes imponents i els nostres somriures s'esvaeixen com la ombra en la sortida del Sol.
+> Matem l'ogre.
+>PD: En Nico Stern és el alfa d'en Garlic.
+>
+# Season 4
+> Laberint infinit d'aventures. Corre i matar rates són les nostres següents 4h.
+> Arribem a un passadís estret envoltat de dos forats plens d'un àcid brillant i estrany.
+> En Rhyll agafa una taula per protegir-nos d'un costat i passem corrents evitant rates disparades plenes dàcid.
+> En Bhokaral no l'he vist passar però ja estava a l'altre costat.
+> Al final veiem un cartell que diu "Boss =>"
+> Així que arribem a una sala gran amb un rierol i un pont.
+> Ens repartim per intentar investigar tota la sala però de sobte.
+> BOOM XAKALAKA.
+> Un dolor molt intens que em deixa les orelles amb un so const. BIIIIIIIIIIIIII.
+> El alfa apareix rodejat de un centenar de rates i comença el combat!
+> El Alfa m'ataca amb un crit ratenc que em deixa totalment commocionat.
+> En un batec per sobreviure intensifico el enginy i recordo que tinc un brevatge coratiu.
+> Sense pensar-ho dos vegades buido el recipient a la meva gola recuperant la compostura i seguint lluitant.
+> Mentrestant en Rhyll i en Bhokaral salten pels aires llençant dagues a tort i a dret.
+> Sembla que el Alfa és recolzat per algun tipos de màgia.
+> Rhyll envia el alfa el riu amb una bona ostia.
+> Aprofitant la distracció.
+> Amb el Alberic agafem el barco i marxem cap a la illeta on per sopresa de ningú apereix el cyborg.
+> Les següents dues hores es resumeixen amb un cadaver-riu-riu-cadaver-sang-alfa-cadaver-riu-rhyl-cadaver.
+> I finalment amb una guerra de focs artificials entre els dos costats del riu aconsegueixo acabar amb el alfa mitjançant la meva vareta màgica.
 > 
+> 
+> 
+> 
+
+
+

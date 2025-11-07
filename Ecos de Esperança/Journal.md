@@ -106,10 +106,40 @@ Mentre estem corrent cap el centre de la cuitat, cap el mercat, el jove Alderich
 > Amb el Alberic agafem el barco i marxem cap a la illeta on per sopresa de ningú apereix el cyborg.
 > Les següents dues hores es resumeixen amb un cadaver-riu-riu-cadaver-sang-alfa-cadaver-riu-rhyl-cadaver.
 > I finalment amb una guerra de focs artificials entre els dos costats del riu aconsegueixo acabar amb el alfa mitjançant la meva vareta màgica.
-> 
-> 
-> 
-> 
 
-
-
+# Season 5
+> `Level up 2`
+> +1 Minor/Major/Severe (8/15)
+> +1 Proficiency (2)
+> +Hp(6)
+> +Evasion (12)
+> Experiència: El món és fràgil com un crani sota una roca.
+ >
+>Investigo el cos tecnològic:
+Silenci absolut i super bla bla bla.
+Com un eco metalic que prove de dins l'habitacle. La melodia es fa evident que no es una canço, és un CLANK. Dins meu alguna cosa es remou, sensacions d'altres realitats. Una magia adormida però que ara es desperta dins meu. La música acaba abans del que voldria. Porta'm amb tu, la crida del destí. El final de la melodia posa fi el silenci que ens envolcallava i comencem a sentir sorolls a altres sales.
+No ser com ni perquè però és com si m'haguessin transferit informació. Em pica la curiositat revisar els pergamins que he agafat però ja hi serem a temps.
+>
+Hi ha mapes que descriuen possibles atacs. Un d'ells on vam trobar el ós al bosc.
+Sortim envoltats per tot de Vermings que ens miren amb por i celebració a parts iguals.
+Alguns ploren les morts d'alguns cadavers. És dur el xoc de realitat al veure que no deixaven de ser una raça esclavitzada que també tenen emocions.
+Decidim descansar una mica abans de fer l'ascents per la corda del penya-segat.
+La pujada sembla senzilla quan la fa en Bocharal. Però a la que comença a pujar Alberic la cosa es complica. Primer patina, després l'ataca una àguila.
+La veritat és que des de baix no veig gaire res, intento tirar algun encanteri a distància per espentar les àguiles i poc més.
+Així que pujo i els veis a tots fets pols. Amb l'aprenentatge de l'últim dia intento canalitzar la meva màgia interna per curar i llevar les males vibes que tenen els meus companys. [Healing Hands]x3. 
+Després de tanta màgia quedo totalment fatigat. Sento una pressió el cap que no em deixa tenir la ment clara. Així que agafo un amulet que vaig trobar per la cova dels Vermings i imbuixo el seu poder per tal de alliberar l'estrés de la meva ment [-5 stress].
+Bohkaral ens guia pels boscos de manera hàbil i sense descans. Els ànims estan pels terres però les ganes de tornar a casa ens empeny com la current d'un riariol.
+L'alba comença apereixer pel fons del bosc i les muralles del poble s'alcen a l'horitzó.
+Aquest cop l'esperança supera la por i la il·lusió es fa present en els companys amb els primers comentaris positius al veure el poble de Vilabobina.
+El primer cop que veig somriure Rhill des de que vam pujar el penya-segat.
+Alberic el veig preocupat, segurament no és la experiència que hauria de tenir algú de la seva edat. Està madurant més ràpid de lo natural.
+Bohkaral continua incesant. 
+És un professional de cap a peus i així ho ha demostrat tot el viatge.
+Ens aclama el poble i amb ells també la Santa Auria. 
+És una interessada i només vol informació però tot i així té ineterés per el ball de mascares. 
+És vol debatre sobre anar investigar la cura en el poble XXX.
+Alberic caga amb esperança.
+Parlo amb el nostre Verming preferit, en Gnarlich. Li explico que tot ha anat bé i que el seu poble està lliure. Queda alliberat i li desitjo lo millor.
+Ell m'ensenya que té tota la orella plena de piercings.
+Me'n vaig a dormir però em llevo molt d'hora encuriosit per llegir els pergamins que vaig agafar dels Vermings.
+Entenc el [Volum dels múrids] però crec que és un tipos de màgia que podria dominar més el meu jove aprenen de màgia. Penso que li ensenyaré a l'Alberich, ell en farà bon ús.

@@ -8,7 +8,7 @@
   "Finesse": 0,
   "Hope": {
     "max": 6,
-    "value": 5
+    "value": 6
   },
   "Hp": {
     "max": 6,
@@ -16,7 +16,7 @@
   },
   "Instinct": 1,
   "Knowledge": 2,
-  "Level": 1,
+  "Level": 2,
   "Name": "Durin Duran",
   "Presence": 1,
   "Strength": 0,

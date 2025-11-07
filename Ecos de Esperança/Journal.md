@@ -137,9 +137,32 @@ Bohkaral continua incesant.
 És un professional de cap a peus i així ho ha demostrat tot el viatge.
 Ens aclama el poble i amb ells també la Santa Auria. 
 És una interessada i només vol informació però tot i així té ineterés per el ball de mascares. 
-És vol debatre sobre anar investigar la cura en el poble XXX.
+És vol debatre sobre anar investigar la cura en el poble Dalia.
 Alberic caga amb esperança.
 Parlo amb el nostre Verming preferit, en Gnarlich. Li explico que tot ha anat bé i que el seu poble està lliure. Queda alliberat i li desitjo lo millor.
 Ell m'ensenya que té tota la orella plena de piercings.
 Me'n vaig a dormir però em llevo molt d'hora encuriosit per llegir els pergamins que vaig agafar dels Vermings.
 Entenc el [Volum dels múrids] però crec que és un tipos de màgia que podria dominar més el meu jove aprenen de màgia. Penso que li ensenyaré a l'Alberich, ell en farà bon ús.
+
+# Season 5
+>La ciutat de Vilabovina està de festa.
+>Els Vermings ploren sang.
+>Després de investigar el cos de tecnologia antiga del oracle.
+>Escoltant el cos començo intuir coses. És com si em fes preguntes, malgrat tot no ser com respondra-li.
+>L'últim missatge que puc arribar a percebre em demana ajuda. Diu que s'està morint.
+>Quedem a casa la Santa Auria.
+>Vol veure com podem convencer a tothom de que es faci la expedició.
+>Sant Sol no li agraden els discursos emocionals. I no el volem encontra.
+>Santa Auria considera la possibilitat de fer l'expedició independentment de que el ball de mascares sortir que no.
+>Anem amb Alberich a analitzar el Oracle.
+>Finalment anem al ball de mascares:
+>Guanya la de fusta, Sí! (Santa Auria)
+>Santa Auria ens rebela que tenim 2 cavalls i 4 brevatges que brillen com el Dome de Vilabobina. Això hauria de mitigar els efectes de la plaga.
+>Ens equipem fins les dents.
+>- Improved leather armor
+>- Improved quaterstaff
+>- Improved wand
+>- Improved round shield
+>Anem amb els antics exploradors i ens expliquen batalletes.
+>
+>

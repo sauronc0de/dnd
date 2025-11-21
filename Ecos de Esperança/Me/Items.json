@@ -1,23 +1,23 @@
 {
   "Primary": {
-    "Name": "Wand",
-    "damage": "d6+1",
+    "Name": "Improved Wand",
+    "damage": "d6+4",
     "feature": "",
     "range": 3,
     "trait": 5,
     "type": 0
   },
   "Secondary": {
-    "Name": "Shield",
-    "damage": "d4+1",
-    "feature": "+1 Armor",
+    "Name": "Iround Shield",
+    "damage": "d4+2",
+    "feature": "+2 Armor",
     "range": 0,
     "trait": 1,
     "type": 1
   },
   "armor": {
-    "base_score": "+3",
-    "base_threshold": "6/13",
+    "base_score": "+4",
+    "base_threshold": "9/20",
     "feature": "",
     "name": "Leather armor"
   },
@@ -33,8 +33,8 @@
     ],
     "weapons": [
       {
-        "Name": "Staff",
-        "damage": "d6",
+        "Name": "I. Greatstaff",
+        "damage": "d6+3",
         "feature": "Powerfull",
         "range": 4,
         "trait": 5,

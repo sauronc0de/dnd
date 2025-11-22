@@ -144,7 +144,7 @@ Ell m'ensenya que té tota la orella plena de piercings.
 Me'n vaig a dormir però em llevo molt d'hora encuriosit per llegir els pergamins que vaig agafar dels Vermings.
 Entenc el [Volum dels múrids] però crec que és un tipos de màgia que podria dominar més el meu jove aprenen de màgia. Penso que li ensenyaré a l'Alberich, ell en farà bon ús.
 
-# Season 5
+# Season 6
 >La ciutat de Vilabovina està de festa.
 >Els Vermings ploren sang.
 >Després de investigar el cos de tecnologia antiga del oracle.
@@ -165,4 +165,34 @@ Entenc el [Volum dels múrids] però crec que és un tipos de màgia que podria 
 >- Improved round shield
 >Anem amb els antics exploradors i ens expliquen batalletes.
 >
+# Season 7
+> Fem un combat contra el ex gremi de exploradors.
+> En general tots van atacar a la gent gran i més indefensa. Ja que a l'exterior no es sobreviu només amb bona fe i esperança.
+> En un moment donat hi ha una guerra entre avis Durin Duran vs Benet el Coix però Durin el fica el seu lloc enviant-lo alta baix de l'arbre.
+> Finalment Santa Auria s'uneix a la festa però el que no s'esperava és que Ryll i Bocaral tenien un truc preparat.
+> Fan un atac combinat sumant més de 100 punts de damage que acaba amb en Ciscu de Cal Rata a la UCI.
+> `Fi del combat!`
+> Ens ensenyen un mapa que descriu lo poc que havien explorat.
+> Consells:
+> Evitar que els cavalls ens ataquin quan tinguem gaire plaga.
+> No dormir gaires hores en un mateix lloc.
+> Vilabobina de nou està de celebració. La ciutat plena d'esperança i desitjos.
+> El mercat és un bat i bull de menjar, beure, somriures i drogues!
+> Bocar'al es masturba sobra el DOM.
+> Els Sants venen a acomiadar-se de nosaltres.
+> Ens diuen moltes coses però vaig ben fumat i no recordo gaire res.
+> He compartit porro amb els alumnes mentres recordavem anecdotes de les classes.
+> Veig en Benet el coix i li dic. Va cuida't la cama! JA JA
+> I ell em respon: I tu el ull!
+> Em saludo una mica amb tothom abans de donar per acabada la festa.
+> El dia següent sortim en la sortida del Sol. No hi ha temps per la mandra i la ressaca tot que de camí em menjo 1kg de xurros amb xocolata. Alguna cosa m'ha fet venir molta gana.
+> Ens bebem els brevatges antiplaga i fem camí cap al sud.
+> Bocaral ens guia el primer dia ja que coneix la zona.
+> Arribem a una zona amb cristalls al terra i ens comencen a perseguir llops.
+> Després d'un intent d'atac per part d'en Ryll veiem que l'espasa no els ha tocat.
+> Els ha atrevessat com si fossin fum.
+> El bosc s'acaba i arribem en un penyasegat amb un pont de pedra clarament no natural.
+> La sorpresa ens esquitxa les cares amb la boca oberta. 
+> Ningú esperava que hi hagués una evidència tant gran i tant propera de que hi pot haver vida humanoida més enllà de Vilabobina.
 >
+> 

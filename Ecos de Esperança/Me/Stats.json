@@ -1,18 +1,18 @@
 {
   "Agility": -1,
   "Armor": {
-    "max": 7,
-    "value": 0
+    "max": 8,
+    "value": 7
   },
   "Evasion": 12,
   "Finesse": 0,
   "Hope": {
     "max": 6,
-    "value": 6
+    "value": 0
   },
   "Hp": {
     "max": 6,
-    "value": 0
+    "value": 1
   },
   "Instinct": 1,
   "Knowledge": 2,
@@ -22,10 +22,10 @@
   "Strength": 0,
   "Stress": {
     "max": 6,
-    "value": 0
+    "value": 2
   },
   "damage": {
-    "major": 22,
+    "major": 23,
     "minor": 11
   },
   "subclass": 15

@@ -195,4 +195,30 @@ Entenc el [Volum dels múrids] però crec que és un tipos de màgia que podria 
 > La sorpresa ens esquitxa les cares amb la boca oberta. 
 > Ningú esperava que hi hagués una evidència tant gran i tant propera de que hi pot haver vida humanoida més enllà de Vilabobina.
 >
-> 
+# Season 8
+>Un pont antipatic que li agrada el "salseo" insisteix per generar conflictes interns. Ens fa preguntes absudes que necessiten respostes pitjors. Però finalment aconseguim passar.
+Tinc dagges fetes amb cristalls magics que puc projectar en un enemic sense saber si pot funcionar.
+La vegetació torna augmentar. El bosc és estrany i res sembla el que ja coneixem. 
+Els cristalls de terra perden el color blanc i comencen apareixer en colors de tardor.
+Finalment veiem un manir a l'horitzó.
+Maniiirs, maniiirs, maniiirs de tota mena som la cofreria dels manirs!!!
+Enviem l'espurna i un ull de l'Alberic. A mesura que avancen els cristalls comencen a iluminar-se. Blaus, Verds, Marró i taronja.
+Finalment decidim avançar cap el sector de terra. Al fer-ho s'esmicolen tots els cristalls i apareixen 3 elements: Aire, Aigua i foc.
+`Podem mitigar un punt de damage per atac`
+La festa del Foc, aire i aigua comença.
+Acabem amb l'elemental de foc, el d'aire i finalment l'Espurna amb moltisima valentia es llença per acabar amb el d'aigua amb el sacrifici del seu cos.
+*Elemental de terra: El podem cridar en algun moment entre tots.*
+Seguim per les arenes movedisses però amb molta cautela. 
+Amb el meu domini sorprenent dels astres, guio a els Elementals de la Terra fins a fora del desert.
+Alberic perceb unes papallones blaves brillants que xiuxiuegen uns sons músicals.
+Bockaral intent completar la canço incompleta i les papallones ens indiquen camí fins una cova que aparentment sembla molt estreta i incomode però a mesura que ens endinsem veiem una caverna amplia, lluminosa i comode plena de coixins, alchol i drogues!
+
+# Season 9
+>Ens despertem després d'un bon descans.
+>3 dies i 3 nits caminant per un túnel dins la cova amb els cullons inflats amb 3 punts destrés.
+>Papallones, trencaclosques sortida a l'exterior. 
+>Ruïnes i llamps.
+>En Rhyll mort...
+
+# Season 10
+>

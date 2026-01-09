@@ -61,8 +61,16 @@
       "title": "Ice Spike"
     },
     {
-      "description": "",
+      "description": "Quan perds els nervis, pot ser que aqusta cadena et calmi, o pot ser que no. Quan marques el teu últim punt d'estrés, tira 1d6. En 5 o 6, no el marques.",
       "title": "Amulet de la calma"
+    },
+    {
+      "description": "+1 Armor slot",
+      "title": "Benedicció de la Terra"
+    },
+    {
+      "description": "El primer cop que reps mal sever en una escena guanya +1 Hope. [+1 Franja major].",
+      "title": "Energitzat"
     }
   ]
 }

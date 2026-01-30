@@ -221,4 +221,16 @@ Bockaral intent completar la canço incompleta i les papallones ens indiquen cam
 >En Rhyll mort...
 
 # Season 10
->
+>Trobem una casa blanca i coneixem en Sun Goku i torno a veure la Carin.
+>Dormim.
+>Lvl up! => 3
+>+1 Carta
+>+1 Minor/Major/Sever
+>+ Increase traits: Knowledge from 2 to 3. Presence de 1 a 2.
+>+ 1 Carta extra
+>Treballo amb el projecte de la nova vareta. Li dic la Rhyll ja que la faig a partir de la seva última torch.
+>Clavia Vall, hi ha una ciutat amb tecnologia antiga.
+>Llinatge Arcà vs Ordre de la Raó. Dos civilitzacions antigues que es devien enfrontar en el passat.
+>Aconseguim les flors que ens demanava la vella amiga Carin.
+>Crea un brevatge per suicidar-se sense dolor.
+>Matem un trolll a xupar-la!

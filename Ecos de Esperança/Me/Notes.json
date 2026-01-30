@@ -37,30 +37,6 @@
       "title": "Esperit infatigable"
     },
     {
-      "description": "Make a Spellcast Roll against up to three adversaries within Melee range. Targets you succeed against take 2d6 magic damage and must mark a Stress as flames erupt from your hand.",
-      "title": "Wild Flame"
-    },
-    {
-      "description": "You conjure a magical hand with the same size and strength as your own within Far range.",
-      "title": "Magic Hand"
-    },
-    {
-      "description": "Make a Spellcast Roll (13) to cast a temporary thick fog that gathers in a stationary area within Very Close range. The fog heavily obscures this area and everything in it.",
-      "title": "Mysterious Mist"
-    },
-    {
-      "description": "Make a Spellcast Roll against a target within Melee range. On a success, they’re knocked back to Far range and take d10+2 magic damage using your Proficiency.",
-      "title": "Power Push"
-    },
-    {
-      "description": "Spend a Hope to give a target you can touch a +1 bonus to their Armor Score until their next rest or you cast Tava’s Armor again.",
-      "title": "Tava's Armor"
-    },
-    {
-      "description": "Make a Spellcast Roll (12) to summon a large ice spike within Far range. If you use it as a weapon, make the Spellcast Roll against the target’s Difficulty instead. On a success, deal d6 physical damage using your Proficiency.",
-      "title": "Ice Spike"
-    },
-    {
       "description": "Quan perds els nervis, pot ser que aqusta cadena et calmi, o pot ser que no. Quan marques el teu últim punt d'estrés, tira 1d6. En 5 o 6, no el marques.",
       "title": "Amulet de la calma"
     },

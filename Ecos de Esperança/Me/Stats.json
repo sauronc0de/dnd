@@ -2,31 +2,31 @@
   "Agility": -1,
   "Armor": {
     "max": 8,
-    "value": 7
+    "value": 4
   },
   "Evasion": 12,
   "Finesse": 0,
   "Hope": {
     "max": 6,
-    "value": 0
+    "value": 1
   },
   "Hp": {
     "max": 6,
-    "value": 1
+    "value": 2
   },
   "Instinct": 1,
-  "Knowledge": 2,
+  "Knowledge": 3,
   "Level": 2,
   "Name": "Durin Duran",
-  "Presence": 1,
+  "Presence": 2,
   "Strength": 0,
   "Stress": {
     "max": 6,
-    "value": 2
+    "value": 3
   },
   "damage": {
-    "major": 23,
-    "minor": 11
+    "major": 24,
+    "minor": 12
   },
   "subclass": 15
 }

@@ -234,3 +234,12 @@ Bockaral intent completar la canço incompleta i les papallones ens indiquen cam
 >Aconseguim les flors que ens demanava la vella amiga Carin.
 >Crea un brevatge per suicidar-se sense dolor.
 >Matem un trolll a xupar-la!
+
+# Season 11
+>Troll gegant d'ossos encadanat a ma dreta i cova a mà esquerra.
+>Entrem a la cova i un cop dins desepereixo.
+>20h de trigonometria i veiem una ciutat.
+>Ball de mascares: continuem per l'illa.
+>Tinc pedres que poden pujar Instinct, Precense or Knowledge.
+>Només en podem portar una cadascú.
+>Pillo Knowsledge +1.

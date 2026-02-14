@@ -242,4 +242,13 @@ Bockaral intent completar la canço incompleta i les papallones ens indiquen cam
 >Ball de mascares: continuem per l'illa.
 >Tinc pedres que poden pujar Instinct, Precense or Knowledge.
 >Només en podem portar una cadascú.
->Pillo Knowsledge +1.
+>Pillo knowledge +1.
+
+# Season 12
+>Aguiles gegants, rates pinyades gegants i trolls minusculs a tot arreu. Som com una rata en un forat.
+>Amb enginy i molta esperança aconsegueixo combatre a 2 trolls i 3 aguiles. La resta se'n ocupen els meus companys Songoku i Bockaral amb un atac combinat de simi superguerrer.
+>Agafem la patera i comencem a remar com autèntics dofins.
+>Acabem fins els cullons d'en Son Goku i ens estréssa tot el viatge.
+>A mig camí veiem lo que sembla un accident de cotxe, és incomode però ningú pot deixar de mirar: El que veiem és un troll flotant i treient sang per la boca totalment inconcient per sobre el riu.
+>Molts humanoides sense ànima caminant per la platja i alguns crancs gegants que caminen de costat.
+>

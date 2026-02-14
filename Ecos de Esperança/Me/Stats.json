@@ -2,17 +2,17 @@
   "Agility": -1,
   "Armor": {
     "max": 8,
-    "value": 0
+    "value": 5
   },
   "Evasion": 12,
   "Finesse": 0,
   "Hope": {
     "max": 6,
-    "value": 3
+    "value": 6
   },
   "Hp": {
     "max": 6,
-    "value": 2
+    "value": 4
   },
   "Instinct": 1,
   "Knowledge": 4,
@@ -22,7 +22,7 @@
   "Strength": 0,
   "Stress": {
     "max": 6,
-    "value": 1
+    "value": 6
   },
   "damage": {
     "major": 24,

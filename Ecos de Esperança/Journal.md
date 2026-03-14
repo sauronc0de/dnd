@@ -251,4 +251,12 @@ Bockaral intent completar la canço incompleta i les papallones ens indiquen cam
 >Acabem fins els cullons d'en Son Goku i ens estréssa tot el viatge.
 >A mig camí veiem lo que sembla un accident de cotxe, és incomode però ningú pot deixar de mirar: El que veiem és un troll flotant i treient sang per la boca totalment inconcient per sobre el riu.
 >Molts humanoides sense ànima caminant per la platja i alguns crancs gegants que caminen de costat.
->
+>Hem fotent una pallissa.
+
+# Season 13
+> La pluja comença a fer-se nota. "He tios tios heu vist això? hahah Sóc la bomba, diu la pluja.
+> Muntanyes, Alberich del cantó d'un duro i arribem a zona volcanica.
+> Caminem 3 dies i 3 nits entre volcans menjant patates al Caliu.
+> Al final trobem al final d'un penya-segat un bosc a l'horitzó.
+> Veiem una ciutat, sembla Vilabobina amb estaroides. Clarament és Dàlia.
+> Son Goku comença a tenir molts records. Diu que va viure a Dàlia. Crec que està Dàliaran.

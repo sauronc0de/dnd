@@ -8,25 +8,25 @@
   "Finesse": 0,
   "Hope": {
     "max": 6,
-    "value": 6
+    "value": 3
   },
   "Hp": {
-    "max": 6,
+    "max": 7,
     "value": 0
   },
   "Instinct": 1,
   "Knowledge": 4,
-  "Level": 3,
+  "Level": 5,
   "Name": "Durin Duran",
   "Presence": 2,
   "Strength": 0,
   "Stress": {
     "max": 6,
-    "value": 0
+    "value": 1
   },
   "damage": {
-    "major": 24,
-    "minor": 12
+    "major": 25,
+    "minor": 13
   },
   "subclass": 15
 }

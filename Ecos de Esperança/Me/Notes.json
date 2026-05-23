@@ -47,6 +47,10 @@
     {
       "description": "El primer cop que reps mal sever en una escena guanya +1 Hope. [+1 Franja major].",
       "title": "Energitzat"
+    },
+    {
+      "description": "",
+      "title": "El món és fràgil"
     }
   ]
 }

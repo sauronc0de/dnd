@@ -223,7 +223,7 @@ Bockaral intent completar la canço incompleta i les papallones ens indiquen cam
 # Season 10
 >Trobem una casa blanca i coneixem en Sun Goku i torno a veure la Carin.
 >Dormim.
->Lvl up! => 3
+> `Level up 3`
 >+1 Carta
 >+1 Minor/Major/Sever
 >+ Increase traits: Knowledge from 2 to 3. Presence de 1 a 2.
@@ -260,3 +260,57 @@ Bockaral intent completar la canço incompleta i les papallones ens indiquen cam
 > Al final trobem al final d'un penya-segat un bosc a l'horitzó.
 > Veiem una ciutat, sembla Vilabobina amb estaroides. Clarament és Dàlia.
 > Son Goku comença a tenir molts records. Diu que va viure a Dàlia. Crec que està Dàliaran.
+
+# Season 14
+> `Level up 4`
+> +1 Bonus to experience (Cargolfluix & Batec del destí)
+> +1 Hp => 7
+> Cards => Added Book of Grynn (Healing Hands a la banqueta)
+> Secta sexual estranya
+> Focs artificals
+> Pont
+> Interrupt!
+> Running to Dalia Region.
+
+# Season 15
+>Guardia pesat.
+>Hi ha un conflicte religiós xiites contra sunites.
+# Season 16
+> `En Marçal ha arribat tard.`
+> Ens despertem en una taverna, la taverna del Roc Roig.
+> Decidim competir al teatre del Col·liseu.
+> Foc i percussió ens surt un combat ben rodó.
+> Fireball èpica 3 punts i cap a casa.
+
+# Season 17
+> Sant Throk al Sera (el Xulo) ens fa un interrogatori i es convida a marxar després de donar-nos dos cofres d'or. 
+> 
+> La Teodora ens vesteix de cap a peus i sortim de la botiga com pinzells. Direcció a la Taverna del Sol Alegre (Guiño, guiño, codo, codo). Al cap vespre, quan es posi poni el sol.
+> Hi ha un tipos de agents de la guardia però que actuen "d'amagat", es diuen els "shadows".
+> Conversa amistosa amb un "shadow".
+> Frontera amb gira de Sauc. Entre mig de dos ducats.
+
+
+# Season 18
+> Combat èpic entre estaroides, foc i gel. L'arma èpica de Bokaral sorpren a tothom amb un atac de mil bocins de metall.
+> Bokaral mata 3 persones més amb veri. Té les mans tacades de sang. I amb aquests 3 ja en porta 5. Penso que potser podria ser un psicòpata.
+> Finalment a base d'osties en Br es relaxa i parlem una mica de tot.
+> Es veu que eren 3 i van matar un Deu per poder convertir-se en un del panteó. Volies trobar la cura de la plaga a qualsevol preu.
+> > `Level up 5`
+> 
+# Season 19
+> +4 Prodiciency
+> exp: Les aparences enganyen.
+> Minor 12->13
+> Major 24->25
+> Estem decidint durant 2h 22' i 34'' quina és l'arma més forta possible per guanyar un puto punt més. Després critiquem els minmaxers. Es cagarant amb el meu nou psj de DnD.
+> Anem fent reforç positiu entre nosaltres per tenir esperança per completar la missió.
+> Em poso postura de Yoga i després d'uns minutes teletransporto a tots els membres de la comunitat de la cura. 
+> Trobem un pont: Power push, power push power push!!! JDR!
+> Porta segellada màgicament.
+> Finalment amb molt d'enginy l'obrim.
+> La sala és immensa, circular, sembla que tot el palau està contingut en aquesta sola sala.
+> L'aire es pesant, metalic i costa respirar sense notar coisio a la gola.
+> A banda i banda les no se que queden que flipes.
+> Cada esglaó puja amb una solamnitat gaire be insultant. Des d'aquí baix, només es veu un ego gegant.
+> Dic em veu baixa: < No feu màgia! >

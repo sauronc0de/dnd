@@ -28,7 +28,8 @@
       "Espurna (Tiny Pet)",
       "Spell scrolls ",
       "Amulet de la calma",
-      "Cristall"
+      "Cristall",
+      "Heal potion x2"
     ],
     "weapons": [
       {
@@ -42,8 +43,8 @@
     ]
   },
   "gold": {
-    "bags": 0,
+    "bags": 7,
     "chest": 0,
-    "handful": 1
+    "handful": 0
   }
 }

@@ -1,0 +1,16 @@
+{
+  "active_folder": 0,
+  "active_note": 1,
+  "folder_view": true,
+  "layout_locked": false,
+  "detached_note_windows": true,
+  "folders": [
+    {
+      "name": "General",
+      "notes": [
+        {"title": "Character creation", "path": "/home/sauroncode/projects/notepp/data/notes/General/Character creation.md", "x": 317, "y": 90, "w": 496, "h": 242, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": true, "color_r": 127, "color_g": 127, "color_b": 127},
+        {"title": "History", "path": "/home/sauroncode/projects/notepp/data/notes/General/History.md", "x": 887, "y": 113, "w": 511, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": true, "color_r": 221, "color_g": 117, "color_b": 0}
+      ]
+    }
+  ]
+}

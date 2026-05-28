@@ -1,14 +1,22 @@
 ```ui
-int(base_armor_class, "Base AC", 90, true) checkbox(shield_equipped, "Shield") text(armor_class, "Armor class", 80)
+// Hit points
+text("[color=#FF5555]Hit Points[/color]")
 
-int(hp_current, "HP current", 90, true)
-int(hp_temp, "Temp HP", 80, true)
-int(hp_max, "HP max", 80, true)
+int(hp_current, "Current", 90, true)
+int(hp_temp, "Temp", 90, true)
 
-int(hit_dice_spent, "Hit dice spent", 110, true)
-int(hit_dice_max, "Hit dice max", 100, true)
+text("Maximum HP") text(hp_max)
 
-int(initiative, "Initiative", 90, true)
-text("Speed") text(speed) text("Size") text(size)
-int(passive_perception, "Passive Perception", 140, true)
+text("")
+
+// Hit dice
+text("[color=#AAAAFF]Hit Dice[/color]")
+
+text("Spent") text(hit_dice_spent)
+text("Maximum") text(hit_dice_max)
+
+text("")
+
+// Combat info
+text("[color=#55CCFF]Combat[/color]")
 ```

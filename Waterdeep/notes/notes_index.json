@@ -1,6 +1,6 @@
 {
   "active_folder": 0,
-  "active_note": 6,
+  "active_note": 12,
   "folder_view": true,
   "layout_locked": false,
   "detached_note_windows": false,
@@ -15,17 +15,18 @@
         {"title": "Character Sheet", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Character Sheet.md", "x": 1044, "y": 235, "w": 620, "h": 198, "has_layout": true, "hidden": true, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "Adventure Tracker", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Adventure Tracker.md", "x": 305, "y": 718, "w": 1025, "h": 216, "has_layout": true, "hidden": true, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "Campaign Relationship Map", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Campaign Relationship Map.md", "x": 1001, "y": 363, "w": 237, "h": 140, "has_layout": true, "hidden": true, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
-        {"title": "Main", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Main.md", "x": 288, "y": 40, "w": 759, "h": 450, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
+        {"title": "Main", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Main.md", "x": 288, "y": 40, "w": 884, "h": 488, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "🛡 Equipment", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/🛡 Equipment.md", "x": 1420, "y": 40, "w": 434, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "💰 Coins", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/💰 Coins.md", "x": 1420, "y": 884, "w": 434, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "sheet_example", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/sheet_example.md", "x": 540, "y": 346, "w": 1153, "h": 310, "has_layout": true, "hidden": true, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "🎒 Bag 2", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/🎒 Bag 2.md", "x": 1420, "y": 168, "w": 434, "h": 436, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "Spells slots", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Spells slots.md", "x": 1420, "y": 605, "w": 434, "h": 280, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": true, "color_r": 0, "color_g": 9, "color_b": 254},
-        {"title": ".globals", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/.globals.md", "x": 547, "y": 40, "w": 520, "h": 704, "has_layout": true, "hidden": true, "always_on_top": false, "use_custom_color": true, "color_r": 0, "color_g": 0, "color_b": 0},
+        {"title": ".globals", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/.globals.md", "x": 409, "y": 419, "w": 520, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": true, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "💀 Death Saves", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/💀 Death Saves.md", "x": 1174, "y": 40, "w": 244, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": true, "color_r": 255, "color_g": 0, "color_b": 0},
         {"title": "Journal", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Journal.md", "x": 288, "y": 320, "w": 884, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": true, "color_r": 139, "color_g": 97, "color_b": 0},
-        {"title": "SPEED", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/SPEED.md", "x": 1049, "y": 40, "w": 123, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0, "font_size": 48},
-        {"title": "SIZE", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/SIZE.md", "x": 1049, "y": 181, "w": 123, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0, "font_size": 48}
+        {"title": "SPEED", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/SPEED.md", "x": 1174, "y": 863, "w": 244, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0, "font_size": 48},
+        {"title": "SIZE", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/SIZE.md", "x": 1174, "y": 721, "w": 244, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0, "font_size": 48},
+        {"title": "Spells", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Spells.md", "x": 288, "y": 320, "w": 884, "h": 667, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": true, "color_r": 255, "color_g": 221, "color_b": 0}
       ],
       "images": []
     },
@@ -40,6 +41,12 @@
       "notes": [
       ],
       "images": ["/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/potion-hp.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/Bagpack.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/rope.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/tinderbox.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/torch.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/hammer.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/pitons.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/earring.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/crowbar.png"]
+    },
+    {
+      "name": "Img/Spells",
+      "notes": [
+      ],
+      "images": ["/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Spells/mage-hand.png"]
     }
   ]
 }

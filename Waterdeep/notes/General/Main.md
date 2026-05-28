@@ -1,6 +1,7 @@
 ```ui
 text(character_name)
 text(background)
+text(class_)
 enum(class_, "Class", 160, ["Artificer", "Barbarian", "Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", "Ranger", "Rogue", "Sorcerer", "Warlock", "Wizard"])
 enum(species, "Species", 160, ["Human", "Elf", "Dwarf", "Halfling", "Gnome"])
 text(subclass, "Subclass", 180)

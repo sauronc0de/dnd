@@ -1,24 +1,24 @@
 # Resum
 
-## Capítol I - El Noi Sense Respostes
+## Capítol I - El noi sense respostes
 
 * Infància
-* Màgia estranya
+* Màgia innata i estranya
 * Blau-Fosc-Profund
 * Ressò
 
 ---
 
-## Capítol II - El Festival
+## Capítol II - El festival
 
-* Tradició dels avantpassats
+* Tradició de pares a fills
 * La pregunta innocent
 * El trencament
 * La fugida
 
 ---
 
-## Capítol III - Les Sis Vides d'en Nim
+## Capítol III - Les sis primeres vides d'en Nim
 
 * Explorador
 * Pagès
@@ -26,21 +26,22 @@
 * Mestre cerveser
 * Monjo
 * Guerrer
+* Les vides copiades
 * Reflexió sobre les mentides
 
 ---
 
-## Capítol IV - El Mag
+## Capítol IV - El mag
 
 * Coneix el mag itinerant
-* Descobreix el que admira realment
+* Descobreix que la màgia pot semblar controlada
 * Aprèn la lliçó equivocada
 
 > Potser puc fingir.
 
 ---
 
-## Capítol V - El Fals Grimori
+## Capítol V - El fals grimori
 
 * Naixement del grimori
 * De llibre fals a arxiu de vides
@@ -60,24 +61,24 @@
 
 ---
 
-## Capítol VII - L'Única Veritat
+## Capítol VII - L'única veritat
 
 * No menteix als amics
 * El seu únic punt fix
 
 ---
 
-## Capítol VIII - El Ressò de Waterdeep
+## Capítol VIII - El ressò de Waterdeep
 
 * La crida
 * La màgia més estable
 * El començament de la campanya
 
-# Capítol I - El Noi Sense Respostes
+# Capítol I - El noi sense respostes
 
 Nim Branquilluminosa no va conèixer mai els seus pares.
 
-Des que tenia memòria havia viscut en un petit poble sota la cura del seu oncle. Era una vida senzilla. Els vilatans el coneixien com un gnom curiós, xerraire i sempre envoltat de coincidències estranyes.
+Des que tenia memòria, havia viscut en un petit poble sota la cura del seu oncle. Era una vida senzilla. Els vilatans el coneixien com un gnom curiós, xerraire i sempre envoltat de coincidències estranyes.
 
 Objectes que es movien sols.
 
@@ -90,6 +91,18 @@ Veus que semblaven sortir d'habitacions buides.
 La majoria de la gent ho atribuïa a la seva naturalesa excèntrica. Els gnoms ja eren estranys de per si.
 
 Només en Nim sabia que aquells fenòmens passaven més sovint quan ell era a prop.
+
+No semblava una màgia apresa.
+
+No venia de cap llibre, de cap mestre ni de cap pacte que ell pogués recordar.
+
+Venia d'algun lloc de dins seu.
+
+Massa profunda.
+
+Massa emocional.
+
+Massa imprevisible.
 
 Amb els anys, les coses es van tornar més difícils d'ignorar.
 
@@ -111,13 +124,19 @@ I alhora el terroritzava.
 
 ---
 
-# Capítol II - El Festival
+# Capítol II - El festival
 
 Tot va canviar quan en Nim tenia setze anys.
 
 El poble celebrava una de les seves festes anuals. La plaça era plena de música, menjar i rialles.
 
-Com era tradició, després de sopar els joves que aquell any feien setze anys explicaven una història sobre els seus avantpassats. Era una manera de recordar les arrels que unien els vilatans generació rere generació.
+Com era tradició, després de sopar, els joves que aquell any complien setze anys explicaven una història rebuda dels seus pares. No havia de ser una gran llegenda. Podia ser un record antic, una anècdota familiar, una lliçó repetida de generació en generació.
+
+Era una manera de recordar les arrels que unien els vilatans.
+
+Pares parlant als fills.
+
+Fills retornant aquella història al poble.
 
 Una història seguia una altra.
 
@@ -127,7 +146,7 @@ Altres emotives.
 
 Quan va arribar el torn d'en Nim, un nen li va preguntar amb tota la innocència del món:
 
-— I tu? No expliques cap història?
+— I tu? Quina història t'han explicat els teus pares?
 
 En aquell moment alguna cosa es va despertar dins seu.
 
@@ -135,15 +154,27 @@ Una sensació antiga.
 
 Un buit.
 
-Una pregunta que mai havia tingut resposta.
+Una pregunta que mai no havia tingut resposta.
+
+Totes aquelles famílies al seu voltant.
+
+Tots aquells pares.
+
+Tots aquells fills.
+
+I ell, al centre de la plaça, sense cap record al qual aferrar-se.
 
 I llavors...
 
 alguna cosa es va trencar.
 
-Recorda el Blau-Fosc-Profund.
+Del que va passar després, només en conserva fragments.
+
+Recorda el **Blau-Fosc-Profund**.
 
 Recorda el ressò de roques rascant.
+
+Recorda la màgia sortint-li de dins sense forma, sense ordre, sense permís.
 
 Recorda crits.
 
@@ -151,7 +182,7 @@ Recorda sang.
 
 Sang pertot arreu.
 
-Familiars coberts de sang.
+El seu oncle cobert de sang.
 
 Amics coberts de sang.
 
@@ -159,13 +190,17 @@ Infants coberts de sang.
 
 Els crits van començar immediatament.
 
-Alguns van caure inconscients.
+Alguns van caure inconscients, com vençuts per una son sobtada.
 
 Altres es van desplomar de terror.
 
 La confusió es va estendre com una onada.
 
 En Nim va veure el seu oncle caure a terra.
+
+Va pensar que l'havia matat.
+
+Va pensar que havia matat la meitat del poble.
 
 Recorda la seva cara.
 
@@ -179,13 +214,17 @@ Mirades de por clavades en ell.
 
 Va fugir.
 
-I mai va tornar.
+I no hi va tornar mai.
 
 Encara avui no sap què va passar realment aquella nit.
 
 No sap què era real i què no.
 
-Mai no va tenir el coratge de tornar per descobrir-ho.
+No sap si aquella sang era real, si era una il·lusió terrible o si venia d'un record enterrat massa profund: alguna imatge impossible d'una nit viscuda quan era massa petit per entendre-la.
+
+No sap si els cossos a terra eren morts, adormits o paralitzats pel pànic.
+
+Mai no ha tingut el coratge de tornar per descobrir-ho.
 
 Amb els anys, el dubte es va convertir en culpa.
 
@@ -197,7 +236,7 @@ I la certesa es va transformar en una creença que marcaria tota la seva vida:
 
 ---
 
-# Capítol III - Les sis vides d'en Nim
+# Capítol III - Les sis primeres vides d'en Nim
 
 Els mesos posteriors van ser els pitjors de la seva vida.
 
@@ -209,11 +248,29 @@ Espantat.
 
 Convençut que la seva màgia acabaria destruint qualsevol lloc on es quedés.
 
-Cada poble que visitava coneixia una persona diferent.
+Quan va fugir, no només va deixar enrere el poble.
 
-En Nim mai no inventava una màscara del tot. Sempre començava igual: algú que havia conegut, algú que havia admirat, algú que semblava saber viure sense por.
+Va deixar enrere la seva vida sencera.
 
-Robava petits gestos.
+Després d'aquella nit, ser en Nim li semblava perillós.
+
+A cada poble que visitava, es convertia en una persona diferent.
+
+No ho feia només per enganyar.
+
+Ho feia perquè admirava les vides dels altres.
+
+La tranquil·litat d'un pagès que parlava de collites.
+
+La seguretat d'un mercader que sabia què volia.
+
+La calma d'un monjo que respirava abans de respondre.
+
+La manera estranya i preciosa que tenia la gent normal d'existir sense por.
+
+En Nim mai no inventava una màscara del tot. Sempre començava igual: algú que havia conegut, algú que havia admirat, algú que semblava saber viure sense trencar res.
+
+Copiava petits gestos.
 
 Paraules.
 
@@ -222,6 +279,8 @@ Maneres de caminar.
 Històries explicades vora el foc.
 
 I amb tot això es construïa una nova vida.
+
+Abans de Waterdeep, en va viure sis.
 
 ### 1. Merk el Caminant de la Costa de l'Espasa, l'explorador
 
@@ -251,6 +310,12 @@ Sempre hi havia una part de veritat.
 
 Aquest era el problema.
 
+No perquè aquelles vides fossin seves.
+
+Sinó perquè sempre hi havia hagut algú real al darrere.
+
+Algú que ell havia admirat prou per voler assemblar-s'hi.
+
 Les mentides van començar com una manera de sobreviure.
 
 Després es van convertir en costum.
@@ -271,7 +336,7 @@ O si simplement ha oblidat com ser-ho.
 
 ---
 
-# Capítol IV - El Mag
+# Capítol IV - El mag
 
 Va ser durant aquells anys quan va conèixer un mag itinerant.
 
@@ -281,7 +346,7 @@ Ni un heroi llegendari.
 
 Només un mag normal.
 
-Però per en Nim semblava extraordinari.
+Però per a en Nim semblava extraordinari.
 
 Portava llibres.
 
@@ -289,11 +354,21 @@ Estudiava.
 
 Controlava la seva màgia.
 
+O, com a mínim, semblava que la seva màgia l'obeïa.
+
 La gent el respectava.
 
 La gent confiava en ell.
 
 I, sobretot, la gent no li tenia por.
+
+Per primera vegada, en Nim va veure una possibilitat terrible i preciosa.
+
+Potser la màgia podia tenir forma.
+
+Potser podia tenir nom.
+
+Potser podia obeir.
 
 Durant unes setmanes, en Nim va viatjar amb ell.
 
@@ -303,7 +378,7 @@ Com caminava.
 
 Com explicava la teoria arcana.
 
-Com tothom assumia que sabia exactament què estava fent.
+Com tothom donava per fet que sabia exactament què estava fent.
 
 Quan finalment es van separar, en Nim va emportar-se una lliçó.
 
@@ -313,13 +388,17 @@ No va aprendre:
 
 > Potser la gent em podria acceptar.
 
+Ni tampoc:
+
+> Potser algun dia podré entendre el que porto dins.
+
 Va aprendre:
 
 > Potser puc fingir.
 
 ---
 
-# Capítol V - El Fals Grimori
+# Capítol V - El fals grimori
 
 El seu primer grimori va ser una mentida.
 
@@ -331,7 +410,17 @@ Va copiar fórmules que no entenia.
 
 Tot per semblar un autèntic mag.
 
-Quan la seva màgia feia alguna cosa estranya, obria el llibre i començava a parlar de teoria arcana avançada.
+No era un grimori de veritat.
+
+No al principi.
+
+Era una gàbia de paper per contenir un caos que ell no sabia explicar.
+
+Quan la seva màgia feia alguna cosa estranya, obria el grimori i començava a parlar de teoria arcana avançada.
+
+Aquella màgia no sortia del llibre.
+
+Ni el necessitava.
 
 La majoria de la gent l'escoltava.
 
@@ -341,7 +430,7 @@ La gent confiava en un mag.
 
 La gent desconfiava del caos.
 
-Amb els anys el llibre va canviar.
+Amb els anys, el llibre va canviar.
 
 Les notes es van convertir en records.
 
@@ -349,7 +438,7 @@ Els records en identitats.
 
 Les identitats en mentides.
 
-Avui el grimori conté:
+Avui, el grimori conté:
 
 - Noms falsos.
 - Històries inventades.
@@ -357,7 +446,7 @@ Avui el grimori conté:
 - Fórmules absurdes.
 - Esbossos.
 - Secrets.
-- Fragments de persones que algun dia va pretendre ser.
+- Fragments de persones que algun dia va fingir ser.
 
 El fals grimori és probablement l'única cosa honesta que té.
 
@@ -365,11 +454,13 @@ El fals grimori és probablement l'única cosa honesta que té.
 
 # Capítol VI - Magister Septimus el Blau
 
-Quan va arribar a Waterdeep ja havia estat desenes de persones.
+Quan va arribar a Waterdeep ja havia viscut sis vides que no eren ben bé seves.
 
-Cap d'elles real.
+Cap d'elles del tot real.
 
 Cap d'elles permanent.
+
+Però totes li havien prestat alguna cosa.
 
 La seva setena vida acabava de començar.
 
@@ -383,7 +474,27 @@ Ridículament important.
 
 Exactament el tipus de nom que algú inventaria per semblar respectable.
 
-Quan parla de màgia sembla un expert.
+De totes les seves identitats, aquesta és la que més l'ha captivat.
+
+No només perquè li permet amagar-se.
+
+Sinó perquè li permet imaginar que potser la seva màgia no és una maledicció.
+
+Potser algun dia podrà entendre-la.
+
+Posar-li paraules.
+
+Guiar-la.
+
+Fer-la aparèixer sense que ningú fugi.
+
+De mag, encara en té ben poc.
+
+Sap imitar el llenguatge.
+
+Sap omplir silencis amb noms solemnes i teories mig recordades.
+
+Però quan parla de màgia, sembla un expert.
 
 Quan explica el seu passat, cada versió és diferent.
 
@@ -395,17 +506,17 @@ El mateix noi que encara recorda la por als ulls dels altres.
 
 Sense adonar-se'n, el nom revela més del que sembla.
 
-- **Magister** no és un nom, és un títol.
-- **Septimus** significa "el setè", la setena vida.
+- **Magister** no és un nom; és un títol.
+- **Septimus** significa "el setè": la setena vida.
 - **El Blau** és el color impossible que veu quan la realitat s'esquerda.
 
 Era la seva mentida més elaborada.
 
-**I també la que més s'assemblava a la persona que voldria ser.**
+**I també la que més s'assemblava a la persona que voldria arribar a ser.**
 
 ---
 
-# Capítol VII - L'Única Veritat
+# Capítol VII - L'única veritat
 
 En Nim menteix sobre el seu passat.
 
@@ -417,13 +528,29 @@ Menteix sobre els seus noms.
 
 Menteix sobre qui és.
 
-Però hi ha una cosa sobre la qual mai menteix.
+Però hi ha una cosa sobre la qual no menteix mai.
 
 Els seus sentiments cap a les persones que considera amigues.
 
+Pot falsejar un nom.
+
+Pot inventar-se una professió.
+
+Pot convertir mitja veritat en una història impossible.
+
+Però quan estima algú, no ho fingeix.
+
+Quan confia en algú, li costa més que qualsevol encanteri.
+
+I quan promet quedar-se al costat d'una persona, aquella promesa li fa por.
+
+Precisament per això és real.
+
+Els seus amics són l'únic lloc on en Nim intenta no fugir.
+
 ---
 
-# Capítol VIII - El Ressò de Waterdeep
+# Capítol VIII - El ressò de Waterdeep
 
 Alguna cosa l'ha atret fins a Waterdeep.
 
@@ -440,6 +567,12 @@ I, estranyament, més estable.
 No sap per què.
 
 No sap què l'espera sota la ciutat.
+
+No sap si és una resposta.
+
+O una advertència.
+
+O la mateixa esquerda que fa anys li va robar la vida.
 
 Però després d'anys fugint del seu passat, per primera vegada en la seva vida té la sensació que no està fugint d'alguna cosa.
 

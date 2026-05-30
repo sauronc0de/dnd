@@ -1,5 +1,5 @@
 ```ui
-text(character_name, "[color=#FFE400]Name[/color]", 160)  enum(background, "Background", 80, ["Acolyte", "Charlatan", "Criminal", "Entertainer", "Folk Hero", "Guild Artisan", "Hermit", "Noble", "Outlander", "Sage", "Sailor", "Soldier", "Urchin"])enum(class_, "Class", 80, ["Artificer", "Barbarian", "Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", "Ranger", "Rogue", "Sorcerer", "Warlock", "Wizard"])enum(species, "Species", 65, ["Human", "Elf", "Dwarf", "Halfling", "Gnome"])enum(subclass, "Subclass", 120, ["Path of the Berserker", "College of Lore", "Life Domain", "Champion", "Way of the Open Hand", "Oath of Devotion", "Hunter", "Thief", "Draconic Bloodline", "Wild Magic", "Fiend Patron", "School of Evocation", "Circle of the Land"]) int(level, "**Level**", 10, false)
+text(character_name, "[color=#FFE400]Name[/color]", 160)  enum(background, "Background", 80, ["Acolyte", "Charlatan", "Criminal", "Entertainer", "Folk Hero", "Guild Artisan", "Hermit", "Noble", "Outlander", "Sage", "Sailor", "Soldier", "Urchin"])enum(class_, "Class", 80, ["Artificer", "Barbarian", "Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", "Ranger", "Rogue", "Sorcerer", "Warlock", "Wizard"])enum(species, "Species", 65, ["Human", "Elf", "Dwarf", "Halfling", "Gnome"])enum(subclass, "Subclass", 120, ["Path of the Berserker", "College of Lore", "Life Domain", "Champion", "Way of the Open Hand", "Oath of Devotion", "Hunter", "Thief", "Draconic Bloodline", "Wild Magic", "Fiend Patron", "School of Evocation", "Circle of the Land"]) int(level, "**Level**", 6, false)
 // Heal Bar
 hp_total(hp_current + hp_temp)
 hp_pct(hp_total / hp_max)
@@ -22,7 +22,7 @@ hp_color(
 )
 hp_label("[color=#CC3333]HP[/color] "+ hp_current + " + " + hp_temp + " / " + hp_max)
 if(hp_total > 0){
-  bar(hp_total, hp_label, 600, 0, hp_max, hp_color)
+  bar(hp_total, hp_label, 600, 0, hp_max, hp_color) text("🛡 AC: [color=#FFD700]" + armor_class + "[/color]")
 }
 
 if(hp_total < 1){

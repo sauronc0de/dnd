@@ -1,11 +1,12 @@
 ```ui-mermaid
 radar-beta
-  title Ability Modifiers
+  title Ability Scores & Modifiers
   max 20
-  Strength: ${strength}
-  Dexterity: ${dexterity}
-  Constitution: ${constitution}
-  Intelligence: ${intelligence}
-  Wisdom: ${wisdom}
-  Charisma: ${charisma}
+
+  STR (${strength_mod}): ${strength}
+  DEX (+${dexterity_mod}): ${dexterity}
+  CON (+${constitution_mod}): ${constitution}
+  INT (+${intelligence_mod}): ${intelligence}
+  WIS (+${wisdom_mod}): ${wisdom}
+  CHA (+${charisma_mod}): ${charisma}
 ```

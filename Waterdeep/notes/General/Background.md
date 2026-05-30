@@ -39,6 +39,7 @@
 
 * Coneix el mag itinerant
 * Descobreix que la màgia pot semblar controlada
+* Rep un focus arcà
 * Aprèn la lliçó equivocada
 
 > Potser puc fingir.
@@ -86,6 +87,7 @@
 * Bjurgen i Dalakarr
 * Pocs dies a la ciutat
 * La Botiga del Vell Xablob
+* El collaret nu
 * El ressò d'Undermountain
 
 # Capítol I - El noi sense respostes
@@ -428,6 +430,46 @@ Com explicava la teoria arcana.
 
 Com tothom donava per fet que sabia exactament què estava fent.
 
+El mag també li va donar un objecte.
+
+No era una vareta.
+
+Ni un cristall polit.
+
+Ni cap focus arcà com els que en Nim havia vist dibuixats als llibres.
+
+Era un fermall de metall fosc en forma d'espiral imperfecta.
+
+Semblava una esquerda cargolada sobre si mateixa.
+
+Un símbol massa solemne per ser accidental.
+
+I massa irregular per ser realment elegant.
+
+Al centre hi tenia encastat un petit fragment de vidre **Blau-Fosc-Profund**, rugós i mal tallat.
+
+El vidre no brillava sempre.
+
+Només de vegades.
+
+Només quan la màgia d'en Nim s'acostava massa a la superfície.
+
+El mag li va dir que potser no podria controlar el que duia dins.
+
+No del tot.
+
+Però que podia donar-li un camí.
+
+Un lloc per on respirar.
+
+Un punt on mirar quan tot volgués sortir alhora.
+
+En Nim va començar a portar aquell fermall a la solapa com si fos una promesa.
+
+O una corretja.
+
+O una prova que potser no estava completament perdut.
+
 Quan finalment es van separar, en Nim va emportar-se una lliçó.
 
 Malauradament, no era la correcta.
@@ -469,6 +511,14 @@ Quan la seva màgia feia alguna cosa estranya, obria el grimori i començava a p
 Aquella màgia no sortia del llibre.
 
 Ni el necessitava.
+
+Però el fermall sí que l'ajudava.
+
+No sempre.
+
+No prou.
+
+Però a vegades, quan sentia el caos pujant-li pel pit, tocar aquell metall fred li donava la sensació que la màgia trobava un camí abans d'esclatar.
 
 La majoria de la gent l'escoltava.
 
@@ -630,7 +680,7 @@ Sinó que està avançant cap a ella.
 
 # Capítol IX - Els primers dies a Waterdeep
 
-De camí cap a Waterdeep, en Nim va coincidir durant uns quants dies amb dos gnoms: Bjurgen i Dalakarr.
+Durant el camí cap a Waterdeep, en Nim va coincidir durant uns quants dies amb dos gnoms: Bjurgen i Dalakarr.
 
 Amb Bjurgen hi va establir una amistat sorprenentment fàcil.
 
@@ -640,7 +690,7 @@ No una confessió profunda.
 
 Només aquella mena de confiança petita que neix quan dues persones caminen en la mateixa direcció prou estona.
 
-Un cop arribats a Waterdeep, els seus camins han continuat avançant en paral·lel més del que en Nim esperava.
+Un cop arribats a Waterdeep, els seus camins han continuat semblant-se més del que en Nim esperava.
 
 Dalakarr, en canvi, era una altra cosa.
 
@@ -660,7 +710,7 @@ Massa plena.
 
 Massa viva.
 
-En Nim hi porta pocs dies, i encara no s'hi ha pogut adaptar.
+En Nim hi porta pocs dies, i difícilment es podria dir que s'hi hagi adaptat.
 
 A part del petit grup que ha format amb la resta d'aventurers, l'única persona amb qui ha establert una mica de confiança és Xablob, un gnom de les profunditats que regenta una botiga de bagatel·les, andròmines i artefactes diversos al Districte del Port.
 
@@ -690,6 +740,40 @@ Fins i tot una mica paternalista.
 
 Com si reconegués alguna cosa que en Nim encara no sabia veure en si mateix.
 
+En una d'aquelles visites, en Nim va trobar un collaret mig perdut entre una safata de bagatel·les.
+
+No tenia cap pedra.
+
+Ni cap símbol.
+
+Ni cap encantament evident.
+
+Era només un cordó fosc amb petites anelles buides, com si alguna vegada hagués sostingut peces que ja no hi eren.
+
+No era especialment bonic.
+
+Ni valuós.
+
+Ni tan sols gaire ben fet.
+
+Però en Nim s'hi va quedar mirant massa estona.
+
+Xablob el va veure amb el collaret entre els dits i va fer un so sec amb el nas.
+
+— Si te'l quedes, deixa de remenar-lo.
+
+En Nim no va saber si allò era una venda, un regal o una manera poc amable de fer-lo fora d'aquell racó de la botiga.
+
+El collaret no era un focus arcà.
+
+No canalitzava la màgia.
+
+No feia res que ell pogués explicar.
+
+Però les anelles buides li feien pensar en coses petites que es perden pel camí.
+
+I, per alguna raó, se'l va quedar.
+
 Un dia, en un moment estranyament distès mentre passejaven pel Districte del Port, Xablob li va dir que compartien una connexió.
 
 No la mateixa ferida.
@@ -705,6 +789,8 @@ Xablob no coneix la història d'en Nim.
 No sap res del poble.
 
 No sap res del festival.
+
+No sap res de l'oncle caient a terra.
 
 Però també sent el ressò de la ciutat.
 

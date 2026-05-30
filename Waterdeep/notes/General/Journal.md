@@ -68,6 +68,8 @@ La botiga és plena de bagatel·les, andròmines i artefactes diversos, gairebé
 
 Xablob és sec i brusc, però amb en Nim també mostra una actitud permissiva i gairebé paternalista. Li ha explicat que tots dos comparteixen una connexió amb la màgia d'Undermountain: no exactament la mateixa afectació, però sí una mateixa essència. Xablob no coneix la història d'en Nim, però també sent el ressò de la ciutat i el sent en ell.
 
+En una visita a la botiga, en Nim es va quedar amb un collaret nu trobat entre bagatel·les: un cordó fosc amb petites anelles buides, sense encantament evident. No és un focus arcà; simplement li va picar la curiositat, com si aquelles anelles poguessin acabar sostenint alguna cosa algun dia.
+
 Durant el viatge cap a Waterdeep, en Nim va coincidir amb dos gnoms: Bjurgen i Dalakarr. Amb Bjurgen hi va establir una bona amistat, i els seus camins han continuat sent propers dins la ciutat. Dalakarr, més paranoic i amb algun secret a amagar, va desaparèixer tan bon punt van arribar a Waterdeep.
 
 

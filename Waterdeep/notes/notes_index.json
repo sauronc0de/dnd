@@ -1,6 +1,6 @@
 {
   "active_folder": 0,
-  "active_note": 18,
+  "active_note": 22,
   "folder_view": true,
   "layout_locked": false,
   "detached_note_windows": false,
@@ -27,10 +27,11 @@
         {"title": "Control 2", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Control 2.md", "x": 1201, "y": 113, "w": 238, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "⚔ Combat", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/⚔ Combat.md", "x": 1113, "y": 40, "w": 326, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0, "font_size": 20},
         {"title": "Grimori", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Grimori.md", "x": 288, "y": 113, "w": 911, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
-        {"title": "Background", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Background.md", "x": 288, "y": 113, "w": 911, "h": 216, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
+        {"title": "Background", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Background.md", "x": 288, "y": 113, "w": 911, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "Stats", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Stats.md", "x": 1201, "y": 113, "w": 238, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"title": "Personality", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Personality.md", "x": 1201, "y": 113, "w": 238, "h": 260, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
-        {"title": "Stats-distribution", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Stats-distribution.md", "x": 1441, "y": 166, "w": 413, "h": 400, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
+        {"title": "Stats-distribution", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Stats-distribution.md", "x": 1441, "y": 166, "w": 413, "h": 400, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
+        {"title": "Apparence", "path": "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Apparence.md", "x": 288, "y": 113, "w": 911, "h": 890, "has_layout": true, "hidden": false, "always_on_top": false, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
       ],
       "images": []
     },
@@ -38,13 +39,13 @@
       "name": "Img",
       "notes": [
       ],
-      "images": []
+      "images": ["/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/magister-septimus-el-blau.png"]
     },
     {
       "name": "Img/Items",
       "notes": [
       ],
-      "images": ["/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/rope.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/potion-hp.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/Bagpack.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/Grimori-Magister-Septimus-Blau.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/tinderbox.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/torch.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/hammer.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/pitons.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/earring.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/crowbar.png"]
+      "images": ["/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/rope.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/potion-hp.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/Bagpack.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/Grimori-Magister-Septimus-Blau.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/tinderbox.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/torch.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/hammer.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/pitons.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/earring.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/crowbar.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/necklace.png", "/home/sauroncode/workspace/dnd/Waterdeep/notes/Img/Items/arcane-focus.png"]
     },
     {
       "name": "Img/Spells",

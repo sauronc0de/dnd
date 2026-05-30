@@ -394,7 +394,7 @@ Ni tampoc:
 
 Va aprendre:
 
-> Potser puc fingir.
+> Potser puc fingir ser mag.
 
 ---
 

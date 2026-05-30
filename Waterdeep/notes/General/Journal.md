@@ -60,6 +60,16 @@ Districtes:
 
 Hi ha el seu propi calendari i les faccions. Pep ens passarà imatges.
 
+## Arribada d'en Nim
+
+En Nim fa pocs dies que és a Waterdeep i encara no s'hi ha adaptat. A part del grup format amb la resta d'aventurers, l'única persona amb qui ha establert una mica de confiança és Xablob, un gnom de les profunditats que regenta la Botiga del Vell Xablob al Districte del Port.
+
+La botiga és plena de bagatel·les, andròmines i artefactes diversos, gairebé tots sense propietats màgiques reals. Tot l'establiment, igual que les robes de Xablob, està dominat per tonalitats liles.
+
+Xablob és sec i brusc, però amb en Nim també mostra una actitud permissiva i gairebé paternalista. Li ha explicat que tots dos comparteixen una connexió amb la màgia d'Undermountain: no exactament la mateixa afectació, però sí una mateixa essència. Xablob no coneix la història d'en Nim, però també sent el ressò de la ciutat i el sent en ell.
+
+Durant el viatge cap a Waterdeep, en Nim va coincidir amb dos gnoms: Bjurgen i Dalakarr. Amb Bjurgen hi va establir una bona amistat, i els seus camins han continuat sent propers dins la ciutat. Dalakarr, més paranoic i amb algun secret a amagar, va desaparèixer tan bon punt van arribar a Waterdeep.
+
 
 # Session 1
 

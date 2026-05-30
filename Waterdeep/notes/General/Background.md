@@ -4,6 +4,7 @@
 
 * Infància
 * Llogaret gnom prop de Hardbuckler
+* L'explosió del bosc
 * Màgia innata i estranya
 * Blau-Fosc-Profund
 * Ressò
@@ -78,6 +79,15 @@
 * La màgia més estable
 * El començament de la campanya
 
+---
+
+## Capítol IX - Els primers dies a Waterdeep
+
+* Bjurgen i Dalakarr
+* Pocs dies a la ciutat
+* La Botiga del Vell Xablob
+* El ressò d'Undermountain
+
 # Capítol I - El noi sense respostes
 
 Nim Branquilluminosa no va conèixer mai els seus pares.
@@ -93,6 +103,28 @@ Prou a prop del camí perquè arribessin rumors del món.
 Prou apartat perquè gairebé ningú no hi passés per accident.
 
 Era una vida senzilla. Els vilatans el coneixien com un gnom curiós, xerraire i sempre envoltat de coincidències estranyes.
+
+De petit, hi va haver una explosió al bosc.
+
+En Nim encara no sap explicar què va passar.
+
+Recorda llum.
+
+Recorda fulles aixecant-se com si el món respirés cap amunt.
+
+Recorda una força estranya, feèrica i misteriosa, arrasant una clariana sencera sense deixar-li ni una sola ferida.
+
+Quan el van trobar, una part del bosc havia quedat cremada, torçada o simplement canviada.
+
+Ell estava il·lès.
+
+Però des d'aquell dia, alguna cosa va quedar amb ell.
+
+Una màgia caòtica.
+
+Una presència sense nom.
+
+Una esquerda petita que mai no es va tancar del tot.
 
 Objectes que es movien sols.
 
@@ -593,3 +625,87 @@ O la mateixa esquerda que fa anys li va robar la vida.
 Però després d'anys fugint del seu passat, per primera vegada en la seva vida té la sensació que no està fugint d'alguna cosa.
 
 Sinó que està avançant cap a ella.
+
+---
+
+# Capítol IX - Els primers dies a Waterdeep
+
+De camí cap a Waterdeep, en Nim va coincidir durant uns quants dies amb dos gnoms: Bjurgen i Dalakarr.
+
+Amb Bjurgen hi va establir una amistat sorprenentment fàcil.
+
+No una gran promesa.
+
+No una confessió profunda.
+
+Només aquella mena de confiança petita que neix quan dues persones caminen en la mateixa direcció prou estona.
+
+Un cop arribats a Waterdeep, els seus camins han continuat avançant en paral·lel més del que en Nim esperava.
+
+Dalakarr, en canvi, era una altra cosa.
+
+Un gnom nerviós.
+
+Paranoic.
+
+Amb la mirada de qui arrossega un secret massa gros per guardar-lo bé.
+
+Tan bon punt van arribar a la ciutat, en Nim el va perdre de vista.
+
+Waterdeep és immensa.
+
+Massa sorollosa.
+
+Massa plena.
+
+Massa viva.
+
+En Nim hi porta pocs dies, i encara no s'hi ha pogut adaptar.
+
+A part del petit grup que ha format amb la resta d'aventurers, l'única persona amb qui ha establert una mica de confiança és Xablob, un gnom de les profunditats que regenta una botiga de bagatel·les, andròmines i artefactes diversos al Districte del Port.
+
+La **Botiga del Vell Xablob** és un establiment estrany.
+
+Gairebé tan estrany com el seu propietari.
+
+Les parets són pintades amb tonalitats liles.
+
+Les robes de Xablob també són liles.
+
+Fins i tot la pols sembla haver acceptat aquell color com una llei local.
+
+La botiga va cridar l'atenció d'en Nim per les andròmines exposades als prestatges, penjades del sostre o amuntegades en racons impossibles.
+
+Per a la seva decepció, cap d'aquells objectes semblava tenir propietats màgiques reals.
+
+Però alguna cosa d'aquell lloc ressonava en ell.
+
+I alguna cosa de Xablob també.
+
+Després d'algunes visites, en Nim va descobrir que el gnom tenia una manera de fer seca i brusca, però no cruel.
+
+Amb ell era permissiu.
+
+Fins i tot una mica paternalista.
+
+Com si reconegués alguna cosa que en Nim encara no sabia veure en si mateix.
+
+Un dia, en un moment estranyament distès mentre passejaven pel Districte del Port, Xablob li va dir que compartien una connexió.
+
+No la mateixa ferida.
+
+No exactament la mateixa màgia.
+
+Però sí una mateixa essència.
+
+Una afectació particular en aquells que s'han vist exposats a la màgia d'Undermountain.
+
+Xablob no coneix la història d'en Nim.
+
+No sap res del poble.
+
+No sap res del festival.
+
+Però també sent el ressò de la ciutat.
+
+I també el sent en ell.

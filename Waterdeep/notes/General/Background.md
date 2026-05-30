@@ -3,6 +3,7 @@
 ## Capítol I - El noi sense respostes
 
 * Infància
+* Llogaret gnom prop de Hardbuckler
 * Màgia innata i estranya
 * Blau-Fosc-Profund
 * Ressò
@@ -12,6 +13,7 @@
 ## Capítol II - El festival
 
 * Tradició de pares a fills
+* Setze anys
 * La pregunta innocent
 * El trencament
 * La fugida
@@ -27,6 +29,7 @@
 * Monjo
 * Guerrer
 * Les vides copiades
+* Vuit anys de fugida
 * Reflexió sobre les mentides
 
 ---
@@ -52,6 +55,7 @@
 ## Capítol VI - Magister Septimus el Blau
 
 * La setena vida
+* Vint-i-quatre anys
 * La identitat actual
 * Explicació simbòlica del nom
 
@@ -78,7 +82,17 @@
 
 Nim Branquilluminosa no va conèixer mai els seus pares.
 
-Des que tenia memòria, havia viscut en un petit poble sota la cura del seu oncle. Era una vida senzilla. Els vilatans el coneixien com un gnom curiós, xerraire i sempre envoltat de coincidències estranyes.
+Des que tenia memòria, havia viscut en un petit llogaret gnom sota la cura del seu oncle.
+
+El llogaret no apareixia a gairebé cap mapa.
+
+Era un grapat de cases baixes, tallers modestos i horts tancats amb tanques menudes, amagat entre turons suaus i boscos humits al sud dels turons de Trielta, no gaire lluny de Hardbuckler i de la Dusk Road.
+
+Prou a prop del camí perquè arribessin rumors del món.
+
+Prou apartat perquè gairebé ningú no hi passés per accident.
+
+Era una vida senzilla. Els vilatans el coneixien com un gnom curiós, xerraire i sempre envoltat de coincidències estranyes.
 
 Objectes que es movien sols.
 
@@ -247,6 +261,8 @@ Sol.
 Espantat.
 
 Convençut que la seva màgia acabaria destruint qualsevol lloc on es quedés.
+
+Aquella fugida es va allargar durant vuit anys.
 
 Quan va fugir, no només va deixar enrere el poble.
 
@@ -454,7 +470,7 @@ El fals grimori és probablement l'única cosa honesta que té.
 
 # Capítol VI - Magister Septimus el Blau
 
-Quan va arribar a Waterdeep ja havia viscut sis vides que no eren ben bé seves.
+Quan va arribar a Waterdeep, amb vint-i-quatre anys, ja havia viscut sis vides que no eren ben bé seves.
 
 Cap d'elles del tot real.
 

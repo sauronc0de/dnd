@@ -3,9 +3,9 @@
 
 
 // Manager controls
-manage_value(-80)
+manage_value(5)
 manage_action("none")
-slot_level(2)
+slot_level(1)
 
 text("[color=#AAAAAA]Amount[/color] ")
 int(manage_value, "Value", 80, true)
@@ -86,13 +86,11 @@ if(manage_action == "cast" && slot_level == 5 && spell_slot_expended[4] < spell_
 
 // Display
 text("")
-text("[color=#CC3333]HP[/color] ")
-text(hp_current + " + " + hp_temp + " / " + hp_max)
+text("[color=#CC3333]HP[/color] ") text(hp_current + " + " + hp_temp + " / " + hp_max)
 
 text("   ")
 
-text("[color=#D4AF37]Sorcery[/color] ")
-text(sorcery_points + "/" + sorcery_points_max)
+
 
 text("")
 

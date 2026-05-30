@@ -20,12 +20,12 @@ hp_color(
     hp_pct < 0.90 ? "#800808" :
                     "#700808"
 )
-hp_label(hp_total + "/" + hp_max)
+hp_label("[color=#CC3333]HP[/color] "+ hp_current + " + " + hp_temp + " / " + hp_max)
 if(hp_total > 0){
-  bar(hp_total, hp_label, 760, 0, hp_max, hp_color)
+  bar(hp_total, hp_label, 600, 0, hp_max, hp_color)
 }
 
 if(hp_total < 1){
-  text("💀") bar(hp_max, "", 760, 0, hp_max, "#000000") text("💀")
+  text("💀") bar(hp_max, "", 600, 0, hp_max, "#000000") text("💀")
 }
 ```

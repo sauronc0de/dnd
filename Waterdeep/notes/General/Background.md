@@ -446,9 +446,23 @@ Un símbol massa solemne per ser accidental.
 
 I massa irregular per ser realment elegant.
 
-Al centre hi tenia encastat un petit fragment de vidre **Blau-Fosc-Profund**, rugós i mal tallat.
+Al centre hi tenia encastada una petita pedra grisa, rugosa i mal tallada.
 
-El vidre no brillava sempre.
+Semblava una pedra comuna.
+
+Una cosa que qualsevol hauria pogut trepitjar en un camí sense mirar-s'hi dues vegades.
+
+El mag li va explicar que aquell tipus de pedra no tenia un color propi del tot.
+
+Canviava segons la màgia de qui la portava.
+
+Amb alguns prenia tons càlids.
+
+Amb altres, llum de tempesta.
+
+Amb en Nim, però, la pedra s'enfosquia fins a agafar aquell **Blau-Fosc-Profund** que ell ja coneixia massa bé.
+
+No ho feia sempre.
 
 Només de vegades.
 

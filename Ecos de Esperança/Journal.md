@@ -314,3 +314,7 @@ Bockaral intent completar la canço incompleta i les papallones ens indiquen cam
 > A banda i banda les no se que queden que flipes.
 > Cada esglaó puja amb una solamnitat gaire be insultant. Des d'aquí baix, només es veu un ego gegant.
 > Dic em veu baixa: < No feu màgia! >
+
+# Season 20
+> Last dance!
+> Tornem a Vilabobina.

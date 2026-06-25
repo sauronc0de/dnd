@@ -4,15 +4,11 @@ manage_value(5)
 manage_action("none")
 slot_level(1)
 
-text("[color=#AAAAAA]Heal Points[/color] ")
-int(manage_value, "Value", 80, true)
-button("Damage", 60, manage_action="damage") button("Heal", 60, manage_action="heal") button("Temp", 60, manage_action="temp_heal")
+text("[color=#AAAAAA]HP[/color] ") int(manage_value, "", 80, true) button("Damage", 60, manage_action="damage") button("Heal", 45, manage_action="heal") button("Temp", 45, manage_action="temp_heal")
 
-text("[color=#AAAAAA]Rest[/color] ")
-button("Short Rest", 90, manage_action="short_rest") button("Long Rest", 90, manage_action="long_rest")
+text("[color=#AAAAAA]Rest[/color] ") button("Short Rest", 90, manage_action="short_rest") button("Long Rest", 90, manage_action="long_rest")
 
-text("[color=#AAAAAA]Spell Slot[/color] ")
-int(slot_level, "Level", 65, true) button("Cast", 90, manage_action="cast")
+text("[color=#AAAAAA]Spell Slot[/color] ") int(slot_level, "Level", 65, true) button("Cast", 90, manage_action="cast")
 if(slot_level > 4){ slot_level = 4 }
 if(slot_level < 0){ slot_level = 0 }
 

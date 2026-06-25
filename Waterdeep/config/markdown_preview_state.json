@@ -1,5 +1,210 @@
 {
   "documents": {
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/Background.md": {
+      "headers": {
+        "0": false,
+        "12086": false,
+        "13276": false,
+        "1376": false,
+        "14917": false,
+        "15621": false,
+        "16236": false,
+        "3768": false,
+        "6337": false,
+        "9743": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/Grimori.md": {
+      "headers": {
+        "0": true,
+        "1001": false,
+        "1049": false,
+        "1065": false,
+        "1155": false,
+        "1171": false,
+        "1238": false,
+        "1254": false,
+        "13": false,
+        "2679": false,
+        "2695": false,
+        "302": false,
+        "318": false,
+        "600": false,
+        "616": false,
+        "708": false,
+        "724": false,
+        "754": false,
+        "770": false,
+        "797": false,
+        "813": false,
+        "851": false,
+        "867": false,
+        "919": false,
+        "935": false,
+        "985": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/Journal.md": {
+      "headers": {
+        "0": true,
+        "13": false,
+        "2028": false,
+        "4700": false,
+        "6174": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/Personality.md": {
+      "headers": {
+        "1135": false,
+        "1392": false,
+        "16": false,
+        "1617": false,
+        "198": true,
+        "1987": false,
+        "2230": false,
+        "2342": true,
+        "2503": false,
+        "2838": false,
+        "633": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/🎒 Bag.md": {
+      "headers": {
+        "1135": false,
+        "1392": false,
+        "16": true,
+        "1617": false,
+        "198": false,
+        "1987": false,
+        "2230": false,
+        "2342": false,
+        "2503": false,
+        "2838": false,
+        "633": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/👶 Background.md": {
+      "headers": {
+        "0": false,
+        "12086": false,
+        "13276": false,
+        "1376": false,
+        "14917": false,
+        "15621": false,
+        "16236": false,
+        "3768": false,
+        "6337": false,
+        "9743": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/💭 Personality.md": {
+      "headers": {
+        "1135": false,
+        "1392": false,
+        "16": false,
+        "1617": false,
+        "198": true,
+        "1987": false,
+        "2230": false,
+        "2342": true,
+        "2503": false,
+        "2838": false,
+        "633": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/📕 Grimori.md": {
+      "headers": {
+        "0": true,
+        "1049": false,
+        "1155": false,
+        "1238": false,
+        "13": false,
+        "2679": false,
+        "302": false,
+        "600": false,
+        "708": false,
+        "754": false,
+        "797": false,
+        "851": false,
+        "919": false,
+        "985": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/📖 Journal.md": {
+      "headers": {
+        "0": true,
+        "13": false,
+        "2028": false,
+        "4700": false,
+        "6174": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/📜 Journal.md": {
+      "headers": {
+        "0": true,
+        "13": false,
+        "2028": false,
+        "4700": false,
+        "6174": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me/Background.md": {
+      "headers": {
+        "0": false,
+        "12086": false,
+        "13276": false,
+        "1376": false,
+        "14917": false,
+        "15621": false,
+        "16236": false,
+        "3768": false,
+        "6337": false,
+        "9743": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me/Grimori.md": {
+      "headers": {
+        "0": false,
+        "1238": false,
+        "2679": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me/Journal.md": {
+      "headers": {
+        "0": false,
+        "6174": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me/Personality.md": {
+      "headers": {
+        "1135": true,
+        "1392": false,
+        "16": false,
+        "1617": false,
+        "198": false,
+        "1987": false,
+        "2230": false,
+        "2342": true,
+        "2503": false,
+        "2838": false,
+        "633": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Me/🎒 Bag.md": {
+      "headers": {
+        "1135": true,
+        "1392": false,
+        "16": false,
+        "1617": false,
+        "198": false,
+        "1987": false,
+        "2230": false,
+        "2342": false,
+        "2503": false,
+        "2838": false,
+        "633": false
+      }
+    },
     "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Background.md": {
       "headers": {
         "0": false,

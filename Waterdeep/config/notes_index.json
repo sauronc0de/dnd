@@ -1,6 +1,6 @@
 {
   "active_folder": 6,
-  "active_note": 4,
+  "active_note": 13,
   "folder_view": true,
   "layout_locked": false,
   "detached_note_windows": false,
@@ -29,7 +29,7 @@
       "grid_visible": false,
       "notes": [
       ],
-      "images": []
+      "images": ["/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Mapa/Waterdeep-view.jpg", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Mapa/Faerun-map.jpg", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Mapa/Waterdeep-map.png"]
     },
     {
       "name": "Img/Spells",
@@ -40,7 +40,7 @@
       "grid_visible": false,
       "notes": [
       ],
-      "images": []
+      "images": ["/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/toll-of-dead.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/word-of-radiance.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/mending.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/chaos-bolt.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/prestidigitation.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/mage-hand.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/elementalism.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/burning-hands.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/disguise-self.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/firebolt.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/minor-illusion.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/absorb-elements.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/color-spray.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/guidance.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/sorcerous-burst.png"]
     },
     {
       "name": "Img/Items",
@@ -51,7 +51,7 @@
       "grid_visible": false,
       "notes": [
       ],
-      "images": []
+      "images": ["/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/darkvision.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/dagger.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/crowbar.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/hammer.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/Bagpack.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/rope.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/disguise-kit.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/empty-flask.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/Grimori-Magister-Septimus-Blau.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/potion-hp.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/necklace.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/roba-de-peregri.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/earring.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/forgery-kit.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/arcane-focus.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/wizard-clothes.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/caltrops.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/waterskin.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/torch.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/pitons.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/flask-of-oil.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/day-ration.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Items/tinderbox.png"]
     },
     {
       "name": "Img/Feats",
@@ -62,7 +62,7 @@
       "grid_visible": false,
       "notes": [
       ],
-      "images": []
+      "images": ["/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Feats/Gnomish-cunning.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Feats/rock-gnome.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Feats/innate-sorcery-feat.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Feats/spellcasting-feat.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Feats/gnome.png"]
     },
     {
       "name": "Img",
@@ -73,7 +73,7 @@
       "grid_visible": false,
       "notes": [
       ],
-      "images": []
+      "images": ["/home/sauroncode/projects/dnd/Waterdeep/notes/Img/magister-septimus-el-blau.png"]
     },
     {
       "name": "Me-Journal",
@@ -87,10 +87,10 @@
         {"id": "915df9c0-5d9f-4269-a04b-fd240d19e84d", "title": ".globals", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/.globals.md", "x": 380, "y": 220, "w": 520, "h": 140, "has_layout": true, "hidden": true, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"id": "24443e64-4401-4f7f-86bd-ec30fa6a64e1", "title": "💀 Death Saves", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/💀 Death Saves.md", "x": 1156, "y": 742, "w": 276, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 4, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"id": "56507986-85d6-4ab1-8348-ac9f506966be", "title": "📕 Grimori", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/📕 Grimori.md", "x": 288, "y": 154, "w": 866, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
-        {"id": "0678e48e-dbc7-4cdf-a337-d4397b2e33e5", "title": "🧭 Exploration", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/🧭 Exploration.md", "x": 288, "y": 154, "w": 866, "h": 720, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
+        {"id": "0678e48e-dbc7-4cdf-a337-d4397b2e33e5", "title": "🧭 Exploration", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/🧭 Exploration.md", "x": 288, "y": 154, "w": 866, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"id": "01064ccc-4656-44b2-98eb-351b003842dd", "title": "🎮 Control", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/🎮 Control.md", "x": 1156, "y": 742, "w": 276, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 4, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"id": "3e87dbfb-8556-477f-9cb3-d0b4372c803f", "title": "📜 Journal", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/📜 Journal.md", "x": 288, "y": 154, "w": 866, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
-        {"id": "dbb19305-c204-4e6e-a4b7-3840ed76287e", "title": "🪄 Spells", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/🪄 Spells.md", "x": 288, "y": 154, "w": 866, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
+        {"id": "dbb19305-c204-4e6e-a4b7-3840ed76287e", "title": "🪄 Spells", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/🪄 Spells.md", "x": 288, "y": 154, "w": 866, "h": 700, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"id": "54771fa7-b82a-4017-b892-b2d5826370b5", "title": "💪 Stats", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/💪 Stats.md", "x": 1156, "y": 40, "w": 276, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 3, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"id": "d694ecb8-e294-4b1f-94cb-f055772f664a", "title": "🎭 Apparence", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/🎭 Apparence.md", "x": 288, "y": 154, "w": 866, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
         {"id": "11e26280-5983-4f4e-84ef-24d0d6684fd0", "title": "💭 Personality", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/💭 Personality.md", "x": 1156, "y": 40, "w": 276, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 3, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
@@ -119,7 +119,7 @@
       "drawings_visible": true,
       "grid_visible": false,
       "notes": [
-        {"id": "d35bd0e0-1df1-4e6a-ada1-6e8bf9a3ade2", "title": ".globals", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/.globals.md", "x": 340, "y": 180, "w": 520, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
+        {"id": "d35bd0e0-1df1-4e6a-ada1-6e8bf9a3ade2", "title": ".globals", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/.globals.md", "x": 340, "y": 180, "w": 520, "h": 144, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
       ],
       "images": []
     },
@@ -132,8 +132,9 @@
       "grid_visible": false,
       "notes": [
         {"id": "723ee704-9f9a-4faa-9ce0-82982c6f5c1c", "title": "Spells slots", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Others/Spells slots.md", "x": 397, "y": 224, "w": 735, "h": 540, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
-        {"id": "ab37cf61-a33f-4827-8f49-dce27ea6f97c", "title": "Tasks", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Others/Tasks.md", "x": 319, "y": 570, "w": 520, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
-        {"id": "141874b9-0d64-4090-9201-00cc6cfbe7c7", "title": "📊 Stats-distribution", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Others/📊 Stats-distribution.md", "x": 288, "y": 40, "w": 1144, "h": 400, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
+        {"id": "ab37cf61-a33f-4827-8f49-dce27ea6f97c", "title": "Tasks", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Others/Tasks.md", "x": 319, "y": 570, "w": 665, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
+        {"id": "141874b9-0d64-4090-9201-00cc6cfbe7c7", "title": "📊 Stats-distribution", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Others/📊 Stats-distribution.md", "x": 988, "y": 67, "w": 422, "h": 400, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
+        {"id": "bf63de5c-90b0-40bb-a366-a7aef099abad", "title": "Character-creation", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Others/Character-creation.md", "x": 329, "y": 141, "w": 520, "h": 428, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
       ],
       "images": []
     }

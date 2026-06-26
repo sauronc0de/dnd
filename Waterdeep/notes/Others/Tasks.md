@@ -1,2 +1,3 @@
 - [ ] Falta revisar totes les feats, cantrips i spells que puc afegir per Raça, classe,...
 - [ ] Update Kanban bug. By any modification the kanban breaks. Also allow manage the width.
+- [ ] Ampliar l'amplada de la finestra del inventory popup, mouseover cell.

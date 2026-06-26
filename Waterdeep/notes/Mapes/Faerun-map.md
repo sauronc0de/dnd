@@ -1,3 +1,3 @@
 ```ui
-map(faerun_map, 900, 900)
+map(faerun_map, 750, 750)
 ```

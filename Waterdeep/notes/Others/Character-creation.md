@@ -14,7 +14,7 @@ Specie: Gnome
 - Rock Gnome: Mending, Prestidigitation(Device).
 - Traits: Small, Speed: 30f, Darkvision, Gnomish Cunning.
 ---
-Background: Charlatan 
+Background: Charlatan with Magic Initiate instead of Skilled.
 - Ability Scores: Dex,Const,Char
 - Feat: Skilled
 - Skill Proficiencies: Deception/Sleight of Hand, 

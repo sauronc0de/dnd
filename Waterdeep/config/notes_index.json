@@ -1,6 +1,6 @@
 {
-  "active_folder": 6,
-  "active_note": 13,
+  "active_folder": 0,
+  "active_note": 1,
   "folder_view": true,
   "layout_locked": false,
   "detached_note_windows": false,
@@ -16,7 +16,7 @@
       "grid_visible": false,
       "notes": [
         {"id": "23e50950-a8b5-4919-9489-7e6b2e2a5dac", "title": "Waterdeep-map", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Mapes/Waterdeep-map.md", "x": 288, "y": 40, "w": 1144, "h": 140, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0},
-        {"id": "2d077aef-0c73-4940-bb03-aa0caeff2ebe", "title": "Faerun-map", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Mapes/Faerun-map.md", "x": 288, "y": 40, "w": 1144, "h": 824, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
+        {"id": "2d077aef-0c73-4940-bb03-aa0caeff2ebe", "title": "Faerun-map", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Mapes/Faerun-map.md", "x": 288, "y": 40, "w": 1144, "h": 794, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 2, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
       ],
       "images": []
     },
@@ -40,7 +40,7 @@
       "grid_visible": false,
       "notes": [
       ],
-      "images": ["/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/toll-of-dead.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/word-of-radiance.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/mending.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/chaos-bolt.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/prestidigitation.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/mage-hand.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/elementalism.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/burning-hands.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/disguise-self.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/firebolt.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/minor-illusion.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/absorb-elements.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/color-spray.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/guidance.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/sorcerous-burst.png"]
+      "images": ["/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/toll-of-dead.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/word-of-radiance.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/mending.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/chaos-bolt.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/prestidigitation.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/mage-hand.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/elementalism.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/burning-hands.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/disguise-self.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/firebolt.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/minor-illusion.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/absorb-elements.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/color-spray.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/guidance.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/sorcerous-burst.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/find-familiar.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Spells/message.png"]
     },
     {
       "name": "Img/Items",
@@ -137,6 +137,17 @@
         {"id": "bf63de5c-90b0-40bb-a366-a7aef099abad", "title": "Character-creation", "path": "/home/sauroncode/projects/dnd/Waterdeep/notes/Others/Character-creation.md", "x": 329, "y": 141, "w": 520, "h": 428, "has_layout": true, "hidden": false, "always_on_top": false, "dock_id": 0, "use_custom_color": false, "color_r": 0, "color_g": 0, "color_b": 0}
       ],
       "images": []
+    },
+    {
+      "name": "Img/Llocs",
+      "layout_locked": false,
+      "detached_note_windows": false,
+      "dockers_enabled": false,
+      "drawings_visible": true,
+      "grid_visible": false,
+      "notes": [
+      ],
+      "images": ["/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Llocs/BotigaXoblob.png", "/home/sauroncode/projects/dnd/Waterdeep/notes/Img/Llocs/ProaDelVaixell.png"]
     }
   ]
 }

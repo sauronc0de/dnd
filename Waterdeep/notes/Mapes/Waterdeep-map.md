@@ -1,3 +1,3 @@
 ```ui
-map(waterdeep_map, 900, 900)
+map(waterdeep_map, 750, 750)
 ```

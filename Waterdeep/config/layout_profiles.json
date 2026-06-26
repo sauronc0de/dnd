@@ -31,7 +31,7 @@
         {"note_id": "915df9c0-5d9f-4269-a04b-fd240d19e84d", "x": 380, "y": 220, "w": 520, "h": 140, "hidden": true, "has_layout": true, "dock_id": 0},
         {"note_id": "56507986-85d6-4ab1-8348-ac9f506966be", "x": 288, "y": 154, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
         {"note_id": "b051f36f-3afd-4900-ac2a-983348897e13", "x": 288, "y": 154, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
-        {"note_id": "2d077aef-0c73-4940-bb03-aa0caeff2ebe", "x": 288, "y": 40, "w": 1144, "h": 824, "hidden": false, "has_layout": true, "dock_id": 2},
+        {"note_id": "2d077aef-0c73-4940-bb03-aa0caeff2ebe", "x": 288, "y": 40, "w": 1144, "h": 794, "hidden": false, "has_layout": true, "dock_id": 2},
         {"note_id": "23e50950-a8b5-4919-9489-7e6b2e2a5dac", "x": 288, "y": 40, "w": 1144, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2}
       ]
     }

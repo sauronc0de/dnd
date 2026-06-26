@@ -91,7 +91,7 @@
         "12086": false,
         "1210": false,
         "13276": false,
-        "1376": false,
+        "1376": true,
         "14917": false,
         "15621": false,
         "16236": false,
@@ -123,13 +123,14 @@
     },
     "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/📕 Grimori.md": {
       "headers": {
-        "0": true,
+        "0": false,
         "1049": false,
         "1155": false,
         "1238": false,
         "13": false,
         "2679": false,
         "302": false,
+        "53": false,
         "600": false,
         "708": false,
         "754": false,
@@ -212,6 +213,20 @@
         "2503": false,
         "2838": false,
         "633": false
+      }
+    },
+    "/home/sauroncode/projects/dnd/Waterdeep/notes/Others/👶 Background.md": {
+      "headers": {
+        "0": false,
+        "12086": false,
+        "13276": false,
+        "1376": true,
+        "14917": false,
+        "15621": false,
+        "16236": false,
+        "3768": true,
+        "6337": false,
+        "9743": false
       }
     },
     "/home/sauroncode/workspace/dnd/Waterdeep/notes/General/Background.md": {

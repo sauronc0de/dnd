@@ -115,4 +115,11 @@ A més a més en Xoblob em regala una mini caixa de música destertalada que em 
 Resona dins meu, noto les vibracions que ja noto en la ciutat.
 Per mostrar el meu agreïment amb en Xoblob li regalo el percing que porto que té una pedra lila. Ser que el lila li encanta així que li faig aquest favor per remarcar la importància de la nostre amistad.
 Així que molt agreït en Xoblob s'acomiada de nosaltres.
+En Josefí i en Orió diuen que en Flont anava amb en Ryanair Neverenger i qui els volien pagar en Zentharim.
+En Bjürgen ens diu que les rates diuen que ultimament noten prescències per les clavegueres que no són humanes...
+Diuen que hi ha una gran fortuna amagada a la família dels Neverenguer. I segurement per això van perseguir a Ryanair. Li diuen l'enigma de Neverenguer.
+El rumor que corre és que la fortuna aquesta és de **500Kg**.
+Buscant trobem el unicorn al terra. Buscant més trobem una perla,... és el compte de Hansel i Gretel??
+
+FI!
 

@@ -2,4 +2,6 @@
 - [ ] Update Kanban bug. By any modification the kanban breaks. Also allow manage the width.
 - [ ] Ampliar l'amplada de la finestra del inventory popup, mouseover cell.
 - [ ] El text del background em queda tallat.
-- [ ] 
+- [ ] Fent Ctrl+Z s'ha penjat el programa.
+- [ ] Fer alguna cosa per poder "guardar" les cel·les de inventari. 
+- [ ] La imatge de la cel·la del inventari sobresurt una mica les puntes.

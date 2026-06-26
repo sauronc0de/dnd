@@ -20,9 +20,10 @@ hp_color(
     hp_pct < 0.90 ? "#800808" :
                     "#700808"
 )
-hp_label("[color=#CC3333]HP[/color] "+ hp_current + " + " + hp_temp + " / " + hp_max)
+hp_label("[color=#CC3333]HP[/color] ("+ hp_current + " + " + hp_temp + ") / " + hp_max)
 if(hp_total > 0){
-  bar(hp_total, hp_label, 600, 0, hp_max, hp_color) text("🛡 AC: [color=#FFD700]" + armor_class + "[/color]")
+  bar(hp_total, hp_label, 550, 0, hp_max, hp_color) text("🛡 AC: [color=#FFD700]" + armor_class + "[/color]") text("     🪄 Bonus: ")text("[color=#00D1FF]" + spell_attack_bonus + "[/color]") text("DC:") text("[color=#7E00FF]" + spell_save_dc + "[/color]") 
+  text("📦 [color=#00FF1F]Spell slots:[/color]") text(spell_slot_remaining)
 }
 
 if(hp_total < 1){

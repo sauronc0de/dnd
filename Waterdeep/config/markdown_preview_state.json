@@ -94,7 +94,7 @@
         "1376": true,
         "14917": false,
         "15621": false,
-        "16236": false,
+        "16236": true,
         "182": false,
         "311": false,
         "3768": false,
@@ -108,7 +108,7 @@
     },
     "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/💭 Personality.md": {
       "headers": {
-        "1135": false,
+        "1135": true,
         "1392": false,
         "16": false,
         "1617": false,
@@ -118,7 +118,7 @@
         "2342": true,
         "2503": false,
         "2838": false,
-        "633": false
+        "633": true
       }
     },
     "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/📕 Grimori.md": {
@@ -155,7 +155,9 @@
         "13": false,
         "2028": false,
         "4700": false,
-        "6174": false
+        "4703": false,
+        "6174": true,
+        "6177": true
       }
     },
     "/home/sauroncode/projects/dnd/Waterdeep/notes/Me/Background.md": {

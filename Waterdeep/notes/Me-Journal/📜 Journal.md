@@ -121,5 +121,30 @@ Diuen que hi ha una gran fortuna amagada a la família dels Neverenguer. I segur
 El rumor que corre és que la fortuna aquesta és de **500Kg**.
 Buscant trobem el unicorn al terra. Buscant més trobem una perla,... és el compte de Hansel i Gretel??
 
-FI!
+# Sessió 2
+
+Entrem a les oficines dels Zentharim i veim un grup de Kenkus buscant per dins a les fosques.
+Acabem amb uns Kenkus i el últim viu ens diu Xanathar us envia records.
+
+
+Ens trobem un pel roig que es diu Rynir Neverember.
+Mentre busquem pel megatzem entre la guardia de la ciutat.
+Hyustus Stagged també es presenta, capità del districte del port.
+En Hyustus ens deixa clar que res de sang als carrers. 
+Comencem a tirar cap el clavagaram.
+Tenim en Crimi com a nou membre del grup.
+En Bjürgen i conversa perquè ens acompanyi a les estàncies per trobar en Flunt.
+Ens explica que el té en Grunxar, un ork.
+Finalment trobem en Flunt més cardat que una cosa molt trencada.
+L'Ork diu: No deixaré que us fiqueu pel mig del Gran Joc.
+Ens tanquen a la presor al sortir de les clevegueres.
+Tinc un somni d'una ciutat sota una cova amb estalactites. Veig una fortalesa i un monstre amb 10 tentacles enorma que es troba en un dels balcons de la fortalesa.
+En un tantacle té la peixera d'un peix que sembla que l'agafa com si tingues molt valor.
+Té en un altre un esfera petita que brilla i ell somriu.
+Quan em desperto trobo que he estat escrivint a la llibreta i que hi ha un simbol dibuixat.
+
+Penso que he estat a punt de morir i que el meu destí podria arribar en qualsevol moment, sense avisar. Em fa pensar molt aquesta situació.
+Per altre banda també per primera vegada dubto dels que concidarava els meus amics. 
+En Gaudenci i Josefí han demostrat que a la mínima deixerien els seus amics a morir. 
+Això m'ha fet pensar, en canvi en Bjürgen ha demostrat valentia igual que el mort en combat Orió que mai oblidaré.
 

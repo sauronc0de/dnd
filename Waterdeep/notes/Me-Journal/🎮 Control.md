@@ -1,7 +1,7 @@
 ```ui
 // Manager controls
-manage_value(5)
-manage_action("cast")
+manage_value(1)
+manage_action("none")
 slot_level(1)
 
 text("[color=#AAAAAA]HP[/color] ") int(manage_value, "", 80, true) button("Damage", 60, manage_action="damage") button("Heal", 45, manage_action="heal") button("Temp", 45, manage_action="temp_heal")

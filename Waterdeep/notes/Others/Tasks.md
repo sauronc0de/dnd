@@ -1,7 +1,7 @@
-- [ ] Falta revisar totes les feats, cantrips i spells que puc afegir per Raça, classe,...
-- [ ] Update Kanban bug. By any modification the kanban breaks. Also allow manage the width.
-- [ ] Ampliar l'amplada de la finestra del inventory popup, mouseover cell.
-- [ ] El text del background em queda tallat.
-- [ ] Fent Ctrl+Z s'ha penjat el programa.
-- [ ] Fer alguna cosa per poder "guardar" les cel·les de inventari. 
+- [x] Falta revisar totes les feats, cantrips i spells que puc afegir per Raça, classe,...
+- [x] Update Kanban bug. By any modification the kanban breaks. Also allow manage the width.
+- [x] Ampliar l'amplada de la finestra del inventory popup, mouseover cell.
+- [x] El text del background em queda tallat.
+- [x] Fent Ctrl+Z s'ha penjat el programa.
+- [x] Fer alguna cosa per poder "guardar" les cel·les de inventari. 
 - [ ] La imatge de la cel·la del inventari sobresurt una mica les puntes.

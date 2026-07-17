@@ -151,15 +151,16 @@
     },
     "/home/sauroncode/projects/dnd/Waterdeep/notes/Me-Journal/📜 Journal.md": {
       "headers": {
-        "0": true,
-        "10187": true,
+        "0": false,
+        "10187": false,
         "10192": false,
+        "11828": true,
         "13": false,
         "2028": false,
         "4700": false,
         "4703": false,
         "6174": true,
-        "6177": true
+        "6177": false
       }
     },
     "/home/sauroncode/projects/dnd/Waterdeep/notes/Me/Background.md": {

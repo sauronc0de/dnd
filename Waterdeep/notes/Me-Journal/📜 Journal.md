@@ -1,4 +1,4 @@
-# Session 0
+# Sessió 0
 
 ## Molts anys enrere
 
@@ -73,7 +73,7 @@ En una visita a la botiga, en Nim es va quedar amb un collaret nu trobat entre b
 Durant el viatge cap a Waterdeep, en Nim va coincidir amb dos gnoms: Bjurgen i Dalakarr. Amb Bjurgen hi va establir una bona amistat, i els seus camins han continuat sent propers dins la ciutat. Dalakarr, més paranoic i amb algun secret a amagar, va desaparèixer tan bon punt van arribar a Waterdeep.
 
 
-# Session 1
+# Sessió 1
 
 Estem al mes de Chest el dia 5.
 Conec a 
@@ -148,3 +148,24 @@ Per altre banda també per primera vegada dubto dels que concidarava els meus am
 En Gaudenci i Josefí han demostrat que a la mínima deixerien els seus amics a morir. 
 Això m'ha fet pensar, en canvi en Bjürgen ha demostrat valentia igual que el mort en combat Orió que mai oblidaré.
 
+# Sessió 3
+
+Som dia 6 de Chest i ens trobem a la pressó.
+Ens diuen que portem Flunt al temple de les Agulles del matí. Allà ens curarant les ferides.
+Xanathar és el titol del líder d'aquesta banda. Té una jerarquia on hi ha subgrups de bandits.
+Vigileu amb Urstur Froxil. Algú que està seccejant l'estructura dels Xanathar sent dels Zentharim, diu que anem en compte.
+Aneu en compte pel districte del port. Possiblament gent dels Zanathar ens voldrà matar.
+S'acosta la fey day que és una festivitat i la població ja comença a preperar-se. Festivitat portuaria que fan activitats per la zona del port. 
+És com la crida però només hi ha els bons, els verds.
+Finalment al portal Bostecante parlem amb en Bolo per cobrar la recompensa.
+En Bolo diu que en dona una mansió a compte del deute. 
+Coneixem uns xiquets que juguen a l'entrada de la mensió.
+
+Tenim una taverna i un nou nom: La Nova Taverna del Crani del Troll.
+
+Als diaris parlen de la festivitat, del troll a la taverna Bostezante i de uns aventures que van salvar Neverenguer.
+Ens trobema amb en Bolo i també coincidim amb Zalaster l'escritpor del diari que ens vol veure per la taverna. 
+Apereix la Layal Silverhand, la desenmascarada, va escoltada i acompanyada dels seus consellers (Bashra Sahr bara negre de Waterdeep i Mirth un gordo conseller).
+Amb en Bolo fem el canvi de nom de la mansió. Oficialment la mansió del Crani del Troll és nostre.
+
+ 

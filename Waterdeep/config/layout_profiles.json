@@ -21,18 +21,19 @@
         {"note_id": "d694ecb8-e294-4b1f-94cb-f055772f664a", "x": 288, "y": 154, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
         {"note_id": "d8ff7cbf-3b4e-4c3e-8cb4-8a8f1cd73675", "x": 288, "y": 40, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 1},
         {"note_id": "54771fa7-b82a-4017-b892-b2d5826370b5", "x": 1156, "y": 40, "w": 276, "h": 692, "hidden": false, "has_layout": true, "dock_id": 3},
+        {"note_id": "fcc82573-092c-4e5d-bac1-2117cbd7cc3a", "x": 564, "y": 216, "w": 496, "h": 518, "hidden": true, "has_layout": true, "dock_id": 0},
         {"note_id": "73bdc2c8-4864-4f18-a900-173b861c2c91", "x": 288, "y": 40, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 1},
-        {"note_id": "dbb19305-c204-4e6e-a4b7-3840ed76287e", "x": 288, "y": 154, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
+        {"note_id": "dbb19305-c204-4e6e-a4b7-3840ed76287e", "x": 288, "y": 154, "w": 866, "h": 700, "hidden": false, "has_layout": true, "dock_id": 2},
         {"note_id": "6a4e2131-d13d-4c4c-8aac-b310227d2af9", "x": 1156, "y": 40, "w": 276, "h": 140, "hidden": false, "has_layout": true, "dock_id": 3},
-        {"note_id": "3e87dbfb-8556-477f-9cb3-d0b4372c803f", "x": 288, "y": 154, "w": 866, "h": 824, "hidden": false, "has_layout": true, "dock_id": 2},
+        {"note_id": "3e87dbfb-8556-477f-9cb3-d0b4372c803f", "x": 288, "y": 154, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
         {"note_id": "01064ccc-4656-44b2-98eb-351b003842dd", "x": 1156, "y": 742, "w": 276, "h": 140, "hidden": false, "has_layout": true, "dock_id": 4},
         {"note_id": "0678e48e-dbc7-4cdf-a337-d4397b2e33e5", "x": 288, "y": 154, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
         {"note_id": "b051f36f-3afd-4900-ac2a-983348897e13", "x": 288, "y": 154, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
         {"note_id": "56507986-85d6-4ab1-8348-ac9f506966be", "x": 288, "y": 154, "w": 866, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
         {"note_id": "24443e64-4401-4f7f-86bd-ec30fa6a64e1", "x": 1156, "y": 742, "w": 276, "h": 140, "hidden": false, "has_layout": true, "dock_id": 4},
-        {"note_id": "915df9c0-5d9f-4269-a04b-fd240d19e84d", "x": 877, "y": 115, "w": 520, "h": 140, "hidden": true, "has_layout": true, "dock_id": 0},
-        {"note_id": "2d077aef-0c73-4940-bb03-aa0caeff2ebe", "x": 288, "y": 40, "w": 1144, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2},
-        {"note_id": "23e50950-a8b5-4919-9489-7e6b2e2a5dac", "x": 288, "y": 40, "w": 1144, "h": 794, "hidden": false, "has_layout": true, "dock_id": 2}
+        {"note_id": "915df9c0-5d9f-4269-a04b-fd240d19e84d", "x": 551, "y": 264, "w": 520, "h": 144, "hidden": true, "has_layout": true, "dock_id": 0},
+        {"note_id": "2d077aef-0c73-4940-bb03-aa0caeff2ebe", "x": 288, "y": 40, "w": 1144, "h": 794, "hidden": false, "has_layout": true, "dock_id": 2},
+        {"note_id": "23e50950-a8b5-4919-9489-7e6b2e2a5dac", "x": 288, "y": 40, "w": 1144, "h": 140, "hidden": false, "has_layout": true, "dock_id": 2}
       ]
     }
   ]

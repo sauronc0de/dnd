@@ -5,3 +5,7 @@
 - [x] Fent Ctrl+Z s'ha penjat el programa.
 - [x] Fer alguna cosa per poder "guardar" les cel·les de inventari. 
 - [ ] La imatge de la cel·la del inventari sobresurt una mica les puntes.
+- [ ] Mermeid wrong word not allowed.
+- [ ] Multiples linies en el kanban description
+- [ ] Que el panell esquerra amb una carpeta plena de imatges no s'aturi el programa.
+- [ ] 

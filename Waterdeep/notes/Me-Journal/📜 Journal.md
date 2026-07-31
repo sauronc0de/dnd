@@ -168,4 +168,91 @@ Ens trobema amb en Bolo i també coincidim amb Zalaster l'escritpor del diari qu
 Apereix la Layal Silverhand, la desenmascarada, va escoltada i acompanyada dels seus consellers (Bashra Sahr bara negre de Waterdeep i Mirth un gordo conseller).
 Amb en Bolo fem el canvi de nom de la mansió. Oficialment la mansió del Crani del Troll és nostre.
 
- 
+ # Sessió 4
+
+Estem fent birra amb Neverenguer al Portal Boztezante.
+Després de parlar molt ens diu que creu que tenen pistes tant Zanathar com Zentharin del tresor del seu pare. 
+Per això tot l'enrenou que hi ha a la ciutat.
+Parlar molt del collaret de la seva mare, que d'havia portar a dins, perquè el van trencar?
+En Bjurgen ens revela que ha treballat amb els Zhentarim i que té més informció que nosaltres.
+Ens explica que van portar un carruatge de Neverenguer de Waterdeep a Neverwinter (Una altra ciutat molt important)
+Diu que en el carro hi havia alguna cosa molt petita. No hi havia un gran carruatge amb molts recursos.
+Es va trobar en una situació molt complicada i els Zhentarin li van salvar la vida.
+Pel que diu algú va acabar robant lo del carruatge.
+Bjurgen pregunta per la criatura (mindflayer) que ens vam trobar a la clavaguera en l0Orió.
+Diu que va treballar amb els del Guantalet com a nuvell i en una missió va trobar aquesta criatura. 
+Van matar els seus companys i sacuestrar a algun d'ells i el van fer fora del Guantalet.
+Estem buscant un nom pel grup però no és gaire fàcil.
+
+Finalment apereix  el comptable (Jalastar Silvermay) aquell que ens vam trobar per aquesta mateixa taverna.
+Ens diu que és un buscador de aventurers i que el que vol és ajudar-los per fer el bé per la ciutat.
+ Treballa pel govern de la ciutat, treballar per l'aliança dels Lords.
+
+I té una tasca per nosaltres. Escortar els escombriaires duant una decana.
+
+En Bjurgen vol parlar amb la Yagra que ens acaba portant amb els seus i finalment davant del elf Daril que ens tractacta de manera molt servicial i resulta que sap tots els nostres noms.
+Ens té ben controlats.
+Diu que si algú vol formar part dels Doomriders. Proposant-li primer a Bjurgen.
+Un altre grup de Zhentarins que ha arribat fa uns mesos s'ha instal·lat a la ciutat. Diu que no tenen les mateixes maneres de treballar.
+Ells són més sutils, elegants, passar decepercebuts. En canvi aquests nous fan massa soroll.
+Es paga molt bé en aquesta ciutat per derrera. 
+Però la sang, la sang no agrada a ningú i això porta molts problemes.
+Ens ofereix una missió.
+
+Diu que no sap gaire res del undermountain i que qui ho domina és el de Xanazhar.
+Diu que amb el nostre poder no ens l'hauriem de jugar. 
+
+Ell insisteix que tot és un joc i ell sap on jugar per no fer massa soroll i lucrar-se de la situació.
+Coneix a la criatura (Nihilor) el mindflayer. Diu que millor que evitem trobar-lo.
+És algú poderós dels Xanathar.
+
+Info: 3 ellfs mariners Eldelbar, Eldlering i Romario. No són families nobles ni conegudes.
+En Gaudenci es deixa la cartera.
+
+Tornem a la nostra taverna a dormir. Creo un artefacte detector de moviment per si algú entra a l'habitació que soni una alarma minor illusion.
+
+*En algun moment no ser quant he anat a buscar el meu traje al sastre i ja torno anar com un mag respectable que controla la màgia.
+
+Resulta que en Josefí s'ha despertat amb un ganivet clevat al costat i l'Orió amb una pintada "Fora de aquí"
+
+[color=#FF9933]Tenim inspiració heroica[/color] (Aventatge a una tirada)
+
+---
+Ens llevem i anem cap el marcat a protegir els escombriaires.
+Ens dividim en dos grups per poder pretegir més treballadors.
+Parlen els escombriaires de que hi ha un carrer "blau" que és molt perillós. Que van passar per allà fa poc i que diuen que hi ha alguna cosa màgica i és perillós. Obviament no van entrar.
+Li demano a Orió com va viure la mort el reneixement. Però diu que no recorda res i veig dubtes a la seva mirada.
+Li demano un item per començar a completar el meu collaret però diu que no té res que em pugui donar.
+
+Compro mapa
+
+Vaig a veure en Xoblob. Diu que clarament tinc un vincle amb e undermountain. Pugen objectes de undermountaint que són com l'objecte que em va donar. 
+Aventures, mercenaris i include el gremi dels Xhanatar puja artefactes del Undermountain com el que em va donar. 
+Si m'ineteressa seguir a invesitgant busca'ls però sobretot no baixis, no estàs preperat.
+
+Anem cap a la opera i al veure que tothom va tant bé vestit em faig un disguise self per anar vestit com un autèntic noble. (En faig 2 perquè l'obra dura 2h)
+Tot són famílies nobles o de grans mercaders. No hi ha gent casual.
+S'acosta una família noble cap a nosaltres amb 4 guardaespatlles i es dirigeixen a en Gaudenci.
+Senyor Gaudenci, quan de temps sense veurels.
+Sembla que es coneixen.
+Es xupen els culs durant una estona, jo desconecto mirant a veure qui més veig.
+Sorprenentment en Bjurgen també xupa culs. No diu el seu nom però, està clar que està jugant les seves cartes.
+En porten fins una zona nostra privada, (Un palco). Hi ha en  Mhir que ens esperava.
+Es mengen els culs amb en Gaudenci.
+Ens pregunta sobra la taverna que podriem obrir.
+Dic que tenim molta feina a fer allà. Diu que ens enviarà una persona influent amb els gremis que ens ajudarà el que vuguem fer en aquella mansió.
+Pressupostos, idees, ... Demà matí vindrà en Gustav, té molts contactes i ens pot ajudar amb tot.
+Si necessitem financiació, un prestec coneix una família que ens podria ajudar. Ens farien un bon preu (familia Margasten), ajuden a gent que vol fer negocis a la ciutat.
+Diu també que Neverember l'ha parlat molt bé de nosaltres.
+Li fa una proposta directament en en Gaudenci. Ell i en Neverenguer formen part de la facció dels Arpisites. Es mouen en les ombres per tal d'evitar
+que certes forces, certs mals i certes trames no arribin mai a veure la llum. Malauradament aquesta ciutat és molt plural i hi ha elements que s'escapen del seu control, com els del gremi del Xanathar.
+Alguna en porten de cap perquè la seva activitat s'ha accentuat. No només ells si no qualsevol amanaça que sorgeixi del submon.
+Li agredaria comptar amb nosaltres perque els ajudessim amb això.
+I li diu directament en en Gaudenci que li agredaria que formes part dels seus.
+Arpistes: Facció bona que vol acabar amb el map però sense fer soroll, de manera discreta i evitant que arribi als ciutadans.
+Penso que em podrien donar informació sobre el undermountain.
+Una excolaboradora(Uzasolizef) nostra que té una petita botiga de llibres al districta mercantil al carrer Sorn. 
+Ens ha avisat que un monstre està atrepat dins la seva botiga. Petint pels seus llibres, allà i guarda coneixement.
+Ens dóna una caixa que dins hi ha 4 lamines de paper. Aquest paper són ocells missatges. Aquí escriviu un missatge, la persona que voleu que arribi i a la que fiqueu el punt final es transforma amb un ocell de paper i vola cap a la persona. 25 paraules només.
+Tinc la caixa jo.
+Sortim de la opera i ens dirigim cap a la botiga.

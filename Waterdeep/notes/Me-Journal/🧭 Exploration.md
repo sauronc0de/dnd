@@ -26,6 +26,9 @@ kanban
       El que saben és que les 3 victimes anaven allà.
 
     a5[Obrir una taverna]
+    a6[Carrer maritim (Blau)]: Dieun que hi ha alguna cosa màgica estranya i blava al carrer marítim, al nort de la ciutat.
+      La zona alta.
+
   a[⚔ In Progress]
     c1[Necklace]: Fill the necklace with charms related to my 7 lifes
     a1[Undermountain]: Necessitem diners o més poder per anar al undermountain.
@@ -43,6 +46,11 @@ kanban
 
     a1[Escriptor]: Vol veurens a la taverna.
       Treballa pels nobles i ens dóna feines.
+
+    a2[Salvar llibreria]: Mhir ens demana que salvem una anciana que té una llibreria i l'ha atac un monstre.
+      Salvem el seu gat i ens dóna:
+      pergamins x4
+      miniventilador
 
   a[❌ Failed]
 ```

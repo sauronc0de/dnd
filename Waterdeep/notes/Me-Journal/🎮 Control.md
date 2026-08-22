@@ -1,6 +1,6 @@
 ```ui
 // Manager controls
-manage_value(1)
+manage_value(5)
 manage_action("none")
 slot_level(1)
 

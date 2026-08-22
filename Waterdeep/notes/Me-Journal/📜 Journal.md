@@ -254,5 +254,112 @@ Penso que em podrien donar informació sobre el undermountain.
 Una excolaboradora(Uzasolizef) nostra que té una petita botiga de llibres al districta mercantil al carrer Sorn. 
 Ens ha avisat que un monstre està atrepat dins la seva botiga. Petint pels seus llibres, allà i guarda coneixement.
 Ens dóna una caixa que dins hi ha 4 lamines de paper. Aquest paper són ocells missatges. Aquí escriviu un missatge, la persona que voleu que arribi i a la que fiqueu el punt final es transforma amb un ocell de paper i vola cap a la persona. 25 paraules només.
-Tinc la caixa jo.
+[color=#FF9500]Tinc la caixa jo.[/color]
 Sortim de la opera i ens dirigim cap a la botiga.
+
+ # Sessió 5
+
+Marxem cap a la botiga. Al sortir topem amb els cambrers de l'opera i cridem uha mica la atenció.
+Una puta mal follada ens critica dient que està clar que no som de la seva esfera, fent referència a la gent adinarada de la ciutat.
+Pugem al carruatge i ens treiem tots els excessos.
+Coneixem a una senyora anciana que està molt alterada.
+Salveu a la Felipa! La meva gata.
+
+Entrem, en Josefí es transforma amb una aranya gegant i monstruosa i Orió marxa espentat.
+Aconseguim acabar amb la criatura i salvar la gata.
+Una tasca més completada pels Artells, tot sota control.
+La senyora em dóna el item que m'ha cridat l'atenció, m'ha recordat el color, el so,...
+[color=#FF9933]New item: Un miniventilador.[/color]
+També agafo un pergamí que ens dóna la ancianca.
+[color=#FF9933]New scroll: Raig abrassador[/color]
+Li dóno a en Bjurgen a canvi del llibre que em va "deixar".
+[color=#FF3333]Perdre pergamí.[/color]
+
+Anem fins la taverna dels elfs però resulta que està tancat.
+Preguntem a uns demecrats mariners però no en treiem aigua dolça.
+Un cara trencada ens observa al final del carrer.
+Sembla que ens amanaça en cara trencada dient que com ens atrebim a anar per aquells carrers i de nit. 
+Però en Gaudenci parla amb ell i resulta que tot ha se't un mal entès.
+Ens deixen passar i tornem cap a casa.
+
+Un cop a la taverna en Gaudenci proposa una Huija.
+- Qui ets? Lef
+- Què vols? Hora de tancar
+
+
+Parlem de les reformes:
+- Fuster per fer mobles per la taverna, Taules, Cadires, Barra, ...
+---
+
+Tornem a treballar defensant els escombiaires.
+Sento veus que diuen: Alguhi na cosa estranya pasa a Underclif. Diuen que hi ha pagesos que els exigeixen diners, els hi fan xentatges, els demanen pagaments de fa molts temps i sembla que els estan putejant fort.
+Un que s'hi va negar li van cremar el seu establiment.
+
+Tornem a la taverna.
+Els nens ens diuen que han sentit rumors de que els Neverenguer robaben i malbersaven diners de la gent. Els feien pagar quantiats abusives.
+En Mhir era un aventurer que va sortir del undermountain amb molts tresors juntament amb en Durnan. En Mhir va seguir el camí de la politica.
+
+Arriba en Gustav i comença a revisar tota la taverna.
+
+Proposta Gustav:
+- Habitacions FULL: 600gn (30+5) 2 treballadors
+- Taverna low cost: 400g (50+10) 3 treballadors
+- Taverna OK + Vip: 800g (100+20) 5 treballadors
+- Taverna top: 2050g (400+50) Te cagas
+
+Arriba en Mhir amb una senyora noble i atrectiva.
+La senyora Alexandra Malgaster, ens farà una financiació.
+La família Malgaster busca el petit enprenedor que vol aportar a Waterdeep. Són molt de Waterdeep, i rics del cagà.
+
+# Brief propera sessió
+
+## Faccions: posició d'en Nim
+
+Els **Arpistes** semblen la facció que encaixa millor amb en Nim ara mateix: actuen en secret, volen protegir la ciutat i poden tenir informació sobre Xanathar, Nihilor, Undermountain i objectes màgics estranys.
+
+No m'hi hauria de comprometre cegament encara. Millor ajudar-los com a col·laborador i veure fins a quin punt són honestos.
+
+Frase possible per en Mhir:
+> Puc ajudar a protegir la ciutat, sobretot contra Xanathar i les coses que venen de sota. Però si això toca Undermountain, necessito que sigueu clars amb mi.
+
+Preguntes importants:
+- Què saben els Arpistes sobre **Nihilor**?
+- Què saben sobre **Xanathar** i els artefactes d'**Undermountain**?
+- Han sentit parlar d'una màgia blava, ressò de pedra o objectes com el miniventilador/la caixa de música?
+- Ens poden ajudar a investigar el **carrer blau**?
+- Què implica exactament formar part dels Arpistes?
+
+## Altres faccions
+
+- **Xanathar**: enemics o font d'informació molt perillosa. Evitar contacte directe.
+- **Zhentarim/Daril**: útils com a informadors, però no donar-los lleialtat.
+- **Aliança dels Lords/Jalester**: bons per feines legals i protecció política, però són govern i burocràcia.
+- **Malgaster**: només negocis. Llegir bé qualsevol préstec abans d'acceptar.
+
+Prioritat d'en Nim: **Arpistes com a suport principal, Xoblob com a font personal sobre Undermountain, Zhentarim només com a contacte arriscat.**
+
+## Taverna i torre d'en Nim
+
+La torre de mag ja cobreix les necessitats personals d'en Nim:
+- lloc privat per practicar màgia
+- imatge respectable de Magister
+- espai per guardar objectes estranys
+- estudi/laboratori personal
+- primer lloc on pot intentar deixar de fugir
+
+Per tant, no cal convertir tota la taverna en el projecte personal d'en Nim. La taverna ha de servir al grup i al negoci.
+
+Coses mínimes que sí que voldria:
+- Un cofre o armari tancat a la torre per guardar el grimori, collaret, miniventilador, caixa de música i notes.
+- Un títol públic discret: **Magister Septimus el Blau, assessor arcà de la casa**.
+- Una petita sala/consultori arcà connectada amb la torre, per rebre clients sense fer-los entrar a l'espai privat d'en Nim.
+- Que el personal apunti rumors sobre **Undermountain**, **Xanathar**, màgia blava, artefactes estranys i el tresor de Neverember.
+- Un objecte decoratiu màgic o aparentment màgic a baix, però els objectes importants i perillosos sempre a dalt.
+
+Prioritat amb la taverna: que pugui respirar sola, pagar deutes i escoltar la ciutat. No cal luxe si ens ofega amb deute.
+
+Frase possible:
+> No vull una taverna perfecta. Vull una taverna que pugui respirar sola, pagar els seus deutes i escoltar la ciutat.
+
+Sobre reformes: millor una opció assumible. **Low cost** si anem justos; **OK + VIP** només si el préstec és segur i ens interessa atraure rumors de gent rica/influent. Evitar la versió top de moment.
+

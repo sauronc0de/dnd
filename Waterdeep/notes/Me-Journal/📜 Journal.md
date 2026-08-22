@@ -363,3 +363,88 @@ Frase possible:
 
 Sobre reformes: millor una opció assumible. **Low cost** si anem justos; **OK + VIP** només si el préstec és segur i ens interessa atraure rumors de gent rica/influent. Evitar la versió top de moment.
 
+ # Sessió 6
+
+- Tenim un deute de 1540 dracs. Ha començar a pagar quan tinguem la taverna oberta.
+- Dia 9 de chest
+
+Se'ns presenta un tartamut que es diu Richtal el Pasapagines. Porto la botiga de màgia d'aquí el costat.
+Sóc del ordre dels protectors de màgia. És com un gremi que regula la màgia a dins la ciutat. Tots els mags ens hi hem de registrar.
+Ell forma part de l'odre de vigilants i és el responsable del barri.
+La cap directe d'aquest ordre és la Bara Negre.
+Li demanem ajuda pel fantasme i dius que preguntarà al seu ordre a veure si ens poden ajudar amb alguna cosa.
+Li demano sobre munta un consultori arca i diu que haig de anar a la bara negre, a l'edifici"tipo ajuntament" i que m'haig de documentari allà.
+Ens dóna un obsequi, Compendi de Bolo de Waterdeep.
+
+Fem wuiha (Parlar amb un got) amb el fantasma i després de netejar un got ens diu que és hora d'obrir. Entenem que vol recuperar la taverna.
+
+
+Ja és de nit i volem investigar el tema dels elfs així que hi posem fil a l'agulla.
+Ens disfrasem tots per canviar d'aparença i contractem un carruatge privat que ens fara el seguiment de tota la nita.
+Jo faig un disguse self i vaig de monjo elf. Ho faig dins del carruatge.
+
+Baixem al carrer de la taverna dels elfs i caminem cap el local.
+Amb en Gaudenci ens fem passar per monjos i anem en una taula. Demanem uns queviures i un vi calent. 
+Els altres dos van cap a la barra.
+Escoltem les taules:
+- Hi ha com una fira amb barcos. Com un circ però dins de barcos. Fan espectacles, animals, ...
+- Assassinats, es diu que els 3 que van matar la nit que van morir estaven en aquesta taverna. Són 3 elf que semblen espantats.
+- Gasto inspiració heroica.
+
+Mentre hem faig una mica el borratxo i creo un petit artefacte que fa sonar 3 notes quan s'activa com si fos un presitidigitation.
+Pago el menjar i el beure amb 2 de plata.
+Bjurguen diu que el taverner li ha explicat aixó: Com a mínim un d'ells va anar sol al moll a tocar música. Al descobert al mig de la calitge i feia soroll. 
+
+Comencem l'actuació, jo faig d'esquer per tal de que m'ataquin. Finalment apereix el assassí de elfs i quan em posa el braç a l'ombro se'n adona que estic fent un desguise self i comença el combat.
+Rebo un atac amb una simitarra que em deixa molt ferit. Li faig Burning hands i més tard un scorching ray que el deixa molt ferit. Amb això gasto tots els spells
+Després de ferir-li veiem que se'ns mostra el seu rostre, és un Drow.
+Sembla que en Gaudenci el coneix i el deixa molt mal ferit. En Gaudenci està en xoc.
+Finalment amb un últim raig de foc el faig caure. 
+En Gaudenci està aterrat. Jo li trec les botes que les detecto màgiques.
+
+Al final tirem el Drow des del barco lligat amb cordes a un ferro trobat el moll. 
+En Gaudenci diu que Llos (Deesa dels drow) no vegi això.
+I ens desfem del cadaver en aigues profundes.
+Tornem amb la barca i pugem al carruatge.
+Li demano en Gaudenci que ens expliqui que sap:
+No ser si heu sentit mai a parlar dels elfs foscos (Drow) però és la agrupació criminal més temible de Waterdeep.
+No digueu mai a ningu res del que heu vist avui i intenteu que ningú ens pugui reconeixer.
+Són  principalment mercenaris i es diuen Bregand'aerthe liderada per el temible elf fosc llegendari Jerlaxle.
+
+Estudio les botes: Botes elfiques que van bé per moure't amb sigil. Aventatge amb sigil. Les guardo al cofre.
+Fem un descans curt i anem a treballar a protegir els escombriaires. Avui ja serà el 3r dia.
+
+Durant la nostra tranquila tasca s'escapa un carruatge en la baixa d'un carrer i aconseguim frenar-lo trencant una roda per tal de desviar la trajactoria i fer que xoqui contra la paret.
+Sento dues persones que parlen pel carrer amb bosses de menjar que comenten: Ostres corre el rumor que els veïns que viuen prop dels pous d'aigua de la ciutat, a vegades al vespre, quan no hi ha soroll senten un soroll estrany del pou.Com un bronzit. Els arcans diuen que és normal, que són current d'aigua però els gossos no paren de borda quan senten aquest sorollo. Com si hi hagés alguna cosa misteriosa.
+
+Orió ens diu: M'ha contactat la Bara negre(Vaixra Safahr) i diu que acudim a ella. Que anem a la seva torre, la torre negre del castell.
+Dinem quan acabem la jornada i tornem a casa.
+
+Faig servir una làmina per tal de contactar amb Mhir: 
+>  Vull ajudar a protegir Faerûn i la seva gent. Però necessito respostes: Undermountain i el meu lligam amb ell. Nihilor? Què implica ser Arpista?
+
+Ens reunim tots i anem cap a la Torre Negre.
+Estem parlant a la recepció i quan Orió diu el nom de la Bara de cop apereixem a dins d'una sala plena de màgia amb items movent-se sols, flotant, ...
+Ens convida a prendre el te.
+En pregunta per com vam salvar a Neverenguer. Gaudenci explica tota la batalleta.
+Ella sembla que sap l'hora exacte que va passar tot. Ho tenia controlat d'alguna manera? No ho sabem, té moltes pisarres i apunts estranys.
+Ens deixa clar que la ciutat està controlada, que hi ha un ordre i diu que les mans grises són els que ajuden a protegir aquesta ciutat. Als ciutadans i a les lleis. 
+Més enllà hi ha una força d'elit que es diu la força gris. Són l'últim bastió de la ciutat.
+Ens han investigat i li fan la proposa a Orió que formi part de les mans grises. Creuen que és una persona de bé que vol fer el bé per la ciutat i que és un cadidat molt vàlid.
+
+Es posa a analitzar-me a mi i em va fent preguntes. Em poso molt nervios i em comença a canviar els cabells de color, se'm fiquen de punta i començo a parlar rapid i a justificar-m'he.
+Diu que tinc una màgia especial i que estic conectat amb la ciutat. Diu que el que realment hi ha a sota al undermountain és un poder inimaginable. Molt i molt poderós.
+Diu que tots els bares magiques abans que ella han investigat el undermountain fins hi tot contractant a gent però mai han tingut èxit. No saben exactament que és o què hi ha.
+Mai a passat res però no vol dir que mai hagi de passar res. Diu que és perillós de vegades inestable i en el fons un risc. 
+L'altre dia a l'hora aquesta que diu hi va haver un ressó que es va sentir per tota la ciutat. Va ser molt lleu però ells se'n van enterar. Un petit ressó que van detectar.
+Jo dic pertorbació arcana senyora...
+Em torna a repessar completament i al final diu. Bé canviat de tema.
+Haureu vist que hi ha un conflicte greu en aquesta ciutat, alguna cosa es mou en les balances de poder fosques de la ciutat. 
+I jo no aconsegueixo descrobir que hi ha, no tinc masses indicis però hi ha una persona que ha decidit fer una vida hermitana en el mon de Waterdeep, a la muntanya que té un nivell espiritual sense precedents. 
+És un home sumament especial i m'agradaria que el visitesiu anant en compte i esculliu bé les vostres paraules quan us dirigiu a ell però si li puguessiu demanar sobre si sap alguna cosa de la amanaça que viu Waterdeep.
+Té premunicions, i perceb informació que vegades ens pot ajudar. Però sisplau utilitzeu les paraules adeqüades i no ús quedeu més temps del compte.
+
+Torna a canviar de tema i es dirigeix a mi:
+Realment conexiers el teu poder? Crec que el que hauries de fer és deixar-te d'enganyar a tu i els teus companys. Hauries de ser honest amb qui ets i el què ets.
+
+Després a en Gaudenci: Molt arriscat el que vas decidir, però buen tu sabràs el que fas...

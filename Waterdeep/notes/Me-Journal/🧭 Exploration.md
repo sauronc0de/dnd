@@ -18,17 +18,11 @@ kanban
     a3[Acabar amb el "nous" Zhentarim]: Daril
       No ens demana res però deixa clar que no s'hi porta bé.
 
-    a4[Recistes d'elf]: Estan matant elfs per la ciutat. Vol que acabem amb això.
-      25 d'or.
-      A més a més sabem que els troben decapitats.
-      Han matat sobretot al port a mariners i acostumen anar a la taverna Blumermaid.
-      És una taverna que porten elfs així que molts van allà.
-      El que saben és que les 3 victimes anaven allà.
-
     a5[Obrir una taverna]
     a6[Carrer maritim (Blau)]: Dieun que hi ha alguna cosa màgica estranya i blava al carrer marítim, al nort de la ciutat.
       La zona alta.
 
+    a7[Hermia al turó de Waterdeep (Halam)]: Anant en compte amb les paraules i demanar-li sobre la amenaça que està patint la ciutat.
   a[⚔ In Progress]
     c1[Necklace]: Fill the necklace with charms related to my 7 lifes
     a1[Undermountain]: Necessitem diners o més poder per anar al undermountain.
@@ -51,6 +45,15 @@ kanban
       Salvem el seu gat i ens dóna:
       pergamins x4
       miniventilador
+
+    a3[Recistes d'elf]: Estan matant elfs per la ciutat. Vol que acabem amb això.
+      25 d'or.
+      A més a més sabem que els troben decapitats.
+      Han matat sobretot al port a mariners i acostumen anar a la taverna Blumermaid.
+      És una taverna que porten elfs així que molts van allà.
+      El que saben és que les 3 victimes anaven allà.
+      
+      Hem matat el Drow que matava a elf. En Gaudenci està molt espentat així que no direm res de qui era
 
   a[❌ Failed]
 ```

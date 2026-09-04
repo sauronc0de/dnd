@@ -509,10 +509,141 @@ Trobo un mapa de Waterdeep on hi ha marcat la Ciutat dels morts, i dins d'aquest
 Guardo el mapa a la bossa ([color=#FF9933]Added Map[/color])
 I dins d'un calaix trobo les mateies arrels que em vist abans amb els espantaocells.
 A l'útima habitació ens trobem un ritual i un dimoni molt gros amb el que suposem que és la líder que diu que  a la ciutat tenen feina i se'n van.
-[color=#FF0000]Gasto inspiració heroica[/color]. 
+[color=#FF0000]Gasto inspiració heroica[/color]
 
 Un dels dimonis m'ataca i caic inconscient. ([color=#FF0000]+1 Exahust level[/color])
 En Josefí em cura i torno a ser concsient.
 Els companys m'expliquen que troben uns escrits amb les paraules: Neverenguer i Golor. Han fet servir un encanteri per tenir informació sobre alguna cosa.
 Escrit: Fent vigilància del Gremi dels Xhanatars i diuen que han fet un descobriment: Uns matons dels Xanathar tenen una guarida que l'anomena Terase State. 
 Un altre nota amb paper del bo i bona lletra: Assegureu-vos bé que la collita sigui prospera i que ningú s'hi fiqui pel mig. Si necessiteu materials no se que bla bla la collita.
+
+# Preinici sessió 8
+
+## Estat mental d'en Nim
+
+En Nim ja no pot fingir que tot això és casualitat. Undermountain el crida, la ciutat li respon i la seva màgia sembla ressonar amb alguna cosa antiga, profunda i viva. Waterdeep ha deixat de ser només un lloc on sobreviure: ara és un tauler ple de senyals, ecos i peces que l'empenyen cap a una veritat que encara no entén.
+
+El que més el remou és la idea que la seva màgia no només sigui seva. Hi ha moments en què sent que el caos dins seu no és només destrucció o descontrol, sinó també una força que el vigila, l'empeny i fins i tot el protegeix. Això li fa por, però alhora li dona una estranya sensació de companyia. Potser no està sol dins del seu propi poder.
+
+## Pensaments i ferides
+
+Després d'haver estat a punt de morir, en Nim ha entès que no controla tant la situació com voldria. També ha vist que no tothom respon igual quan arriba el perill, i això l'ha fet més prudent amb la confiança. Les paraules de la Bara Negre li continuen ressonant: ha de deixar d'enganyar-se sobre qui és i què és.
+
+En el fons, en Nim està dividit entre dues forces:
+- La por de convertir-se en alguna cosa que no entendrà mai del tot.
+- La fascinació creixent per la veritat d'Undermountain i pel blau profund que el crida.
+
+## Objectius actuals
+
+- Entendre quin és el seu vincle real amb **Undermountain**.
+- Investigar **Nihilor**, **Xanathar**, els objectes estranys i la màgia blava.
+- Aconseguir prou control sobre la seva màgia per deixar de ser una víctima del que li passa.
+- Protegir els seus pocs vincles reals: la taverna, la torre, els companys que encara considera seus i l'espai que comença a construir a Waterdeep.
+
+## Com ha pujat a nivell 3
+
+En Nim no ha crescut estudiant en calma ni perfeccionant fórmules com un mag acadèmic. Ha pujat de nivell perquè ha sobreviscut. Cada combat, cada objecte ressonant, cada somni, cada pressentiment i cada contacte amb el poder d'Undermountain han anat estirant la seva màgia salvatge fins obligar-la a adaptar-se.
+
+Aquesta pujada representa una idea molt concreta: la màgia salvatge d'en Nim no només esclata, també intenta mantenir-lo viu.
+
+Per això aquest nou poder s'ha manifestat en eines de supervivència molt clares:
+- **Shield**: la màgia reacciona per protegir-lo quan el perill el toca massa de prop.
+- **Misty Step**: el caos troba una escletxa i li permet escapar de situacions on quedar-se seria morir.
+- **Detect Thoughts**: la seva sensibilitat a les vibracions de la ciutat i a les intencions dels altres s'afina, com si la màgia volgués avisar-lo abans que l'enganyin o l'ataquin.
+
+En lloc de tornar-se només més destructiu, en Nim s'ha tornat més difícil de caçar. La seva màgia ha entès abans que ell que Waterdeep és una ciutat hostil, plena de màscares, mentides i perills amagats, i per això ha desenvolupat defenses.
+
+## Què significa aquest canvi
+
+Aquest nivell 3 no és només més poder: és un despertar. En Nim comença a acceptar que el caos dins seu no és simplement un defecte o una maledicció. Potser és també una forma d'instint, una força antiga que el vol empènyer cap a alguna cosa... i que, fins que arribi aquell moment, farà el possible per protegir-lo.
+
+# Sessió 8
+
+Ens emportem un hostatge i Gaudenci li fa un interrogatori.
+Són cultistes de Asmadeus. A ella la van reclutar per adorar al Deu Asmadeus. Si va afiliar perquè li agradava un dels nois dels cultistes però aquest es va enrotllar amb un altre.
+La seva superior i l'única boss que conexi es diu Zephia Nallryke. El que feien allà era rituals, adorar Asmodeus, sacrificis i feien servir una màgia negre per despertar els espanta ocells.
+Així evitaven que la població s'acostes allà. Aixó podien cultivar aquestes plantes malignes i després un carruatge les portava cap a la ciutat.
+Explica alguns detalls i deixa evidències que era un grup molt macabra amb temes foscors i molta perversió.
+Diuen que en Golor no és algú, és alguna cosa. Els seus superiors parlaven de trobar la pedra de Golor.
+I explica que van trobar la localització de la cripta que està vinculat amb el nom de Neverenguer però que no en sap més detalls.
+Asmadeus venjarà la meva mort "Paraules violentes i barberes"
+
+Marxem i anem al carruatge, fins a Malconmher.
+Ens ve a rebre en Melanor, passeu passeu, com ha anat?
+
+Gaudenci: Els artells han complert la seva missió. Hem protegit la granja i em destapat una gran trama amb cultistes d'un terrible dimoni que en prou feines goso anomenar.
+Una veu en OFF en agraeix la gesta realitzada i diu que hem demostat moltes coses per la Enclave Esmeralda. I diu que ens donen un regal
+Alguna cosa sen's fica cap a dins.
+[color=#FF9933]Tenim 4 carregues per fer Restablecimiento mayor o menor. (1 Major o 2 menors)[/color].
+
+Arribem a casa, a la taverna, obrim la porta i ens trobem Orió lligat a una cadira i un grup de tios estan increpant-lo. Són humans i van amb la guarnició del Ordre del Guantaelet.
+Inicia el combat!
+
+Al veure la situació on estan intentant fer mal a Orió, una de les ancores d'en Nim, el cor li batega fort, alguna cosa vol sortir de dins.
+Aquest cop en Nim no es limita, respira profundament es relaxa i deixa que el poder sortir per les seves mans projectant un con de foc fent 13 punts de mal de foc a dos dels que estaven fent mal a Orió.
+Just abans de morir el seu líder es posen a parlar amb Orió. No m'entero gaire del que diuen però el líder deixa clar que quan se'n enterin vindran a per nosaltres.
+Diu que en aquesta ciutat no hi ha justícia.
+
+Netegem una mica amb prestidigitation i de cop piquen a la porta.
+Són els guardes, entre en Gaudenci i jo expliquem el que ha passat i a la que veuen els cadavers de seguida ens detenen.
+
+Nim a la presor reflexiona, té molta ràbia per la situació que es troba. Han atacat a un dels seus, una de les ancores que té a la seva vida actual.
+A més a més han entrat a casa seva, reforçant l'idea de que la ciutat és hòstil i no estan segur enlloc. Això li genera certa ràbia i descontrol.
+No sent que hagin fet res immoral ja que ha sigut per defensa pròpia i clarament si no haguéssin aparegut Orió tornaria a està mort. 
+A més han deixat clar que treballen d'amagat pels Xanathar i això comença a fer molta pudor. El guantalet amb els Xanathar?
+
+Comença el judici:
+Ens comencen a fer preguntes del que va passar. 
+Explicacions de tot el que va passar sense embuts.
+
+Han decretat ús de màgia amb accés per part nostre. 
+Violencia accessiva per part nostre i per part dels agressors.
+La mateixa ordre del Guantalet han confirmat que hi havia aquest grup que estaven fent coses sospitoses i entre tots han descobert que afectivament estaven involucrats amb temes illicits.
+Així que tot i que hi ha hagut morts no sen's declararà pena de mort. 
+Sen's declara a pagar 50or per cada cadaver i a fer treballs forçats a les afores de la ciutat.
+
+[color=#FF9933]+1 inspiració heroica[/color].
+
+A últim moment ens diuen que som lliures i sortim del castell. Sembla que al final no hem de fer treballs forçats.
+[color=#FF9933]Level up 3![/color]
+
+Josefí es mostra molt més pròxim i després dels últims esdeveniments demostra més voluntat de està amb el grup i ajudar-nos.
+
+Vaig amb Xoblob i li ensenyo les andromines que tinc noves. Em convida a fer un té lila i diu que aquests items han estat molt temps Undermountain i que s'han empepat de la esscència d'alla.
+Per això les sento d'aquesta manera. I em recomana que les porti aprop meu ja que en moments importants em podries donar l'empenta que necessito.
+Em ragala un mocador lila. Super xulo amb un bordat.
+
+Després me'n vaig el portal Bostezante i busco un aventurer que hagi baixat al Undermountain.
+Parlo amb Meloon wardragon, és molt sobrat i m'explica diferents històries i em respon preguntes.
+De tant en tant es queda una mica aturat i després torna. Sembla que té algun problema.
+Gasto inspiració heroica.
+O hi ha alguna cosa estranya amb aquest o realment és molt poderós perquè no he pogut entrar a la seva ment.
+
+Les preguntes que li faig són:
+
+1. Què hi ha el primer nivell?
+2. Què mata més ràpid? Monstres, trampes, artefactes, coses estranyes?
+3. Hi ha zones amb màgia blava, roques fregant o objectes estranys?
+4. Has vist aquest símbol? Trec el meu Grimori i li ensenyo el dibuix que vaig fer mentre somiava amb la ciutat de Undermountain.
+5. Sense dir que he tingut un somni li pregunto sobre algun detall que vaig veure de la ciutat per veure si diu que l'ha vist o reconeix algun detall.
+6. Li pregunto si hi ha mapes de alguna zona, pagaria per un mapa fiable de Undermountain.
+
+En Josefí diu que està a tope amb nosaltres. Diu que no pot tornar allà perquè hi ha un poder superior que està generant tots aquests problemes així que seguirà amb nosaltres per intentar investigar més aquest tema.
+Orió ens explica que va anar a buscar informació del Clam, el de la missió de la Bara Negre. Diu que havia format part del Guantalet i diu que és dificil de tractar. Va a la seva bola
+Diu que hi ha carracs alts dels Xanathar i possiblament encara alguns ficats dins el Guantalet. Hem d'anar en compte.
+A més a més parla amb Vincent Trench és detectiu del ull del gat, del barri i diu que per un modfic preu ens pot donar un cop de mà.
+
+Després em pregunten per les paraules de la Bara Negre i pel meu no control d'algun encanteri. Són els meus amics, a ells no els puc mentir així que m'obro totalment.
+Explico les 7 vides, fins hi tot l'actual. Jo mateix no n'era concient d'algunes d'aquestes vides fins que la Bara Negre em va dir aquelles paraules. Allà és com si hagués despertat d'un somni molt llarg.
+Sóc en Nim Brancalluminosa i no sé segur lo que sóc. No sóc un mag que controli la màgia però ara em sento molt més despert.
+
+Piquen a la porta. Arriba l'arrogant dels Lords.
+Ens crítica bastant les actuacions que hem tingut.
+Ens amanaça amb lo dels treballs forçats, gràcies ell no els hem hagut de fer.
+Diu que haurem de fer una feina sense cobrar i sense discutir o si no tornarem als treballs forçats.
+Ens diu que hem de matar un tal Harco. Va intentar sobornar un magistrat de la ciutat i encara o havia completat la seva pena i s'ha escapat.
+Corre pels carrers i sembla que està afiliat amb Xanathar.
+
+Rebem una carta de Mhir, diu que passarà per la taverna i parlarem de tot el que vam demanar.
+
+Canvi de look --> Cada vegada surt més l'autèntic Nim.

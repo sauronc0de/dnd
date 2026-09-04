@@ -24,6 +24,7 @@ kanban
 
     a7[Hermia al turó de Waterdeep (Halam)]: Anant en compte amb les paraules i demanar-li sobre la amenaça que està patint la ciutat.
     a8[Daril contactarà amb nosaltres]: Es per quedar amb un dels seus que té una info.
+    a9[Matar un buscat pels Lords]: No cobrarem
   a[⚔ In Progress]
     c1[Necklace]: Fill the necklace with charms related to my 7 lifes
     a1[Undermountain]: Necessitem diners o més poder per anar al undermountain.

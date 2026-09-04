@@ -1,6 +1,8 @@
 {
+  "assetsPath": "assets",
   "name": "Waterdeep",
-  "version": 1,
   "notesPath": "notes",
-  "assetsPath": "assets"
+  "projectId": "b7808dbc-4e3e-4d18-baec-d74f9b2659e2",
+  "schemaVersion": 2,
+  "version": 1
 }

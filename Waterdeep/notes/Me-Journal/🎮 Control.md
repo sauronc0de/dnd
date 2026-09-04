@@ -8,7 +8,7 @@ text("[color=#AAAAAA]HP[/color] ") int(manage_value, "", 80, true) button("Damag
 
 text("[color=#AAAAAA]Rest[/color] ") button("Short Rest", 90, manage_action="short_rest") button("Long Rest", 90, manage_action="long_rest")
 
-text("[color=#AAAAAA]Spell Slot[/color] ") int(slot_level, "Level", 65, true) button("Cast", 90, manage_action="cast")
+text("[color=#AAAAAA]Spell Slot[/color] ") int(slot_level, "Level", 80, true) button("Cast", 40, manage_action="cast")
 if(slot_level > 4){ slot_level = 4 }
 if(slot_level < 0){ slot_level = 0 }
 

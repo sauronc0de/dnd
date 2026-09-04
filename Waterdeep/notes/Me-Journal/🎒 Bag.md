@@ -5,10 +5,10 @@ inventory(inventory_data, "", 244, 7, 3, 70, 320, 0, "")
 ```
 
 ```ui
-cp(0)
-sp(8)
+cp(9)
+sp(12)
 ep(0)
-gp(49)
+gp(78)
 pp(0)
 total_cp(cp + sp * 10 + ep * 50 + gp * 100 + pp * 1000)
 int(cp, "[color=#B87333]Punta[/color]", 80, true)  int(sp, "[color=#C0C0C0] Frag   [/color]", 80, true) 

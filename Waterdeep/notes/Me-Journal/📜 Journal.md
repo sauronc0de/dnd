@@ -448,3 +448,71 @@ Torna a canviar de tema i es dirigeix a mi:
 Realment conexiers el teu poder? Crec que el que hauries de fer és deixar-te d'enganyar a tu i els teus companys. Hauries de ser honest amb qui ets i el què ets.
 
 Després a en Gaudenci: Molt arriscat el que vas decidir, però buen tu sabràs el que fas...
+
+ # Sessió 7
+
+Ens trobem fora de la torre de la Bara Negre.
+Anem cap a casa i veiem tot de persones sortint de treballar a la nostre taverna. Les obres han començat!
+En Josefí ens explica que estan creixent unes herbes del infern a les seves terres.
+Parlem amb en Gustav i li demanem algunes parets secretes per amagar coses. Una a les botes a baix i jo a la meva habitació.
+A més a més retallarem una sala vip per afegir un consultori arcà.
+
+En Josefí ens explica: Ens vam trobar dos gats al carrer i un li va dir a l'altre. Sóc un enviat d'en Melanor i necessitem la vostre ajuda. 
+S'ha d'anar a Palcon Mere. Vol que anem a Undercliff que són terres molt extenses que envolten Waterdeep.
+Ens hauriem de dividir perquè encara no hem acabat la decana a protegir els escombraries.
+Decidim parlar amb el que ens va donar la missió dels escombriaires per convencel de que demà seria millor no anar-hi ja que hem creat una mica de rebonvori i volem calmar les aigues.
+Paguem 1co per anar al Portal Bostezante.
+Un cop a dins altre vegada quedo atret pel pou. Tots els meus sentits clevats en ell.
+Apereixen del pou dos amb una gavia tapada amb una manta. 
+Jo noto que la presencia del pou m'està afectant moltisim i no ho puc controlar així que surt de mi una rafaga d'aire molt forta que empeny a tothom.
+Això fa que la gavia caigui i surti un minidrac que s'escapa. Es comunica amb mi i diu que l'ajudi, que vol fugir d'aquests caçadors fortius.
+Jo obro la finestre amb predigistation i li dic que fugir per la finestra. 
+Els caçadors diuen que qui capturi la criatura guanyarà 3 d'or i es genera el caos. La gent borratxa es comença a pagar.
+Finament el drac va sota la taula i jo faig un ancanteri per fer creure a tothom que surt per la finestra, faig veure que m'entravanco i em fico sota la taula.
+Allà li dic que es fiqui a la meva bossa i després de dir que jo faig olor a casa seva es fica a dins. [color=#FF9933]+1 Inspiració Heroica[/color]
+En Durnan fica la seva espasa amb flames amb un so que impacta a tothom i diu que ja n'hi ha prou, que si algú té ganes de brega que s'enfronti amb ell.
+La gent atura els cops i fa fora els dos caçadors.
+Anem a parlar amb en Daril.
+Diu que està molt content amb nosaltres i ens dóna una bosseta cadascú de 25 d'or. Ens dóna més del que ens va prometre.
+La Yagra em tira la canya perquè sap que vaig ser jo qui va fer el cop de gràcia en el matar elfs.
+Molt nerviós li responc com puc. Diu que em convida un dia a unes birres. Se'm tornen els cabells de colors.
+
+En Daril diu que té un altre missió per nosaltres: Diu que ja ens dirà el què.
+Ens assentem a taula a sopar i demanem carn i beure. Ens cobren 7 de coure cadascú.
+A la que ens porten menjar li dóno carn al drac discretament.
+
+El dels Lords diu que o anem amb els escombriaires o haurem trencat la nostre paraula.
+
+Apreto en Josefí perquè ens digui qui s'ha d'ajudar.
+Treballen per l'enclave esmeralda i treballen per la natura i defensar l'equilibri de forces domins, monstres d'altres plans, ... Busquen la natura l'equilibri.
+Druides, exploradors, boscos, ...
+
+Arribem a casa i parlo amb el drac, diu que recorda un blau profund i que desorés va sobreviure per allà durant anys fins que el van captura.
+Demana si pot està amb mi fins que patates.
+Anem amb els escombriaires i Bjurwen vol executar un pla.
+Ell convens perquè ens enviin a ajudar els escombriaires de Falconmer.
+Un cop allà parlem amb Melanor Felbranch.
+Ens diu que unes granges allunyades de Waterdeep comenten que estan sent atacades per uns espanta-ocells demoniac que estan atacant bestia i agricultors i pagesos.
+No parlem de llops o animals si no que un mal fosc i de les tenebres clarament no natural està fent els atacs.
+Prop d'on vivia Josefí Vell Anur. Diu que és la granja de Tenser. Diu que van limitats d'efectius al enclave esmeralda i necessiten algú de confiança que investigui el que està passant.
+Agafem el carruatge i anem durant 10h fins a la zona dels atacs. Arribem que s'està ponen el Sol.
+
+Jo sóc en Tensen i aquesta és la meva família. Sisplau, portem dues de cada 3 nits que ens ataquen aquests essers malignes. Un dels meu fills ja l'han ferit. (Fill amb el braç envenat).
+De cop durant la nit apereixen aquests éssers.
+Parlo amb en **Mata-cabres** el meu nou company i anem cap allà.
+
+Matem a dos espanta ocells i seguim el raster cap a la excasa d'en Josefí.
+A la que arribem allà Josefí mata un humà envestint-lo amb els ullals i entrem a dins la casa on, ràpidament, acabem amb un altre. 
+Josefí en forma sanlgà està totalment encegat i seguim fins la cuina.
+Trobo un endromina que també em genera la conexió de blau profund. És un cub estrany. ([color=#FF9933]Added andromina Cub[/color])
+Trobo un mapa de Waterdeep on hi ha marcat la Ciutat dels morts, i dins d'aquesta hi ha una zona marcada que posa Cripta Brandath. 
+Guardo el mapa a la bossa ([color=#FF9933]Added Map[/color])
+I dins d'un calaix trobo les mateies arrels que em vist abans amb els espantaocells.
+A l'útima habitació ens trobem un ritual i un dimoni molt gros amb el que suposem que és la líder que diu que  a la ciutat tenen feina i se'n van.
+[color=#FF0000]Gasto inspiració heroica[/color]. 
+
+Un dels dimonis m'ataca i caic inconscient. ([color=#FF0000]+1 Exahust level[/color])
+En Josefí em cura i torno a ser concsient.
+Els companys m'expliquen que troben uns escrits amb les paraules: Neverenguer i Golor. Han fet servir un encanteri per tenir informació sobre alguna cosa.
+Escrit: Fent vigilància del Gremi dels Xhanatars i diuen que han fet un descobriment: Uns matons dels Xanathar tenen una guarida que l'anomena Terase State. 
+Un altre nota amb paper del bo i bona lletra: Assegureu-vos bé que la collita sigui prospera i que ningú s'hi fiqui pel mig. Si necessiteu materials no se que bla bla la collita.

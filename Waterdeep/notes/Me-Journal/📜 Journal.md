@@ -647,3 +647,72 @@ Corre pels carrers i sembla que està afiliat amb Xanathar.
 Rebem una carta de Mhir, diu que passarà per la taverna i parlarem de tot el que vam demanar.
 
 Canvi de look --> Cada vegada surt més l'autèntic Nim.
+
+# Sessió 9 - OFFROLL
+
+Al arrencar el dia 14 de Chest, el dia següent dels fets a ultima hora de la nit amb Jalaster, es presenta Mirt a la mansió, juntament amb un altre home, que es presenta com a Zeno. Mirt ofereix una missió a la resta del grup per tal de recuperar un objecte valiós per ella, Zeno els ajudarà. Per vosaltres comenta tenir una cosa en ment.
+
+La resta de grup marxa i us quedeu amb Mirt a la sala de la taverna, encara no han arribat els jornalers per les reformes, el noble grassonet us torna a fer l’oferiment per ser Arpistes, ho fa de manera insistent ja que l’hi agradaria comptar amb vosaltres en les vostres files. 
+
+També em respon les preguntes que li vaig fer:
+> 
+> 1.Que hi ha al primer nivell?
+> Aquest és el més accessible jove gnom, per tant, t’aconsello que hi entris amb or per poder sobornar a un que altre grupet que s’ha instal·lat per les sales més accessibles.
+> 
+> 2.Què mata més rapid? Monstres, trampes, artefactes o coses estranyes?
+> Les males decisions i la precipitació, millor prepara’t bé abans d’accedir a Undermountain.
+> 
+> 3.Hi ha zones amb màgia blava, roques fregant o objectes estranys?
+> No sé massa de que em parles… Màgia blava? Roques fregant? Si que són coses especifiques? Tens informació privilegiada o busques algo en concret petit? 
+> 
+> 4.Has vist aquest simbol? 
+> No em sona de res. Ets sospitós petit gnom, tens informació molt estranya.
+> 
+> 5.Pregunta sobre el somni sense donar massa informació.
+> El que descrius és Skullport i no hauries de tenir aquesta informació (mirada molest i algo desafiant)
+> 
+> 6.Demana per mapes i quan valdria un mapa fiable de Undermountain.
+> Si pagues bé, en el mercat negre podries trobar alguna part del nivell 1 o 2 de mapa, però fiable? qui sap… Jo no et puc ajudar.
+> 
+> Hauries vist com al llarg de la conversa s'ha sentit incomodat per les teves preguntes, sobretot en les que semblava que tenies informació més especifica. Al maxar hauries pogut veure com et seguia amb la mirada i una cara algo desafiant.
+> 1. Desconec el teu lligam amb ell jove gnom, per casualitat hi tens algun vincle? Has estat allà? Segur si així fos tindries una altre mirada... Només et diré que arrisquis la teva sort quan realment et sentis preparat i confiat. Primer prepara el teu cos i ment, després busca respostes a l'Undermountain.
+> 2. Nihilor? No he escoltat aquest nom.
+> 3. Un arpista és algú que lluita contra la tirania, que busca preservar el coneixament i que defena l'equilibri entre la civilització. Algú que busca defensar l'indefens i que creu en el poder i el valor de la informació com a arma. Algú que creu que el poder absolut corrompeix, i en contrapartida enten que són els petits actes cotidians de la gent comú que menten a ratlla la obscuritat, petits actes de bondat i amor.
+
+
+Acceptem la missió i amb enginy aconseguim treure informació:
+Maxeene us explica que ha portat a un elf solar i una semiorca al Portal Bostezante, aquests parlaven de estrenyer la investigació sobre aquest tal Caratrencada del Xanathar 
+per tal d’ajudar als seus nous col·laboradors. Per altre banda comenta haver portat un parell de persones que parlaven sobre el conflicte entre Zhents i Xanathar, comenten que tota aquesta escalada de violencia té origen en un pacte que els Zhentarims van oferir al Xanathar, i que aquest va descartar, robant en aquesta negociació algo important a l’altre organització.
+
+Cap al vespre us trobeu amb Mirt al Portal Bostezante, aquest després d’escoltar la informació que heu aconseguit us recompensa amb 50 d'or a cadascú, us convida a un parell de pintes i us mig obliga a escoltar les seves batelletes de quan hora jove i intrepid. Un cop finalitza la vetllada, us escriu una direcció:
+-Vila Urbinter, carrer Delzorin (Districte del Nord)
+Us comenta que en aquesta hi viu Remalia Haventree, una membre important dels Arpistes. Us insta també a fer-li una visita per presentar-vos i per transmetre també la informació que teniu. Per últim també uns dona la recomenació de donar una bona imatge i modals, és una elfa noble i personalitat dins l'organització i ciutat.
+
+## Dia lliure - En Nim i la Bara Negra
+
+Durant el dia lliure, en Nim decideix informar-se millor sobre la Bara Negra abans de tornar-hi a parlar. No vol entregar-se a cap facció només per necessitat ni per treure'n profit; si algun dia pertany a alguna cosa, ha de ser perquè sent que aquell lloc l'entén i el completa.
+
+Primer pregunta a diverses persones que poden tenir visions diferents de la Bara Negra:
+
+- **Xoblob**, per saber si la veu com algú que ajuda els mags estranys o com algú que els tanca dins una capsa.
+- **Mirt / Arpistes**, per entendre si la Bara Negra protegeix realment Waterdeep o si sobretot protegeix el poder de Waterdeep.
+- **Richtal el Pasapàgines**, amb preguntes indirectes i amb tacte, ja que forma part de l'organització màgica de la ciutat. En Nim intenta entendre com funcionen realment: si són ajuda, vigilància, control, tutela o una mica de tot.
+
+En Nim fa aquestes preguntes amb enginy i sense exposar-se més del compte. Vol arribar davant la Bara Negra sabent si parla amb una possible guia, una autoritat perillosa o totes dues coses alhora.
+
+Després va a veure la **Bara Negra** amb l'excusa oficial de demanar informació i permisos per obrir el seu **consultori arcà** a la taverna. En Nim no hi va com algú completament transformat ni segur de si mateix. Les seves paraules li van fer fer un clic, i el canvi de look mostra que comença a deixar caure la disfressa de mag superestudiós i sofisticat, però l'autoengany de tants anys no desapareix d'un dia per l'altre.
+
+Un cop tractat el tema del consultori, intenta parlar-li amb més honestedat que abans, però encara amb dubtes i certa incomoditat. Li diu que ja no està segur de ser el mag que fingia ser, que la seva màgia no funciona com ell explicava i que hi ha coses dins seu que no sap ordenar. Sent el vincle amb Waterdeep, amb Undermountain i amb aquella màgia estranya que el crida, però no sap si això és una pista, una condemna o una part real d'ell.
+
+No li demana una resposta absoluta ni una solució màgica. Li demana si pot orientar-lo, donar-li algun consell o ajudar-lo a entendre per on començar. En Nim encara no sap exactament què busca; només sap que ja no pot continuar fent veure que tot està sota control.
+
+També intenta preguntar-li, de manera indirecta i una mica vulnerable, si el que va veure en ell li fa por o si el considera perillós. No ho formula com algú que exigeix ser acceptat, sinó com algú que necessita saber si la primera persona poderosa que l'ha mirat de veritat hi ha vist una amenaça, un monstre... o alguna cosa que encara es pot entendre.
+
+Si la Bara Negra li ofereix formar part d'alguna cosa, en Nim no acceptarà automàticament. Ho decidirà segons el que hagi descobert abans sobre ella i sobre la seva organització, i sobretot segons com el faci sentir aquella conversa.
+
+Pel que fa als **Arpistes**, en Nim els deixa clar que vol treballar estretament amb ells perquè vol el bé per la ciutat i pel món, però que de moment no vol comprometre's a res més profund. Encara no vol jurar lleialtat a cap facció.
+
+Frase possible d'en Nim:
+> No busco una bandera per deixar de sentir-me orfe. Busco saber si existeix algun lloc on el que sóc no sigui només una eina, una amenaça o una mentida.
+
+

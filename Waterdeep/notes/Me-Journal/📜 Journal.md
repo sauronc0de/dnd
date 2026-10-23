@@ -712,7 +712,176 @@ Si la Bara Negra li ofereix formar part d'alguna cosa, en Nim no acceptarà auto
 
 Pel que fa als **Arpistes**, en Nim els deixa clar que vol treballar estretament amb ells perquè vol el bé per la ciutat i pel món, però que de moment no vol comprometre's a res més profund. Encara no vol jurar lleialtat a cap facció.
 
+Durant aquest dia lliure, en Nim també passa una estona amb **Mata-cabres** i els objectes que han ressonat amb Undermountain: la caixa de música, el miniventilador, el cub estrany, el collaret d'anelles buides, el mocador lila de Xoblob i el grimori amb el símbol del somni. No intenta fer cap gran ritual; només els posa junts, observa si vibren, sonen, canvien o si Mata-cabres reconeix alguna olor o sensació de "casa".
+
+En Nim parla amb ell sobre el blau profund, sobre què recorda d'abans que el capturessin i sobre per què li va semblar que en Nim feia olor de casa seva. Si Mata-cabres li demana sortir una estona fora de la ciutat per poder volar lliurement, en Nim l'acompanya fins a un lloc segur als afores i el deixa volar una mica, sense gàbies ni caçadors.
+
 Frase possible d'en Nim:
 > No busco una bandera per deixar de sentir-me orfe. Busco saber si existeix algun lloc on el que sóc no sigui només una eina, una amenaça o una mentida.
 
+# Sessió 10
 
+## Resum DM
+Dawul Neverenguer domina dues ciutats durant un temps i fa augmenta els impostos amb l'excusa de proteigir les ciutats i tal. 
+Després hi ha una crisi forta i amb la crispació dels ciutadans hi tot el fan fora i hi posen la Silverhand.
+
+Després ell se'n va a Neverwinter on segueix governant i comencen apereixer rumors negatius d'ell.
+
+Després nosaltres vam arribar a la ciutat. 
+Ens trobem en una situació pracària i coincidim fins a fer el grupet.
+Ens surt una oportunitat amb en Bolo per rescatar Floom i ens trobem al mig de la guerra entre Xanathar i Zentharim. 
+...
+I aquí ens trobem, muntant una taverna i sent mig coneguts a la ciutat. Una ciutat que no està vivint una situació tensa degut a les dues faccions enfrontades. 
+La gent confia bastant amb nosaltres i tenen una bona imatge del que fem.
+Varies faccions s'han acostat a nosaltres i ens han fet propostes. La majoria del gruo ja pertany a alguna, en Nim de moment encara és una ànima lliure.
+
+---
+# Sessió 11
+Ens trobem tots a la taverna del Bostezante. Estem parlant amb Mir quan de sobte apereixen els 3 companys de faltaven. 
+Entreguen una estatua a Mhir i aquest marxa.
+Estem molt cansats i fa 2 dies que no dormim així que anem a descansar.
+Ens llevem al matí per gestionar temes de la taverna.
+Jo proposo la beguda de Xoblob.
+Decidim els nous membres per treballar a la taverna.
+Els costos fixos de la taverna són 100 d'or de personal i material i 20 de taxes del gremi de tavernes.
+
+El dia 9 hi ha una festivitat que es celebra el Dia Fèric perquè es considera que és el dia l'any que les dimensions amb el món fèric estan més connectades. 
+Tothom va de verd i hi ha rues i coses. 
+
+Rollejant dia lliure:
+Bara negra és la bara que porten que havia se't d'un tio molt especial, un mag potent. 
+És la persona més jove en ser anomenada Bara Negra.
+Es diu que no és la maga més poderosa de la ciutat però si la que té més llibertat júridica per actuar.
+Les mans grises: 
+- Són coses per protegir i ajudar la ciutat. 
+- Quan s'ha de fer alguna cosa especial que no poden fer els guardies de la ciutat doncs ho fan ells. Quan algú de les mans grises d'espunta molt passar a ser dels següents.
+- Dins d'aquesta hi ha la força gris que aquests sí són els vengadores. Els més top i potents de tots que quan se'ls crida surten a solucionar les coses. 
+- Però no hi treballen de manera activa, si no que participen quan se'ls requereix.
+- S'identifiquen molt amb la ciutat estima la ciutat i són molt de Waterdeep.
+
+Vaig a l'edifici de la bara negra per demanar permisos per obrir el consultori però sembla que serà lent i car. De moment hem arrencat els tramits.
+ Estudiant els objectes noto que estan sintonitzats amb mi. Els dos que ja tinc crec que els podria arribar activar com es va activar aquell altre. 
+Però fa una mica de respecta perquè no tinc clar com reaccionarant. 
+Parlo amb en Mata-cabres i diu que ell viu en un altre pla d'existència i que no pot tornar a casa. 
+Va apereixer i no sap perquè ni com en aquelles estancies però que mentres no hagi de tornar allà li sembla bé seguir amb nosaltres.
+Li dóno menjar i dormim junts i el deixo ficar-se sota el llençol.
+No li agrada la violencia i és molt poruc. No ens ajudarà en combat però pot ajudar per altres coses. 
+
+Pendent per en Nim: les **Mans Grises** i la **Força Gris** li han quedat al cap. No com una facció qualsevol, sinó com una possible manera de ser reconegut per Waterdeep. Si algun dia la Bara Negra el selecciona, potser voldrà dir que la ciutat que el fa sentir especial també l'accepta com algú capaç de protegir-la.
+Potser la ciutat ha acceptat a Nim abans que ell mateix.
+
+Per la ciutat volten com uns humanoides com robotics de coure molt llempants i la gent en parla molt.
+
+En Bjurgen m'exploca que Mhir els va donar una missió d'anar a busca una estatua. Van anar amb un company seu que era una mica capullo.
+Van trobar un carrer sense final, parets que pots entrar però no sortir, sense finestres. És una experiència inoblidable. 
+La gent deixa objectes màgics per allà i passen coses molt màgiques. I hi ha un llibre que si escius no se que no se que. 
+Qui ho va crear és el mag Keiler.
+
+Mentre seguim fent embotit amb pa amb tomaquet i formatge i posant-nos el dia de les missions actuals ens piquen la porta. 
+Sen's presenta un tio que es fa dir Capita Zardoz Zord. Ve a fer negocis amb poca roba i una gavardina.
+Té el negoci de la fira de les sirenes. Estan ancorats al port. Ells ofereixen espectacle. 
+Em dona la sensació que amaga alguna cosa així que li intento entrar a la ment. 
+Em pilla i diu, vaja si no ho voleu fer per les bones ho haurem de fer per les males. 
+Es treu el barret i li canvia totalment el rostre. És un drow.
+Resulta que en Gaudenci el coneix li diu Jarlaxle Baenre (Líder dels Bregan'aerth, gent molt xunga segons Gaudenci), li parla pel seu nom i li diu que el perdoni, que farà tot el que ens demani.
+En Bjurgen l'amanaça i i l'altre diu que es relaxi. Que hi ha situacions que és millor calla i fer el que et diuen com en Gaudenci.
+La cosa es complica bastant però bàsicament ens diu que vam matar un dels seus i ara ell vol alguna cosa a canvi.
+Diu que anem a la editorial de C: Immar amb Cemental, Districte del Nort. Que es diu Waterdeep al descobert i li hem de fer arribar una premicia que porta ell a sobra. 
+Li hem de deixar allà i ja està. Segur que estarà encantat de públicar-ho.
+Té una soberbia brutal, i després de amanaçar-nos de manera passiu agressiu i amb molta contandendenia.
+Sembla que ho sap tot de nosaltres.
+Deixa clar que hem de seguir amb la farsa del Capità i la fira de les Sirenes.
+ 
+Quan marxa llegim l'article: 
+> Destapa que hi ha families nobles que fan adoracions a diables, hi ha un culte d'això amb orgies, negocis a porta tancada i preten remoure l'estabilitat de la ciutat. 
+> Ataca molt a la gent noble.
+
+
+En Gaudenci ens parla d'aquest individu: 
+> Suposo que heu sentit a parlar dels molt temibles Drow. Són una colla de males persones, adoradors de Dros? i malgrat Jarlaxle no és dels pitjors ell també és així.
+> Hi ha un grup de Drows que són extramadament perillosos. El que digui "GreenAndTheAirs" el grup aquest, hem de fer el que diguin i prou.
+> Vaig prendre algunes males decisions que van fer que m'acavesin relacionant amb ells i que em passes tot el que em va passar. 
+> Per tant, l'únic que hem de fer és complir amb tot el que diu i intentar caure-li amb simpatia. Si no estem perduts.
+
+---
+
+No dormim gaire però ens despertem a la sortida del sol. Josefí ja ha portat l'article a la editorial.
+Agafem un carruatge i anem fins el peu del turó de Waterdeep. Ens posem a caminar el primer tram.
+Em costa molt pujar i [color=#FF9933] +1 Exhaust[/color]
+Al arribar a dalt veiem una cova i entrem. 
+Apereix un ancià i ens pregunta què fem allà.
+Realment era bastant imbècil com deien. 
+I finalment ens diu:
+> El bessó de les ombres s'amaga sota un rostre aliè. Empenyent peos mentre ell romana en silenci. 
+> No és l'únic monstre en aquest tauler però és l'únic que camina sense deixar petjada fins que colpeja. 
+
+Fi sessió!
+
+# Sessió 12
+
+És dia 16 de Chest, 18:00.
+Anem a veure la Bara negra i li expliquem el missatge del boig de la muntanya. No en treiem aigua clara. Divaguem cap a aquí i cap allà però no surt res interessant.
+Ella no es creu lo del tresor de Neverenguer justificant que si tingués diners se'ls hagués emportat.
+Just abans de marxar li faig un message per dir-li "molt alerta amb les sirenes, no són lo que semblen".
+
+Anem cap el portal badallant. 
+En Josefí va a parlar amb en Bolo. Torna amb un somriure.
+En Bjurwen va a jugar a una timba de poker.
+Després de sopar anem a veure en Davil.
+La semiorca em fot una catxeta al cul i jo continuo com si res.
+La cripta de Brandaz era el nom de la mare de Rayaner Neverenguer. 
+També té informació d'en cara trencada. Ens diu per la casa on es mou.
+S'ha de picar 5 cops a la porta i pronunciar la frase: "He escoltat que la mà vermella estava calenta".
+A partir d'aquí ens recomana cautela.
+Orió ja havia estat allà amb els de l"ordre del Guantalet. 
+Skimo whirlbottle és el mag dels tomriders, els amics d'en Bjurgen. Està en una botiga de beuratge al destricte comercial. 
+Necessita que l'ajudem a portar una mercaderia que per ells és important.
+Anem a dormir!!
+
+---
+
+Dia 17 de Chest 
+
+- Contactem per paper màgic amb Neverenguer. Li diem que el volem veure. 
+- Saludem a Gustav que estan treballant a tope per acabar a temps les obres. Se'l veu bastant cremat. 
+- Agafem un carruatge per anar cap al districte comercial. Allà veiem el diari amb l'editorial: Waterdeep al descobert que ja han públicat l'escrit. 
+
+Entrem a la botiga del Skimo, l'amic d'en Davil. Veiem tot de beuratges curiosos.
+Ens atent fregant-se les mans i ens dóna la benvinguda.
+S'ha d'anar a la estatua del Atrapadeus i deixar la mercancia allà. 
+El pagament ja està fet però pot ser que ens donin propina.
+Anem amb un carruatge pijo pagat per Bjurwen fins a casa. Deixem la caixa al meu amagatall de l'habitació.
+Anem a veure l'amiga de Mhir. Senyora Heventree.
+Ens surt una elfa milf gotica. En Gaudenci es posa caxondu.
+Ens saluda amb una veu dolça (Tot lo que ha pogut el DM) i ens convida a fer el te amb pastetes. 
+Ens agraeix tot el que hem fet per ajudar a l'organització.
+Investigar sobra la organització dels Zentharim i els seus objectius. I els conflictes amb els Xanathar.
+Gaudenci explica lo que vam descrobrir d'aquesta escalada de violencia. Sobre aquest objecte que es va robar d'uns a altres.
+Comenta també els problemes que hi ha hagut amb alguns de la noblesa, comentem la news del diari.
+Ella ens diu alguns nomes de famílies nobles: BLA BLA, BLU BLU, BLI BLI.
+La relació amb aquestes famílies és bruta i a vegades inoble.
+Si necessitem un recurs de caire màgic li demanem.
+Marxem i tornem a casa a esperar en Neverenguer.
+Li expliquem tot el que sabem referent al culta i les paraules que vam trobar del seu nom.
+Ens diu que el collaret que li van robar li va donar el seu pare en memòria a la seva mare.
+Anem cap a la ciutat dels morts.
+És una zona verda molt maca per passejar.
+Ens explica que ell també ha estat investigar i que creu que el seu pare ha enviat a algú per alguna cosa a la ciutat i creu que està lligat a tot aquest tema.
+Ell està investigant això.
+També ens explica: Lady Alacea Branda va morir quan ell era més jove però que en aquell temps havia se't molt important. Ara amb el pas del temps ja no ho és tant.
+Passem pel costat d'un arbre gegant i ens indica que és un Zauseboxeador. Es saluden amb en Neverenguer.
+Accedim en un recinte on hi ha uns quants edificis. 5  amb un el centre que és el més gran.
+L'últim és el més nou però amb més mal estat.
+Arribem a la tomba de la seva mare.
+Uld Branda. Una gargola de pedra va caure del edifici gros sobra les tombes.
+A la que ens acostuem apereixen un aixam de mans que caminen i ens volen atacar.
+
+Faig un combat espectacular deixant alliberar la meva màgia interna durant tot el combat. La pròpia màgia acabava defensantme dels atacs d'un escalet mutant.
+Finalment m'explota el caos del interior destruint l'enemic.
+L'alliberació de la màgia m'ha donat una certa confiança i satisfacció.
+Per alguna raó estranya Orió troba una diadema temible i espantosa. Jo insisteixo que la llenci però ell no em fa cas. 
+[color=#FF9933]Inspiració Heroica[/color]
+Seguim inspeccionant per la zona i finalment anem al de la mare d'en Rayinar Neverenguer. 
+A l'entrada posa Lord Andy Branda. Allà hi van enterra un altre avantpassat i més tard la seva mare.
+Entrem i veiem una petita sala. Allà hi ha un sercofeg amb molts bons materials i sobra unes flors pensides i es veu la tapa de pedra amb la cara esculpida. 
+"La ballesa de la nostra època, en la mort, es vigilada pels esperits dels seus avant passats"
